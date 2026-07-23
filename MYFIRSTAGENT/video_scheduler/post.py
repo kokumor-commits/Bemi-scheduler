@@ -7,22 +7,26 @@ import os, time, httpx
 from typing import Optional
 
 # ── Meta: Facebook, Instagram, Threads ───────────────────────────────────────
-META_TOKEN   = os.environ["META_PAGE_TOKEN"]
-FB_PAGE_ID   = os.environ["FB_PAGE_ID"]
-IG_ACCT_ID   = os.environ["IG_ACCOUNT_ID"]
-TH_USER_ID   = os.environ["THREADS_USER_ID"]
-THREADS_TOKEN = os.environ.get("THREADS_TOKEN", os.environ.get("META_PAGE_TOKEN", ""))
+META_TOKEN    = os.environ.get("META_PAGE_TOKEN", "")
+FB_PAGE_ID    = os.environ.get("FB_PAGE_ID", "")
+IG_ACCT_ID    = os.environ.get("IG_ACCOUNT_ID", "")
+TH_USER_ID    = os.environ.get("THREADS_USER_ID", "")
+THREADS_TOKEN = os.environ.get("THREADS_TOKEN", META_TOKEN)
 
 # ── YouTube ───────────────────────────────────────────────────────────────────
-YT_CLIENT_ID     = os.environ["YT_CLIENT_ID"]
-YT_CLIENT_SECRET = os.environ["YT_CLIENT_SECRET"]
-YT_REFRESH_TOKEN = os.environ["YT_REFRESH_TOKEN"]
+YT_CLIENT_ID     = os.environ.get("YT_CLIENT_ID", "")
+YT_CLIENT_SECRET = os.environ.get("YT_CLIENT_SECRET", "")
+YT_REFRESH_TOKEN = os.environ.get("YT_REFRESH_TOKEN", "")
 
 # ── TikTok ───────────────────────────────────────────────────────────────────
-TK_ACCESS_TOKEN  = os.environ["TIKTOK_ACCESS_TOKEN"]
+TK_ACCESS_TOKEN  = os.environ.get("TIKTOK_ACCESS_TOKEN", "")
 TK_REFRESH_TOKEN = os.environ.get("TIKTOK_REFRESH_TOKEN", "")
 TK_CLIENT_KEY    = os.environ.get("TIKTOK_CLIENT_KEY", "")
 TK_CLIENT_SECRET = os.environ.get("TIKTOK_CLIENT_SECRET", "")
+
+
+def _is_placeholder(val: str) -> bool:
+    return not val or val.strip().lower() == "placeholder"
 
 GRAPH = "https://graph.facebook.com/v19.0"
 
@@ -77,6 +81,8 @@ def post_instagram(video_url: str, caption: str) -> dict:
 
 # ── Threads ───────────────────────────────────────────────────────────────────
 def post_threads(video_url: str, caption: str) -> dict:
+    if _is_placeholder(THREADS_TOKEN) or _is_placeholder(TH_USER_ID):
+        raise RuntimeError("THREADS_TOKEN/THREADS_USER_ID not configured — skipping")
     base = "https://graph.threads.net/v1.0"
     caption = caption[:500]
 
@@ -190,6 +196,8 @@ def _tk_token() -> str:
 
 
 def post_tiktok(video_url: str, caption: str, title: Optional[str] = None) -> dict:
+    if _is_placeholder(TK_ACCESS_TOKEN):
+        raise RuntimeError("TIKTOK_ACCESS_TOKEN not configured — skipping")
     token = _tk_token()
     r = httpx.post(
         "https://open.tiktokapis.com/v2/post/publish/video/init/",

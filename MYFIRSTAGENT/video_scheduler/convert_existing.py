@@ -83,7 +83,7 @@ def convert():
 
             entry   = data[key]
             post_id = f"{campaign}_{key.lower()}"
-            done    = post_id in ALREADY_SCHEDULED_IN_BLOTATO
+            done    = any(post_id.startswith(p) for p in ALREADY_SCHEDULED_IN_BLOTATO)
 
             posts.append({
                 "id":            post_id,
