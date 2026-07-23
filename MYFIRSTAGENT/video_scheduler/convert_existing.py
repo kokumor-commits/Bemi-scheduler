@@ -13,6 +13,51 @@ PLATFORMS = ["facebook", "instagram", "youtube", "tiktok", "threads"]
 # ── Campaigns: (json_file, [(key, "2026-MM-DDTHH:MM:SSZ"), ...]) ─────────────
 # All new campaigns: 23:00 UTC = 5 PM CST, one post/day starting Aug 12
 CAMPAIGNS = [
+    # ── Comeback Season — 5 PM CST = 23:00 UTC — Jul 24-Aug 12 ──────────────
+    (
+        "comeback_urls.json",
+        [
+            ("Reel01_ComebackStartsToday",      "2026-07-24T23:00:00Z"),
+            ("Reel02_NotStartingOver",           "2026-07-25T23:00:00Z"),
+            ("Reel03_StopWaitingReady",          "2026-07-26T23:00:00Z"),
+            ("Reel04_OneDecision",               "2026-07-27T23:00:00Z"),
+            ("Reel05_PainHasPurpose",            "2026-07-28T23:00:00Z"),
+            ("Reel06_ProtectYourMind",           "2026-07-29T23:00:00Z"),
+            ("Reel07_StopComparing",             "2026-07-30T23:00:00Z"),
+            ("Reel08_DisciplineBeatsMotivation", "2026-07-31T23:00:00Z"),
+            ("Reel09_StoryNotFinished",          "2026-08-01T23:00:00Z"),
+            ("Reel10_FailureIsntFinal",          "2026-08-02T23:00:00Z"),
+            ("Reel11_SmallWins",                 "2026-08-03T23:00:00Z"),
+            ("Reel12_MindBelievesWhatYouRepeat", "2026-08-04T23:00:00Z"),
+            ("Reel13_StopAutopilot",             "2026-08-05T23:00:00Z"),
+            ("Reel14_DontNeedEveryone",          "2026-08-06T23:00:00Z"),
+            ("Reel15_KeepGoing",                 "2026-08-07T23:00:00Z"),
+            ("Reel16_BuildDaily",                "2026-08-08T23:00:00Z"),
+            ("Reel17_LetGo",                     "2026-08-09T23:00:00Z"),
+            ("Reel18_ChooseProgress",            "2026-08-10T23:00:00Z"),
+            ("Reel19_BecomeWhoYouAdmire",        "2026-08-11T23:00:00Z"),
+            ("Reel20_MirrorTest",                "2026-08-12T23:00:00Z"),
+        ],
+    ),
+
+    # ── It Wasn't Love — 1 PM CST = 19:00 UTC — Jul 24-Aug 3 ────────────────
+    (
+        "notwasntlove_urls.json",
+        [
+            ("Reel02_StopExplaining",      "2026-07-24T19:00:00Z"),
+            ("Reel03_GutWasRight",         "2026-07-25T19:00:00Z"),
+            ("Reel04_DidntChangeOvernight","2026-07-26T19:00:00Z"),
+            ("Reel05_DontNeedClosure",     "2026-07-27T19:00:00Z"),
+            ("Reel06_StopChasing",         "2026-07-28T19:00:00Z"),
+            ("Reel07_SilentTreatment",     "2026-07-29T19:00:00Z"),
+            ("Reel08_ReadThisTwice",       "2026-07-30T19:00:00Z"),
+            ("Reel09_Boundaries",          "2026-07-31T19:00:00Z"),
+            ("Reel10_Healing",             "2026-08-01T19:00:00Z"),
+            ("Reel11_RedFlag",             "2026-08-02T19:00:00Z"),
+            ("Reel12_StopSettling",        "2026-08-03T19:00:00Z"),
+        ],
+    ),
+
     # ── One Question — 7:45 PM CST = 01:45 UTC next day ──────────────────────
     (
         "onequestion_urls.json",
@@ -240,12 +285,6 @@ CAMPAIGNS = [
 
 # ── Already-scheduled-in-Blotato (mark done=True to skip) ────────────────────
 ALREADY_SCHEDULED_IN_BLOTATO = {
-    # Comeback 1-20: all scheduled in Blotato
-    "comeback_reel01", "comeback_reel02", "comeback_reel03", "comeback_reel04",
-    "comeback_reel05", "comeback_reel06", "comeback_reel07", "comeback_reel08",
-    "comeback_reel09", "comeback_reel10", "comeback_reel11", "comeback_reel12",
-    "comeback_reel13", "comeback_reel14", "comeback_reel15", "comeback_reel16",
-    "comeback_reel17", "comeback_reel18", "comeback_reel19", "comeback_reel20",
     # One Question 1-10: scheduled in Blotato
     "onequestion_reel01", "onequestion_reel02", "onequestion_reel03",
     "onequestion_reel04", "onequestion_reel05", "onequestion_reel06",
