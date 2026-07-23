@@ -1,0 +1,50 @@
+name: Video Post Scheduler
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # every 15 minutes
+  workflow_dispatch:           # allow manual trigger from GitHub UI
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # needed to commit schedule updates back
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install httpx
+
+      - name: Run scheduler
+        working-directory: video_scheduler
+        env:
+          # Meta (Facebook, Instagram, Threads)
+          META_PAGE_TOKEN:    ${{ secrets.META_PAGE_TOKEN }}
+          FB_PAGE_ID:         ${{ secrets.FB_PAGE_ID }}
+          IG_ACCOUNT_ID:      ${{ secrets.IG_ACCOUNT_ID }}
+          THREADS_USER_ID:    ${{ secrets.THREADS_USER_ID }}
+          THREADS_TOKEN:      ${{ secrets.THREADS_TOKEN }}
+          # YouTube
+          YT_CLIENT_ID:       ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET:   ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN:   ${{ secrets.YT_REFRESH_TOKEN }}
+          # TikTok
+          TIKTOK_ACCESS_TOKEN:  ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+          TIKTOK_CLIENT_KEY:    ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+        run: python run.py
+
+      - name: Commit schedule updates
+        run: |
+          git config user.name "Scheduler Bot"
+          git config user.email "scheduler-bot@noreply"
+          git add video_scheduler/master_schedule.json
+          git diff --staged --quiet || git commit -m "chore: mark posted items done [skip ci]"
+          git push
