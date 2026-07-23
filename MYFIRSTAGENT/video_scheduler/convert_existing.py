@@ -40,10 +40,11 @@ CAMPAIGNS = [
         ],
     ),
 
-    # ── It Wasn't Love — 1 PM CST = 19:00 UTC — Jul 24-Aug 3 ────────────────
+    # ── It Wasn't Love — 1 PM CST = 19:00 UTC — Jul 23-Aug 3 ────────────────
     (
         "notwasntlove_urls.json",
         [
+            ("Reel01_AttentionIsntLove",   "2026-07-23T19:00:00Z"),
             ("Reel02_StopExplaining",      "2026-07-24T19:00:00Z"),
             ("Reel03_GutWasRight",         "2026-07-25T19:00:00Z"),
             ("Reel04_DidntChangeOvernight","2026-07-26T19:00:00Z"),
