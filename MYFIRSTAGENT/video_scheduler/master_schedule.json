@@ -174,7 +174,67 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "4005559793071716"
+        },
+        "instagram": {
+          "id": "18124634101674794"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "_So8tN3lA8sUfaIHoo56VjkxagY",
+          "id": "UUXpWpXTaXg",
+          "snippet": {
+            "publishedAt": "2026-07-23T03:45:27Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Do Your Daily Habits Support Your Dreams Or Just Your Comfort? #Shorts",
+            "description": "Dreams are free. Habits have a cost.\n\nLook at your daily routine.\n\nDoes it support the future you want...\n\nOr the comfort you have today?\n\nSmall habits quietly shape big outcomes.\n\n#HabitsShapeDestiny #DreamBig #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/UUXpWpXTaXg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/UUXpWpXTaXg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/UUXpWpXTaXg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Do Your Daily Habits Support Your Dreams Or Just Your Comfort? #Shorts",
+              "description": "Dreams are free. Habits have a cost.\n\nLook at your daily routine.\n\nDoes it support the future you want...\n\nOr the comfort you have today?\n\nSmall habits quietly shape big outcomes.\n\n#HabitsShapeDestiny #DreamBig #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      }
     },
     {
       "id": "onequestion_reel12_whoinspiresyou",
