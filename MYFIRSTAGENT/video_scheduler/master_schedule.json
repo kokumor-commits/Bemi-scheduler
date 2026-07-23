@@ -334,7 +334,67 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "Client error '400 Bad Request' for url 'https://graph.facebook.com/v19.0/590549717478634/videos'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "instagram": {
+          "error": "Client error '400 Bad Request' for url 'https://graph.facebook.com/v19.0/17841408342691287/media'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "ActJFask8zmMU1ncSqKgmpFyIcI",
+          "id": "XjE3AIcmbvU",
+          "snippet": {
+            "publishedAt": "2026-07-23T23:41:48Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Attention Isn't Love — Stop Confusing Chaos With Connection #Shorts",
+            "description": "Attention isn't love.\n\nAll day texts — isn't respect.\nPassion — isn't peace.\nIntensity — isn't consistency.\n\nReal love is safe.\nReal love is kind.\nReal love is reliable.\n\nStop confusing chaos with connection.\n\nYou deserve stability.\n\nChoose peace.\n\n#AttentionIsntLove #HealingJourney #RealLove",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/XjE3AIcmbvU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/XjE3AIcmbvU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/XjE3AIcmbvU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Attention Isn't Love — Stop Confusing Chaos With Connection #Shorts",
+              "description": "Attention isn't love.\n\nAll day texts — isn't respect.\nPassion — isn't peace.\nIntensity — isn't consistency.\n\nReal love is safe.\nReal love is kind.\nReal love is reliable.\n\nStop confusing chaos with connection.\n\nYou deserve stability.\n\nChoose peace.\n\n#AttentionIsntLove #HealingJourney #RealLove"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      }
     },
     {
       "id": "notwasntlove_reel02_stopexplaining",
