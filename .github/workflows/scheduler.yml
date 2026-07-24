@@ -1,9 +1,10 @@
 name: Video Post Scheduler
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'   # every 15 minutes
-  workflow_dispatch:           # allow manual trigger from GitHub UI
+  # cron disabled — Railway worker handles scheduling (persistent, reliable)
+  # schedule:
+  #   - cron: '*/15 * * * *'
+  workflow_dispatch:           # keep for manual emergency triggers
 
 jobs:
   post:
