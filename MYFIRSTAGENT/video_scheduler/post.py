@@ -46,8 +46,9 @@ def post_facebook(video_url: str, caption: str) -> dict:
         timeout=300,
     )
     if not r.is_success:
-        print(f"  FB error body: {r.text[:1000]}", flush=True)
-    r.raise_for_status()
+        body = r.text[:500]
+        print(f"  FB error body: {body}", flush=True)
+        raise Exception(f"FB {r.status_code}: {body}")
     return r.json()
 
 
@@ -65,8 +66,9 @@ def post_instagram(video_url: str, caption: str) -> dict:
         timeout=180,
     )
     if not r.is_success:
-        print(f"  IG container error: {r.text[:1000]}", flush=True)
-    r.raise_for_status()
+        body = r.text[:500]
+        print(f"  IG container error: {body}", flush=True)
+        raise Exception(f"IG {r.status_code}: {body}")
     creation_id = r.json()["id"]
 
     # Step 2: poll until FINISHED (max 5 min)

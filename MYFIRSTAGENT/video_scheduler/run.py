@@ -47,9 +47,10 @@ def fire_post(post: dict) -> dict:
 
 
 def run():
-    data  = json.loads(SCHEDULE_FILE.read_text(encoding="utf-8"))
-    posts = data["posts"]
-    fired = 0
+    data    = json.loads(SCHEDULE_FILE.read_text(encoding="utf-8"))
+    posts   = data["posts"]
+    fired   = 0
+    changed = False
 
     for post in posts:
         if post.get("done"):
@@ -61,9 +62,10 @@ def run():
         results = fire_post(post)
         successes = [p for p, r in results.items() if "error" not in r]
         failures  = [p for p, r in results.items() if "error" in r]
+        post["results"] = results  # always store — lets us read errors from JSON next git pull
+        changed = True
         if successes:
-            post["done"]    = True
-            post["results"] = results
+            post["done"] = True
             fired += 1
             print(f"  Posted to: {', '.join(successes)}", flush=True)
         else:
@@ -71,8 +73,9 @@ def run():
         if failures:
             print(f"  Failed: {', '.join(failures)}", flush=True)
 
-    if fired:
+    if changed:
         SCHEDULE_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    if fired:
         print(f"\n{fired} post(s) fired. Schedule updated.", flush=True)
     else:
         print("No posts due.", flush=True)
