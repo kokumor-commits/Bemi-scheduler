@@ -334,12 +334,14 @@
       "done": false,
       "results": {
         "facebook": {
-          "error": "FB 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"ApalZZvP2gvFlojRyFm0tt_\"}}"
+          "error": "FB 400: {\"error\":{\"message\":\"An access token is required to request this resource.\",\"type\":\"OAuthException\",\"code\":104,\"fbtrace_id\":\"Ah4XTmobqYfE9tAWX1oUY-H\"}}"
         },
         "instagram": {
-          "error": "IG 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AptOJlY-fRC-FdV6oXuOh-n\"}}"
+          "error": "IG 400: {\"error\":{\"message\":\"Unsupported post request. Object with ID '17841408342691287' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"ABhVmQE3wKaR1E7qxHbI-Mf\"}}"
         }
-      }
+      },
+      "last_retry_at": "2026-07-24T20:03:03Z",
+      "retry_platforms": []
     },
     {
       "id": "notwasntlove_reel02_stopexplaining",
