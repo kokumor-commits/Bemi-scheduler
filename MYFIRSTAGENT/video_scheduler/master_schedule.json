@@ -360,10 +360,10 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"ASiCROvUG19JV50a1yBOcaJ\"}}"
+          "id": "907477655133198"
         },
         "instagram": {
-          "error": "IG 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AY9aITWLNBuI4_n2_jW1zXM\"}}"
+          "id": "18124641217682990"
         },
         "youtube": {
           "kind": "youtube#video",
@@ -418,10 +418,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "retry_platforms": [
-        "facebook",
-        "instagram"
-      ]
+      "last_retry_at": "2026-07-24T20:42:15Z"
     },
     {
       "id": "notwasntlove_reel03_gutwasright",
