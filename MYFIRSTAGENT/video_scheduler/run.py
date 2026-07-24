@@ -59,9 +59,17 @@ def run():
 
         print(f"\n▶ FIRING {post['id']} @ {post['scheduled_utc']}", flush=True)
         results = fire_post(post)
-        post["done"]    = True
-        post["results"] = results
-        fired += 1
+        successes = [p for p, r in results.items() if "error" not in r]
+        failures  = [p for p, r in results.items() if "error" in r]
+        if successes:
+            post["done"]    = True
+            post["results"] = results
+            fired += 1
+            print(f"  Posted to: {', '.join(successes)}", flush=True)
+        else:
+            print(f"  ALL PLATFORMS FAILED — not marking done, will retry next window", flush=True)
+        if failures:
+            print(f"  Failed: {', '.join(failures)}", flush=True)
 
     if fired:
         SCHEDULE_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")

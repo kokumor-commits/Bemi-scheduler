@@ -33,11 +33,20 @@ GRAPH = "https://graph.facebook.com/v19.0"
 
 # ── Facebook ──────────────────────────────────────────────────────────────────
 def post_facebook(video_url: str, caption: str) -> dict:
+    # Download video first — avoids Facebook needing to fetch from R2 directly
+    print(f"  FB: downloading video...", flush=True)
+    vid = httpx.get(video_url, timeout=300, follow_redirects=True)
+    vid.raise_for_status()
+    video_bytes = vid.content
+    print(f"  FB: downloaded {len(video_bytes)//1024}KB, uploading...", flush=True)
     r = httpx.post(
         f"{GRAPH}/{FB_PAGE_ID}/videos",
-        data={"file_url": video_url, "description": caption, "access_token": META_TOKEN},
-        timeout=180,
+        data={"description": caption, "access_token": META_TOKEN},
+        files={"source": ("video.mp4", video_bytes, "video/mp4")},
+        timeout=300,
     )
+    if not r.is_success:
+        print(f"  FB error body: {r.text[:1000]}", flush=True)
     r.raise_for_status()
     return r.json()
 
@@ -55,6 +64,8 @@ def post_instagram(video_url: str, caption: str) -> dict:
         },
         timeout=180,
     )
+    if not r.is_success:
+        print(f"  IG container error: {r.text[:1000]}", flush=True)
     r.raise_for_status()
     creation_id = r.json()["id"]
 
