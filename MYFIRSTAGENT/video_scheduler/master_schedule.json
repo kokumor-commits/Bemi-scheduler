@@ -355,7 +355,67 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"ASiCROvUG19JV50a1yBOcaJ\"}}"
+        },
+        "instagram": {
+          "error": "IG 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AY9aITWLNBuI4_n2_jW1zXM\"}}"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "K7N1zk7ooIjDLAoprdsi6vt3pkA",
+          "id": "ir8w1-BKJw4",
+          "snippet": {
+            "publishedAt": "2026-07-24T18:49:55Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Explaining Yourself To People Who Misunderstand On Purpose #Shorts",
+            "description": "The right people don't need a hundred explanations.\n\nHave you noticed how some people twist everything you say?\n\nYou explain. They argue.\nYou clarify. They change the subject.\nYou defend yourself. They still blame you.\n\nAt some point — you're not having a conversation anymore.\nYou're defending your reality.\n\nNot every misunderstanding needs to be corrected.\nSome people understand perfectly. They just benefit from pretending they don't.\n\nProtect your peace.\n\n#ProtectYourPeace #StopExplaining #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ir8w1-BKJw4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ir8w1-BKJw4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ir8w1-BKJw4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Explaining Yourself To People Who Misunderstand On Purpose #Shorts",
+              "description": "The right people don't need a hundred explanations.\n\nHave you noticed how some people twist everything you say?\n\nYou explain. They argue.\nYou clarify. They change the subject.\nYou defend yourself. They still blame you.\n\nAt some point — you're not having a conversation anymore.\nYou're defending your reality.\n\nNot every misunderstanding needs to be corrected.\nSome people understand perfectly. They just benefit from pretending they don't.\n\nProtect your peace.\n\n#ProtectYourPeace #StopExplaining #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      }
     },
     {
       "id": "notwasntlove_reel03_gutwasright",
