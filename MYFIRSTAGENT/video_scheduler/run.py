@@ -11,7 +11,8 @@ from pathlib import Path
 from post import post_facebook, post_instagram, post_youtube, post_tiktok, post_threads
 
 SCHEDULE_FILE = Path(__file__).parent / "master_schedule.json"
-WINDOW_SEC = 20 * 60  # fire if within ±20 min of scheduled time
+WINDOW_SEC    = 20 * 60   # fire if within ±20 min of scheduled time
+RETRY_COOLDOWN = 60 * 60  # retry failed platforms at most once per hour
 
 
 def is_due(scheduled_utc: str) -> bool:
@@ -22,13 +23,21 @@ def is_due(scheduled_utc: str) -> bool:
 
 
 def needs_retry(post: dict) -> list:
-    """Return list of platforms to retry: either all-failed post OR done post with pending platforms."""
+    """Return platforms to retry, respecting hourly cooldown to avoid hammering APIs."""
+    now = datetime.now(timezone.utc)
+
+    # cooldown check — don't retry more than once per hour
+    last_retry = post.get("last_retry_at")
+    if last_retry:
+        elapsed = (now - datetime.fromisoformat(last_retry.replace("Z", "+00:00"))).total_seconds()
+        if elapsed < RETRY_COOLDOWN:
+            return []
+
     if post.get("done"):
         return post.get("retry_platforms", [])
     results = post.get("results", {})
     if not results:
         return []
-    # all platforms failed — retry all original platforms
     if all("error" in r for r in results.values()):
         return post.get("platforms", [])
     return []
@@ -92,6 +101,7 @@ def run():
         existing = post.get("results", {})
         existing.update(results)
         post["results"] = existing
+        post["last_retry_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         changed = True
 
         if successes:
