@@ -14,7 +14,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "2616292475457074"
+        },
+        "instagram": {
+          "id": "18108461270098914"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "C6hmIBbGbp3TtnNq663TfizVQ1A",
+          "id": "efKt4yZtYsM",
+          "snippet": {
+            "publishedAt": "2026-07-24T22:45:22Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Comeback Starts the Moment You Decide — Not When Life Gets Easier #Shorts",
+            "description": "Your comeback doesn't begin when life gets easier — it begins when you decide.\n\nYou may not control what happened to you.\nBut you control what happens next.\n\nEvery day you spend waiting for the perfect moment is another day your future waits for you.\n\nYour past is a chapter. Not the title of your life.\n\nMake one decision today that your future self will thank you for.\n\n#ComebackSeason #MindsetShift #ChooseGrowth",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/efKt4yZtYsM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/efKt4yZtYsM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/efKt4yZtYsM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Comeback Starts the Moment You Decide — Not When Life Gets Easier #Shorts",
+              "description": "Your comeback doesn't begin when life gets easier — it begins when you decide.\n\nYou may not control what happened to you.\nBut you control what happens next.\n\nEvery day you spend waiting for the perfect moment is another day your future waits for you.\n\nYour past is a chapter. Not the title of your life.\n\nMake one decision today that your future self will thank you for.\n\n#ComebackSeason #MindsetShift #ChooseGrowth"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-24T22:45:24Z"
     },
     {
       "id": "comeback_reel02_notstartingover",
