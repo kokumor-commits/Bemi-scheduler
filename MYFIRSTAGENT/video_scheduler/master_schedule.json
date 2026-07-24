@@ -417,7 +417,11 @@
         "threads": {
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
-      }
+      },
+      "retry_platforms": [
+        "facebook",
+        "instagram"
+      ]
     },
     {
       "id": "notwasntlove_reel03_gutwasright",
