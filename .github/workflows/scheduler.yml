@@ -13,6 +13,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
 
       - uses: actions/setup-python@v5
         with:
@@ -47,4 +50,5 @@ jobs:
           git config user.email "scheduler-bot@noreply"
           git add MYFIRSTAGENT/video_scheduler/master_schedule.json
           git diff --staged --quiet || git commit -m "chore: mark posted items done [skip ci]"
-          git push
+          git pull --rebase origin main
+          git push origin main

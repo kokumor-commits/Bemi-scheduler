@@ -2,8 +2,9 @@
 Scheduler runner — checks master_schedule.json for due posts and fires them.
 Run every 15 min via GitHub Actions cron (or manually).
 Posts within ±20 min of scheduled time are fired.
+Partial-success posts (e.g. YouTube OK, FB fail) track retry_platforms for re-fire.
 """
-import json, sys
+import json
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -20,13 +21,26 @@ def is_due(scheduled_utc: str) -> bool:
     return diff <= WINDOW_SEC
 
 
-def fire_post(post: dict) -> dict:
+def needs_retry(post: dict) -> list:
+    """Return list of platforms to retry: either all-failed post OR done post with pending platforms."""
+    if post.get("done"):
+        return post.get("retry_platforms", [])
+    results = post.get("results", {})
+    if not results:
+        return []
+    # all platforms failed — retry all original platforms
+    if all("error" in r for r in results.values()):
+        return post.get("platforms", [])
+    return []
+
+
+def fire_platforms(post: dict, platforms: list) -> dict:
     url      = post["video_url"]
     caption  = post["caption"]
     yt_title = post.get("yt_title", caption[:100])
     results  = {}
 
-    for platform in post.get("platforms", []):
+    for platform in platforms:
         try:
             if platform == "facebook":
                 results["facebook"] = post_facebook(url, caption)
@@ -53,25 +67,57 @@ def run():
     changed = False
 
     for post in posts:
-        if post.get("done"):
+        retry_platforms = needs_retry(post)
+        due = is_due(post["scheduled_utc"])
+
+        if post.get("done") and not retry_platforms:
             continue
-        if not is_due(post["scheduled_utc"]):
+        if not post.get("done") and not due and not retry_platforms:
             continue
 
-        print(f"\n▶ FIRING {post['id']} @ {post['scheduled_utc']}", flush=True)
-        results = fire_post(post)
+        platforms_to_fire = retry_platforms if retry_platforms else post.get("platforms", [])
+
+        if retry_platforms and post.get("done"):
+            print(f"\n↻ RETRY pending platforms {retry_platforms} for {post['id']}", flush=True)
+        elif retry_platforms and not due:
+            print(f"\n↻ RETRY (prev all-failed) {post['id']}", flush=True)
+        else:
+            print(f"\n▶ FIRING {post['id']} @ {post['scheduled_utc']}", flush=True)
+
+        results = fire_platforms(post, platforms_to_fire)
         successes = [p for p, r in results.items() if "error" not in r]
         failures  = [p for p, r in results.items() if "error" in r]
-        post["results"] = results  # always store — lets us read errors from JSON next git pull
+
+        # merge into existing results (preserve results from prior runs)
+        existing = post.get("results", {})
+        existing.update(results)
+        post["results"] = existing
         changed = True
+
         if successes:
-            post["done"] = True
             fired += 1
             print(f"  Posted to: {', '.join(successes)}", flush=True)
-        else:
-            print(f"  ALL PLATFORMS FAILED — not marking done, will retry next window", flush=True)
+
         if failures:
             print(f"  Failed: {', '.join(failures)}", flush=True)
+
+        # update done + retry_platforms
+        all_platforms = post.get("platforms", [])
+        current_results = post["results"]
+        succeeded_ever = [p for p in all_platforms if p in current_results and "error" not in current_results[p]]
+        still_failing  = [p for p in all_platforms if p not in current_results or "error" in current_results[p]]
+        # exclude "skipped" platforms (placeholder tokens) from retry
+        still_failing  = [p for p in still_failing if "not configured" not in str(current_results.get(p, {}).get("error", ""))]
+
+        post["done"] = len(succeeded_ever) > 0
+        post["retry_platforms"] = still_failing if succeeded_ever and still_failing else []
+
+        if not succeeded_ever:
+            print(f"  ALL PLATFORMS FAILED — will retry every run until token fixed", flush=True)
+        elif still_failing:
+            print(f"  Partial: {', '.join(still_failing)} still pending — will retry", flush=True)
+        else:
+            post.pop("retry_platforms", None)  # clean up when all done
 
     if changed:
         SCHEDULE_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
