@@ -494,7 +494,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "4406401332934251"
+        },
+        "instagram": {
+          "id": "18156349540427960"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "1TJct8JCxPl1ZwhkJziWz5l5hN4",
+          "id": "2j-i2ggpe3I",
+          "snippet": {
+            "publishedAt": "2026-07-25T21:55:05Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Gut Was Right — Stop Confusing Hope With Evidence #Shorts",
+            "description": "You ignored your intuition because you wanted the relationship to work.\n\nYour intuition whispered: 'This doesn't feel right.'\nYour heart replied: 'Maybe I'm overthinking.'\n\nMonths later — you realized your intuition noticed what your hope refused to accept.\n\nNever confuse hope with evidence.\n\nYour peace begins when your standards become stronger than your loneliness.\n\n#TrustYourGut #Intuition #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/2j-i2ggpe3I/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/2j-i2ggpe3I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/2j-i2ggpe3I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Gut Was Right — Stop Confusing Hope With Evidence #Shorts",
+              "description": "You ignored your intuition because you wanted the relationship to work.\n\nYour intuition whispered: 'This doesn't feel right.'\nYour heart replied: 'Maybe I'm overthinking.'\n\nMonths later — you realized your intuition noticed what your hope refused to accept.\n\nNever confuse hope with evidence.\n\nYour peace begins when your standards become stronger than your loneliness.\n\n#TrustYourGut #Intuition #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-25T21:55:07Z"
     },
     {
       "id": "notwasntlove_reel04_didntchangeovernight",
