@@ -1035,7 +1035,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1029811982993079"
+        },
+        "instagram": {
+          "id": "17952374760011603"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "rykz0O7RYnWN5z2J8f9uYbkmHsk",
+          "id": "Kfiv4g_Xtg4",
+          "snippet": {
+            "publishedAt": "2026-07-25T11:39:33Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Focusing On Mistakes — Ask Yourself This Instead #Shorts",
+            "description": "Forget your biggest mistake for a moment.\n\nInstead — ask yourself:\n\nWhat's one decision you're proud you made?\n\nSuccess leaves clues.\n\nRepeat the habits that brought out your best.\n\n#SuccessLeavesClues #OwnYourWins #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Kfiv4g_Xtg4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Kfiv4g_Xtg4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Kfiv4g_Xtg4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Focusing On Mistakes — Ask Yourself This Instead #Shorts",
+              "description": "Forget your biggest mistake for a moment.\n\nInstead — ask yourself:\n\nWhat's one decision you're proud you made?\n\nSuccess leaves clues.\n\nRepeat the habits that brought out your best.\n\n#SuccessLeavesClues #OwnYourWins #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-25T11:39:35Z"
     },
     {
       "id": "onequestion_reel14_whatareyoufeeding",
