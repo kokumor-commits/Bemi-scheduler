@@ -3115,7 +3115,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1567472235070581"
+        },
+        "instagram": {
+          "id": "17864271354648263"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "V8sJ3CC0FyNEiB1S-XBZmgDijb0",
+          "id": "PfXF9PqN27U",
+          "snippet": {
+            "publishedAt": "2026-07-26T19:47:03Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DARVO: When you raised a problem and somehow became the villain.",
+            "description": "DARVO: When you raised a problem and somehow became the villain.\n\nDeny. Attack. Reverse Victim and Offender. Name it out loud and it loses its power.\n\n#DARVO #NarcissisticAbuse #EmotionalManipulation #GaslightingAwareness #HealAndGrow",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PfXF9PqN27U/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PfXF9PqN27U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PfXF9PqN27U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DARVO: When you raised a problem and somehow became the villain.",
+              "description": "DARVO: When you raised a problem and somehow became the villain.\n\nDeny. Attack. Reverse Victim and Offender. Name it out loud and it loses its power.\n\n#DARVO #NarcissisticAbuse #EmotionalManipulation #GaslightingAwareness #HealAndGrow"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-07-26T19:47:04Z"
     },
     {
       "id": "narc_03_gaslighting",
