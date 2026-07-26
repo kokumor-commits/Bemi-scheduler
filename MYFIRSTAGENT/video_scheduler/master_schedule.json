@@ -632,7 +632,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1469557745206565"
+        },
+        "instagram": {
+          "id": "18135433084590882"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "VBHkUx5fPKdKs1_p2XBXzTNbg8Y",
+          "id": "UoVzUe21qto",
+          "snippet": {
+            "publishedAt": "2026-07-26T21:48:35Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "People Don't Become Emotionally Harmful Overnight — The Signs Were There #Shorts",
+            "description": "People don't become emotionally harmful overnight.\n\nLooking back — the signs were there.\nThe disrespect. The broken promises.\nThe jokes that hurt. The blame.\nThe control disguised as love.\n\nThe problem wasn't that you didn't see them.\n\nThe problem was believing your love could change someone who didn't want to change.\n\nLove doesn't fix patterns. Accountability does.\n\n#LoveDoesntFixPatterns #AccountabilityMatters #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/UoVzUe21qto/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/UoVzUe21qto/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/UoVzUe21qto/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "People Don't Become Emotionally Harmful Overnight — The Signs Were There #Shorts",
+              "description": "People don't become emotionally harmful overnight.\n\nLooking back — the signs were there.\nThe disrespect. The broken promises.\nThe jokes that hurt. The blame.\nThe control disguised as love.\n\nThe problem wasn't that you didn't see them.\n\nThe problem was believing your love could change someone who didn't want to change.\n\nLove doesn't fix patterns. Accountability does.\n\n#LoveDoesntFixPatterns #AccountabilityMatters #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-26T21:48:37Z"
     },
     {
       "id": "notwasntlove_reel05_dontneedclosure",
