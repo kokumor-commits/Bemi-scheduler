@@ -91,7 +91,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1354082486217401"
+        },
+        "instagram": {
+          "id": "18276297949288648"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "q-9RRvmEKDpn_mSE7TWFxOwnzpM",
+          "id": "AwBj8o8oqOk",
+          "snippet": {
+            "publishedAt": "2026-07-26T17:29:22Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You're Not Starting Over — You're Starting Wiser #Shorts",
+            "description": "You're not starting over. You're starting wiser.\n\nIt may feel like you've lost everything —\nthe job, the relationship, the money, the confidence.\n\nBut look closer.\n\nYou haven't lost your experience.\nYou haven't lost your lessons.\nYou haven't lost your ability to grow.\n\nYou're not rebuilding from zero.\nYou're rebuilding with wisdom.\n\n#NotStartingOver #StartingWiser #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/AwBj8o8oqOk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/AwBj8o8oqOk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/AwBj8o8oqOk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You're Not Starting Over — You're Starting Wiser #Shorts",
+              "description": "You're not starting over. You're starting wiser.\n\nIt may feel like you've lost everything —\nthe job, the relationship, the money, the confidence.\n\nBut look closer.\n\nYou haven't lost your experience.\nYou haven't lost your lessons.\nYou haven't lost your ability to grow.\n\nYou're not rebuilding from zero.\nYou're rebuilding with wisdom.\n\n#NotStartingOver #StartingWiser #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-26T17:29:24Z"
     },
     {
       "id": "comeback_reel03_stopwaitingready",
