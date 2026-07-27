@@ -3367,7 +3367,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1012790981509481"
+        },
+        "instagram": {
+          "id": "18094029824637257"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "9Ymuuw-fHm_wdis9hZuuTdijCHM",
+          "id": "WY9KI_ANYzI",
+          "snippet": {
+            "publishedAt": "2026-07-27T19:55:08Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Gaslighting: When they made you question what you clearly saw and felt.",
+            "description": "Gaslighting: When they made you question what you clearly saw and felt.\n\nStart writing things down. Your written record is your anchor to reality.\n\n#Gaslighting #NarcissisticAbuse #TrustYourself #MentalHealthAwareness #YouAreNotCrazy",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WY9KI_ANYzI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WY9KI_ANYzI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WY9KI_ANYzI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Gaslighting: When they made you question what you clearly saw and felt.",
+              "description": "Gaslighting: When they made you question what you clearly saw and felt.\n\nStart writing things down. Your written record is your anchor to reality.\n\n#Gaslighting #NarcissisticAbuse #TrustYourself #MentalHealthAwareness #YouAreNotCrazy"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-07-27T19:55:10Z"
     },
     {
       "id": "narc_04_silenttreatment",
