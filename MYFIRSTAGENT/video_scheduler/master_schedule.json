@@ -168,7 +168,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1029805040055865"
+        },
+        "instagram": {
+          "id": "18025962050846628"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "exG8K4XrEmZwZIvkuDDZLhbtt_8",
+          "id": "pXaIC4YZghc",
+          "snippet": {
+            "publishedAt": "2026-07-27T17:37:01Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Waiting To Feel Ready — Confidence Comes After Action #Shorts",
+            "description": "Confidence comes after action — not before it.\n\nMany people wait until they feel ready.\nSuccessful people start before they feel ready.\n\nCourage isn't the absence of fear.\nIt's choosing to move while fear is still present.\n\nYour first step creates the confidence your mind has been waiting for.\n\n#StopWaiting #TakeAction #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/pXaIC4YZghc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/pXaIC4YZghc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/pXaIC4YZghc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Waiting To Feel Ready — Confidence Comes After Action #Shorts",
+              "description": "Confidence comes after action — not before it.\n\nMany people wait until they feel ready.\nSuccessful people start before they feel ready.\n\nCourage isn't the absence of fear.\nIt's choosing to move while fear is still present.\n\nYour first step creates the confidence your mind has been waiting for.\n\n#StopWaiting #TakeAction #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-27T17:37:03Z"
     },
     {
       "id": "comeback_reel04_onedecision",
