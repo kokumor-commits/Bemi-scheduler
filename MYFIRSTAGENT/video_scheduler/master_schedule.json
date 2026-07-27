@@ -1372,7 +1372,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1633524478477622"
+        },
+        "instagram": {
+          "id": "18449718025188164"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "B03h3FamwgqOWkZAcmNfOHKtRpo",
+          "id": "ndRL7tZNOC4",
+          "snippet": {
+            "publishedAt": "2026-07-27T11:35:20Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Did You Choose Today Or Did Today Choose You? #Shorts",
+            "description": "Did you choose today...\n\nOr did today choose you?\n\nDid you wake up with purpose —\nor just react to everything around you?\n\nIntentional living begins with intentional decisions.\n\nOne choice at a time.\n\n#IntentionalLiving #LiveOnPurpose #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ndRL7tZNOC4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ndRL7tZNOC4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ndRL7tZNOC4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Did You Choose Today Or Did Today Choose You? #Shorts",
+              "description": "Did you choose today...\n\nOr did today choose you?\n\nDid you wake up with purpose —\nor just react to everything around you?\n\nIntentional living begins with intentional decisions.\n\nOne choice at a time.\n\n#IntentionalLiving #LiveOnPurpose #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-27T11:35:22Z"
     },
     {
       "id": "onequestion_reel16_whatwouldyoutellafriend",
