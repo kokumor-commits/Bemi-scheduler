@@ -770,7 +770,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "988689624204411"
+        },
+        "instagram": {
+          "id": "18071891555399752"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "L-SU74rpmoBZVstvPYm7lJM7ViQ",
+          "id": "Jzt9yQs4rPk",
+          "snippet": {
+            "publishedAt": "2026-07-27T21:42:48Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Waiting For An Apology That's Never Coming — Find Closure Yourself #Shorts",
+            "description": "Waiting for an apology is keeping you stuck.\n\nMany people spend years waiting for closure.\nOne text. One apology. One explanation.\n\nBut healing begins when you accept something difficult:\n\nNot everyone who hurts you will admit it.\nSome people rewrite history instead.\n\nYour closure comes from accepting reality —\nnot from waiting for someone else to validate it.\n\n#YouDontNeedClosure #HealYourself #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Jzt9yQs4rPk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Jzt9yQs4rPk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Jzt9yQs4rPk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Waiting For An Apology That's Never Coming — Find Closure Yourself #Shorts",
+              "description": "Waiting for an apology is keeping you stuck.\n\nMany people spend years waiting for closure.\nOne text. One apology. One explanation.\n\nBut healing begins when you accept something difficult:\n\nNot everyone who hurts you will admit it.\nSome people rewrite history instead.\n\nYour closure comes from accepting reality —\nnot from waiting for someone else to validate it.\n\n#YouDontNeedClosure #HealYourself #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-27T21:42:50Z"
     },
     {
       "id": "notwasntlove_reel06_stopchasing",
