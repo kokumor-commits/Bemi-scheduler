@@ -1571,7 +1571,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "930592796742150"
+        },
+        "instagram": {
+          "id": "17859172101675886"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "h4mgJ9c58YUCGMnp_l1w4fBQP4M",
+          "id": "6VDV3ulBNMc",
+          "snippet": {
+            "publishedAt": "2026-07-28T11:29:42Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Advice You'd Give A Friend — Why Won't You Give It To Yourself? #Shorts",
+            "description": "Be honest with yourself.\n\nIf your best friend came to you with the same struggles you're facing...\n\nWhat advice would you give them?\n\nNow here's the difficult part.\n\nWill you give yourself that same compassion?\n\n#SelfCompassion #BeYourOwnAdvocate #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/6VDV3ulBNMc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/6VDV3ulBNMc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/6VDV3ulBNMc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Advice You'd Give A Friend — Why Won't You Give It To Yourself? #Shorts",
+              "description": "Be honest with yourself.\n\nIf your best friend came to you with the same struggles you're facing...\n\nWhat advice would you give them?\n\nNow here's the difficult part.\n\nWill you give yourself that same compassion?\n\n#SelfCompassion #BeYourOwnAdvocate #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-28T11:29:44Z"
     },
     {
       "id": "onequestion_reel17_whatareyougratefulfor",
