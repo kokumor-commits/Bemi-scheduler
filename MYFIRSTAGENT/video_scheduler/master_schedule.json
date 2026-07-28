@@ -245,7 +245,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "986622064435134"
+        },
+        "instagram": {
+          "id": "17863992384645049"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "uftR1T6nuYQYfnalZ9JFTactoyE",
+          "id": "iZ3Gxy078gM",
+          "snippet": {
+            "publishedAt": "2026-07-28T17:32:03Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Life Can Change With One Courageous Decision — Make It Today #Shorts",
+            "description": "Your life can change with one courageous decision.\n\nOne phone call.\nOne application.\nOne apology.\nOne conversation.\nOne new habit.\n\nTransformation rarely happens all at once.\n\nIt begins with one intentional choice repeated consistently.\n\n#OneDecision #TransformYourLife #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/iZ3Gxy078gM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/iZ3Gxy078gM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/iZ3Gxy078gM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Life Can Change With One Courageous Decision — Make It Today #Shorts",
+              "description": "Your life can change with one courageous decision.\n\nOne phone call.\nOne application.\nOne apology.\nOne conversation.\nOne new habit.\n\nTransformation rarely happens all at once.\n\nIt begins with one intentional choice repeated consistently.\n\n#OneDecision #TransformYourLife #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-28T17:32:05Z"
     },
     {
       "id": "comeback_reel05_painhaspurpose",
