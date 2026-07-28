@@ -908,7 +908,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1797768694967968"
+        },
+        "instagram": {
+          "id": "17883965895610696"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "1UhTO5PpchLYFA3OlUC_MYgUFMc",
+          "id": "DmrvQ9br3_o",
+          "snippet": {
+            "publishedAt": "2026-07-28T21:51:25Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Chasing People Who Make You Compete For Basic Respect #Shorts",
+            "description": "The more you chase, the more you lose yourself.\n\nLove should never feel like an interview you have to keep passing.\n\nIf someone only values you when you're proving yourself —\nyou're not building a relationship.\nYou're feeding an unhealthy dynamic.\n\nStop chasing. Start choosing.\n\nThe right people don't make you compete for basic respect.\n\n#StopChasing #StartChoosing #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DmrvQ9br3_o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DmrvQ9br3_o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DmrvQ9br3_o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Chasing People Who Make You Compete For Basic Respect #Shorts",
+              "description": "The more you chase, the more you lose yourself.\n\nLove should never feel like an interview you have to keep passing.\n\nIf someone only values you when you're proving yourself —\nyou're not building a relationship.\nYou're feeding an unhealthy dynamic.\n\nStop chasing. Start choosing.\n\nThe right people don't make you compete for basic respect.\n\n#StopChasing #StartChoosing #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-28T21:51:27Z"
     },
     {
       "id": "notwasntlove_reel07_silenttreatment",
