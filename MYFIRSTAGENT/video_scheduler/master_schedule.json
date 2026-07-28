@@ -3619,7 +3619,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1228741406070379"
+        },
+        "instagram": {
+          "id": "17877567591653416"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "kaVXXijP6oXCcE9PhrDLIjiIRxM",
+          "id": "hL2HlpiNfxs",
+          "snippet": {
+            "publishedAt": "2026-07-28T19:49:21Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Silent Treatment: When they used silence to punish you into submission.",
+            "description": "Silent Treatment: When they used silence to punish you into submission.\n\nWhen silence becomes a weapon, stop chasing it. Silence always tells you what words never will.\n\n#SilentTreatment #NarcissisticAbuse #EmotionalAbuse #SetBoundaries #HealingFromNarcissism",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/hL2HlpiNfxs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/hL2HlpiNfxs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/hL2HlpiNfxs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Silent Treatment: When they used silence to punish you into submission.",
+              "description": "Silent Treatment: When they used silence to punish you into submission.\n\nWhen silence becomes a weapon, stop chasing it. Silence always tells you what words never will.\n\n#SilentTreatment #NarcissisticAbuse #EmotionalAbuse #SetBoundaries #HealingFromNarcissism"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-07-28T19:49:24Z"
     },
     {
       "id": "narc_05_triangulation",
