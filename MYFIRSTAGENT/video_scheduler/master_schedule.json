@@ -322,7 +322,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1566853858433764"
+        },
+        "instagram": {
+          "id": "17992632425817913"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "c6yGPu3MbOuXlyi5u18lL7mr9DA",
+          "id": "lqizh0-BReU",
+          "snippet": {
+            "publishedAt": "2026-07-29T17:29:50Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Don't Waste Your Pain — It's Trying To Teach You Something #Shorts",
+            "description": "Don't waste your pain. Learn from it.\n\nPain asks one question:\n'What will you become because of this?'\n\nSome people become bitter.\nOthers become stronger.\n\nYour struggles can either become your prison —\nor your greatest teacher.\n\nChoose growth.\n\n#PainHasPurpose #ChooseGrowth #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/lqizh0-BReU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/lqizh0-BReU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/lqizh0-BReU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Don't Waste Your Pain — It's Trying To Teach You Something #Shorts",
+              "description": "Don't waste your pain. Learn from it.\n\nPain asks one question:\n'What will you become because of this?'\n\nSome people become bitter.\nOthers become stronger.\n\nYour struggles can either become your prison —\nor your greatest teacher.\n\nChoose growth.\n\n#PainHasPurpose #ChooseGrowth #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-29T17:29:52Z"
     },
     {
       "id": "comeback_reel06_protectyourmind",
