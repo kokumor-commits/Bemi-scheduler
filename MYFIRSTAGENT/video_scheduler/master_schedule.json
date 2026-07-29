@@ -3871,7 +3871,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "790216090815380"
+        },
+        "instagram": {
+          "id": "18119149982504403"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "_-5ljq9_4pQ7V82hVb_Q805Fgts",
+          "id": "lpKv8ad9NKI",
+          "snippet": {
+            "publishedAt": "2026-07-29T19:46:32Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Triangulation: When they kept bringing other people into your relationship to make you feel replacea",
+            "description": "Triangulation: When they kept bringing other people into your relationship to make you feel replaceable.\n\nThis is not competition. This is control. Stop playing the game.\n\n#Triangulation #NarcissisticAbuse #RelationshipRedFlags #EmotionalManipulation #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/lpKv8ad9NKI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/lpKv8ad9NKI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/lpKv8ad9NKI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Triangulation: When they kept bringing other people into your relationship to make you feel replacea",
+              "description": "Triangulation: When they kept bringing other people into your relationship to make you feel replaceable.\n\nThis is not competition. This is control. Stop playing the game.\n\n#Triangulation #NarcissisticAbuse #RelationshipRedFlags #EmotionalManipulation #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-07-29T19:46:35Z"
     },
     {
       "id": "narc_06_hoovering",
