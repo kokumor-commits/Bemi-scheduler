@@ -1770,7 +1770,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "994069476968421"
+        },
+        "instagram": {
+          "id": "18122299132698515"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "KUDyQDwqmA6EEMOirTKFF28ENpI",
+          "id": "d518vT1JkNA",
+          "snippet": {
+            "publishedAt": "2026-07-29T11:28:14Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "What Would You Miss If It Disappeared Tomorrow? #Shorts",
+            "description": "Before today ends — answer this.\n\nWhat's one thing in your life that you would miss if it disappeared tomorrow?\n\nGratitude doesn't ignore problems.\n\nIt reminds us that blessings still exist alongside them.\n\n#Gratitude #CountYourBlessings #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/d518vT1JkNA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/d518vT1JkNA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/d518vT1JkNA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "What Would You Miss If It Disappeared Tomorrow? #Shorts",
+              "description": "Before today ends — answer this.\n\nWhat's one thing in your life that you would miss if it disappeared tomorrow?\n\nGratitude doesn't ignore problems.\n\nIt reminds us that blessings still exist alongside them.\n\n#Gratitude #CountYourBlessings #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-29T11:28:16Z"
     },
     {
       "id": "onequestion_reel18_growingoraging",
