@@ -4123,7 +4123,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1721324209102591"
+        },
+        "instagram": {
+          "id": "18382814932162879"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "apcXjszD2TdojJBzg1eSu_LriD4",
+          "id": "pYEl6CSE5C0",
+          "snippet": {
+            "publishedAt": "2026-07-30T19:55:47Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Hoovering: When they came back with apologies, promises, and tears — just enough to pull you back in",
+            "description": "Hoovering: When they came back with apologies, promises, and tears — just enough to pull you back in.\n\nIt was not growth. It was a reset to start the cycle again.\n\n#Hoovering #NarcissisticAbuse #BreakTheCycle #EmotionalAbuse #HealingFromNarcissism",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/pYEl6CSE5C0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/pYEl6CSE5C0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/pYEl6CSE5C0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Hoovering: When they came back with apologies, promises, and tears — just enough to pull you back in",
+              "description": "Hoovering: When they came back with apologies, promises, and tears — just enough to pull you back in.\n\nIt was not growth. It was a reset to start the cycle again.\n\n#Hoovering #NarcissisticAbuse #BreakTheCycle #EmotionalAbuse #HealingFromNarcissism"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-07-30T19:55:49Z"
     },
     {
       "id": "narc_07_projection",
