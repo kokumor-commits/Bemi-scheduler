@@ -1969,7 +1969,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1666562351097379"
+        },
+        "instagram": {
+          "id": "18422653828181225"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "Asz9axUbaV5RHLLQb6WpGHh4oGs",
+          "id": "n0NJugaoqQk",
+          "snippet": {
+            "publishedAt": "2026-07-30T11:37:01Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Time Passes Either Way — Are You Growing Or Just Aging? #Shorts",
+            "description": "Time passes either way.\n\nThe question is...\n\nAre you becoming wiser...\nKinder...\nStronger...\nMore intentional...\n\nOr simply older?\n\nGrowth is a choice.\n\n#GrowthIsAChoice #KeepGrowing #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/n0NJugaoqQk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/n0NJugaoqQk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/n0NJugaoqQk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Time Passes Either Way — Are You Growing Or Just Aging? #Shorts",
+              "description": "Time passes either way.\n\nThe question is...\n\nAre you becoming wiser...\nKinder...\nStronger...\nMore intentional...\n\nOr simply older?\n\nGrowth is a choice.\n\n#GrowthIsAChoice #KeepGrowing #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-30T11:37:03Z"
     },
     {
       "id": "onequestion_reel19_whatdoessuccessmean",
