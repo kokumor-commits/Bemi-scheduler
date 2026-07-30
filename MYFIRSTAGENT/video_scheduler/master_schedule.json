@@ -399,7 +399,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1081201458191795"
+        },
+        "instagram": {
+          "id": "18363138295208259"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "bACG5i4GS4qwjp_WAXbm97atlfw",
+          "id": "DdsHJLvvp-A",
+          "snippet": {
+            "publishedAt": "2026-07-30T17:38:43Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Mind Is A Garden — Protect What You Feed It #Shorts",
+            "description": "Not everyone deserves access to your peace.\n\nYour mind is like a garden.\nWhatever you feed grows.\n\nProtect what you watch.\nProtect what you listen to.\nProtect who influences your thinking.\n\nYour environment quietly shapes your future.\n\nChoose it wisely.\n\n#ProtectYourMind #ProtectYourPeace #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DdsHJLvvp-A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DdsHJLvvp-A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DdsHJLvvp-A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Mind Is A Garden — Protect What You Feed It #Shorts",
+              "description": "Not everyone deserves access to your peace.\n\nYour mind is like a garden.\nWhatever you feed grows.\n\nProtect what you watch.\nProtect what you listen to.\nProtect who influences your thinking.\n\nYour environment quietly shapes your future.\n\nChoose it wisely.\n\n#ProtectYourMind #ProtectYourPeace #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-30T17:38:45Z"
     },
     {
       "id": "comeback_reel07_stopcomparing",
