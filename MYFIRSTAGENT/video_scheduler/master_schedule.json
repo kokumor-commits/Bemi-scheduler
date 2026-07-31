@@ -476,7 +476,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1579825703874050"
+        },
+        "instagram": {
+          "id": "18034657445830729"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "djnck6relCvW6GL4tXQgFeSOU68",
+          "id": "jY-LSw-bBV8",
+          "snippet": {
+            "publishedAt": "2026-07-31T17:26:18Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Comparing Your Journey — Everyone Has A Different Timeline #Shorts",
+            "description": "Comparison steals progress you haven't even noticed.\n\nSomeone else's success isn't evidence of your failure.\nEveryone has a different timeline.\n\nInstead of asking 'Why am I behind?'\nAsk 'What can I improve today?'\n\nSmall progress, repeated daily, creates extraordinary results.\n\n#StopComparing #YourTimeline #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jY-LSw-bBV8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jY-LSw-bBV8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jY-LSw-bBV8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Comparing Your Journey — Everyone Has A Different Timeline #Shorts",
+              "description": "Comparison steals progress you haven't even noticed.\n\nSomeone else's success isn't evidence of your failure.\nEveryone has a different timeline.\n\nInstead of asking 'Why am I behind?'\nAsk 'What can I improve today?'\n\nSmall progress, repeated daily, creates extraordinary results.\n\n#StopComparing #YourTimeline #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-07-31T17:26:20Z"
     },
     {
       "id": "comeback_reel08_disciplinebeatsmotivation",
