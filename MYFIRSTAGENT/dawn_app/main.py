@@ -41,6 +41,11 @@ class ScheduleRequest(BaseModel):
 
 
 # ── Routes ────────────────────────────────────────────────────────────────────
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+
 @app.get("/")
 def root():
     return FileResponse(str(STATIC / "index.html"))
