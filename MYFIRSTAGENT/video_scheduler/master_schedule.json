@@ -4426,7 +4426,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1227279833802516"
+        },
+        "instagram": {
+          "id": "18104124170154184"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "0kjCnfLViKcPGxtlng5IXL0B1IU",
+          "id": "0yYMTl94Mhk",
+          "snippet": {
+            "publishedAt": "2026-07-31T11:54:24Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Everything Works Together For Your Good | Romans 8:28 | Faith & Motivation",
+            "description": "Everything is working together for your good — even what hurts right now.\n\nThe delay. The door that closed. The season that broke you.\n\nNone of it is wasted. All of it is working.\n\nRomans 8:28.\n\n#EverythingWorksForGood #Romans828 #FaithOverFear #GodHasAPlan #TrustTheProcess #ChristianMotivation #Faith #BlessedAndFavored #Motivation #Inspiration",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/0yYMTl94Mhk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/0yYMTl94Mhk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/0yYMTl94Mhk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Everything Works Together For Your Good | Romans 8:28 | Faith & Motivation",
+              "description": "Everything is working together for your good — even what hurts right now.\n\nThe delay. The door that closed. The season that broke you.\n\nNone of it is wasted. All of it is working.\n\nRomans 8:28.\n\n#EverythingWorksForGood #Romans828 #FaithOverFear #GodHasAPlan #TrustTheProcess #ChristianMotivation #Faith #BlessedAndFavored #Motivation #Inspiration"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-07-31T11:54:25Z"
     }
   ]
 }
