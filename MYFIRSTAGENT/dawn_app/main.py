@@ -30,6 +30,7 @@ class GenerateRequest(BaseModel):
     avatar: str = "hoodie"          # hoodie | gym | suit
     title: str
     subtitle: str
+    voice_id: Optional[str] = None  # None = use ELEVENLABS_VOICE_ID env var
 
 class ScheduleRequest(BaseModel):
     job_id: str
@@ -56,6 +57,12 @@ def avatars():
     return {"avatars": list(AVATARS.keys())}
 
 
+@app.get("/api/voices")
+def voices():
+    voice_id = os.environ.get("ELEVENLABS_VOICE_ID", "")
+    return {"voices": [{"id": voice_id, "name": "Ransford (Your Voice)", "default": True}]}
+
+
 @app.post("/api/generate")
 async def generate(req: GenerateRequest, bg: BackgroundTasks):
     if req.avatar not in AVATARS:
@@ -74,7 +81,7 @@ async def generate(req: GenerateRequest, bg: BackgroundTasks):
         "request":   req.model_dump(),
     }
     bg.add_task(run_pipeline, job_id, req.script, req.avatar,
-                req.title, req.subtitle, JOBS)
+                req.title, req.subtitle, JOBS, req.voice_id)
     return {"job_id": job_id, "status": "queued"}
 
 

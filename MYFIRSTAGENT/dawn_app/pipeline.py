@@ -56,10 +56,11 @@ def upload_r2(local_path: str, key: str, content_type: str = "video/mp4") -> str
 
 
 # ── ElevenLabs TTS ────────────────────────────────────────────────────────────
-async def tts(script: str) -> bytes:
+async def tts(script: str, voice_id: str = None) -> bytes:
+    vid = voice_id or ELEVENLABS_VOICE_ID
     async with httpx.AsyncClient(timeout=120) as client:
         r = await client.post(
-            f"https://api.elevenlabs.io/v1/text-to-speech/{ELEVENLABS_VOICE_ID}",
+            f"https://api.elevenlabs.io/v1/text-to-speech/{vid}",
             headers={"xi-api-key": ELEVENLABS_API_KEY, "Content-Type": "application/json"},
             json={
                 "text": script,
@@ -189,7 +190,8 @@ def render_final(raw_mp4: str, ass_path: str, out_mp4: str,
 
 # ── Full pipeline ─────────────────────────────────────────────────────────────
 async def run_pipeline(job_id: str, script: str, avatar: str,
-                       title: str, subtitle: str, jobs: dict):
+                       title: str, subtitle: str, jobs: dict,
+                       voice_id: str = None):
     def log(msg: str):
         jobs[job_id]["log"].append(msg)
         jobs[job_id]["status"] = msg
@@ -197,7 +199,7 @@ async def run_pipeline(job_id: str, script: str, avatar: str,
     tmpdir = tempfile.mkdtemp(prefix=f"dawn_{job_id}_")
     try:
         log("ElevenLabs: generating voice...")
-        audio_bytes = await tts(script)
+        audio_bytes = await tts(script, voice_id=voice_id)
         audio_path  = os.path.join(tmpdir, "audio.mp3")
         with open(audio_path, "wb") as f:
             f.write(audio_bytes)

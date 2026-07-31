@@ -199,6 +199,19 @@ input[type="radio"].av-radio { display:none; }
       </div>
     </div>
 
+    <!-- Voice -->
+    <div class="card">
+      <div class="card-title">Voice</div>
+      <div id="voice-list" class="avatar-grid" style="grid-template-columns:repeat(auto-fill,minmax(180px,1fr))">
+        <label class="avatar-card selected" id="vc-default">
+          <input type="radio" name="voice" class="av-radio" value="" checked>
+          <div class="emoji">&#127908;</div>
+          <div class="name">Ransford</div>
+          <div class="desc">Your cloned voice</div>
+        </label>
+      </div>
+    </div>
+
     <!-- Generate -->
     <div class="btn-row">
       <button class="btn btn-primary" id="btn-generate" onclick="startGenerate()">
@@ -293,6 +306,7 @@ input[type="radio"].av-radio { display:none; }
 let currentJobId = null;
 let pollInterval = null;
 let selectedAvatar = 'hoodie';
+let selectedVoiceId = null; // null = use server default (ELEVENLABS_VOICE_ID env var)
 
 // ── Nav ───────────────────────────────────────────────────────────────────────
 function show(section) {
@@ -343,7 +357,7 @@ async function startGenerate() {
     const res = await fetch('/api/generate', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({ script, avatar: selectedAvatar, title, subtitle }),
+      body: JSON.stringify({ script, avatar: selectedAvatar, title, subtitle, voice_id: selectedVoiceId || undefined }),
     });
     const data = await res.json();
     if (!res.ok) throw new Error(data.detail || JSON.stringify(data));
@@ -459,6 +473,28 @@ async function schedulePost() {
 }
 
 // ── Dashboard ─────────────────────────────────────────────────────────────────
+async function loadVoices() {
+  try {
+    const res = await fetch('/api/voices');
+    const data = await res.json();
+    const list = document.getElementById('voice-list');
+    list.innerHTML = data.voices.map((v, i) => `
+      <label class="avatar-card${i === 0 ? ' selected' : ''}" id="vc-${i}" onclick="selectVoice('${v.id}', ${i})">
+        <input type="radio" name="voice" class="av-radio" value="${v.id}" ${i === 0 ? 'checked' : ''}>
+        <div class="emoji">&#127908;</div>
+        <div class="name">${v.name}</div>
+        <div class="desc">${v.default ? 'Your cloned voice' : 'ElevenLabs'}</div>
+      </label>
+    `).join('');
+    if (data.voices.length > 0) selectedVoiceId = data.voices[0].id;
+  } catch(e) { /* keep static fallback card */ }
+}
+
+function selectVoice(id, idx) {
+  selectedVoiceId = id || null;
+  document.querySelectorAll('#voice-list .avatar-card').forEach((c, i) => c.classList.toggle('selected', i === idx));
+}
+
 async function loadDashboard() {
   try {
     const res  = await fetch('/api/schedule');
@@ -484,6 +520,7 @@ async function loadDashboard() {
     document.getElementById('post-list').innerHTML = `<p style="color:var(--danger)">Error: ${e.message}</p>`;
   }
 }
+loadVoices();
 </script>
 </body>
 </html>
