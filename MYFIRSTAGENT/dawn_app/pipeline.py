@@ -4,7 +4,12 @@ Video generation pipeline:
 """
 import asyncio, base64, os, shutil, subprocess, tempfile, time
 import boto3, httpx
-from faster_whisper import WhisperModel
+
+try:
+    from faster_whisper import WhisperModel
+    _WHISPER_AVAILABLE = True
+except ImportError:
+    _WHISPER_AVAILABLE = False
 
 # ── Credentials ───────────────────────────────────────────────────────────────
 ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY", "")
@@ -121,6 +126,9 @@ def _fmt_ass(s: float) -> str:
 
 
 def make_captions(mp4_path: str, ass_path: str):
+    if not _WHISPER_AVAILABLE:
+        open(ass_path, "w").close()
+        return
     model = WhisperModel("base", device="cpu", compute_type="int8")
     segments, _ = model.transcribe(mp4_path, word_timestamps=True)
     words = [(w.start, w.end, w.word.strip()) for seg in segments for w in seg.words]
