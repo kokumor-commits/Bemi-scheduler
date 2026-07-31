@@ -4375,7 +4375,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "4138722909752829"
+        },
+        "instagram": {
+          "id": "18173237320429855"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "E2xyVv4jGdUzUZucDRcgSmrUFqI",
+          "id": "zlxA7qCBSJU",
+          "snippet": {
+            "publishedAt": "2026-07-31T19:58:52Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Projection: When they accused you of lying, cheating, or manipulating — and you later realized it wa",
+            "description": "Projection: When they accused you of lying, cheating, or manipulating — and you later realized it was them all along.\n\nProjection is a confession. Listen carefully.\n\n#Projection #NarcissisticAbuse #EmotionalManipulation #TrustYourGut #HealAndGrow",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zlxA7qCBSJU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zlxA7qCBSJU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zlxA7qCBSJU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Projection: When they accused you of lying, cheating, or manipulating — and you later realized it wa",
+              "description": "Projection: When they accused you of lying, cheating, or manipulating — and you later realized it was them all along.\n\nProjection is a confession. Listen carefully.\n\n#Projection #NarcissisticAbuse #EmotionalManipulation #TrustYourGut #HealAndGrow"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-07-31T19:58:54Z"
     },
     {
       "id": "narc_08_intermittent",
