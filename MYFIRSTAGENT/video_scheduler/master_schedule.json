@@ -571,7 +571,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-01T18:40:05Z",
+      "last_retry_at": "2026-08-01T19:41:26Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -2366,7 +2366,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-01T18:40:05Z",
+      "last_retry_at": "2026-08-01T19:41:26Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4674,7 +4674,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1007722528965698"
+        },
+        "instagram": {
+          "id": "18327247219260997"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-01T19:42:17Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "bemi_ad_02_downtime",
