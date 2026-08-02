@@ -608,7 +608,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-02T20:48:47Z",
+      "last_retry_at": "2026-08-02T21:50:43Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1438,7 +1438,28 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1368741005366337"
+        },
+        "instagram": {
+          "id": "18102722147585782"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-02T21:51:40Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "notwasntlove_reel12_stopsettling",
@@ -4561,7 +4582,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-02T20:48:47Z",
+      "last_retry_at": "2026-08-02T21:51:40Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4590,7 +4611,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-02T20:48:47Z",
+      "last_retry_at": "2026-08-02T21:51:40Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4787,7 +4808,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-02T20:48:47Z",
+      "last_retry_at": "2026-08-02T21:51:40Z",
       "retry_platforms": [
         "youtube"
       ]
