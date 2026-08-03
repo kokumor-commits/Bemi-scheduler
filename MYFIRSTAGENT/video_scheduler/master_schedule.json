@@ -608,7 +608,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T18:42:41Z",
+      "last_retry_at": "2026-08-03T19:50:12Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -645,7 +645,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T18:42:41Z",
+      "last_retry_at": "2026-08-03T19:50:12Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1477,7 +1477,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T18:42:41Z",
+      "last_retry_at": "2026-08-03T19:50:12Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4603,7 +4603,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-03T18:42:41Z",
+      "last_retry_at": "2026-08-03T19:50:12Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4632,7 +4632,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-03T18:42:41Z",
+      "last_retry_at": "2026-08-03T19:50:12Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4649,7 +4649,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "888515360583357"
+        },
+        "instagram": {
+          "id": "17880386967617262"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-03T19:51:50Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "marriage_01_love_matures",
@@ -4829,7 +4844,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-03T18:42:41Z",
+      "last_retry_at": "2026-08-03T19:51:50Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4846,7 +4861,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "27685880551071990"
+        },
+        "instagram": {
+          "id": "18110711485974761"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-03T19:53:32Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "bemi_ad_04_missed_calls",
