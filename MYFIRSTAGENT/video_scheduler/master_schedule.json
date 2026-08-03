@@ -571,7 +571,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T20:43:56Z",
+      "last_retry_at": "2026-08-03T21:48:27Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1440,7 +1440,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T20:43:56Z",
+      "last_retry_at": "2026-08-03T21:48:27Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1496,7 +1496,28 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "944536835336634"
+        },
+        "instagram": {
+          "id": "17873711145690350"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-03T21:49:57Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "notwasntlove_reel13_forgiveyourself",
@@ -2450,7 +2471,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T20:43:56Z",
+      "last_retry_at": "2026-08-03T21:49:57Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4815,7 +4836,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-03T20:43:56Z",
+      "last_retry_at": "2026-08-03T21:49:57Z",
       "retry_platforms": [
         "youtube"
       ]
