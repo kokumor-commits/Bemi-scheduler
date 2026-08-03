@@ -608,7 +608,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T16:30:22Z",
+      "last_retry_at": "2026-08-03T17:35:37Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -627,7 +627,28 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1527521381835255"
+        },
+        "instagram": {
+          "id": "18123723082801702"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-03T17:36:44Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "comeback_reel11_smallwins",
@@ -1456,7 +1477,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-03T16:30:23Z",
+      "last_retry_at": "2026-08-03T17:36:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4582,7 +4603,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-03T16:30:23Z",
+      "last_retry_at": "2026-08-03T17:36:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4611,7 +4632,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-03T16:30:23Z",
+      "last_retry_at": "2026-08-03T17:36:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4808,7 +4829,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-03T16:30:23Z",
+      "last_retry_at": "2026-08-03T17:36:44Z",
       "retry_platforms": [
         "youtube"
       ]
