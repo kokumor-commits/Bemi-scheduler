@@ -682,7 +682,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-04T18:42:59Z",
+      "last_retry_at": "2026-08-04T19:49:53Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4918,7 +4918,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "2421209865032761"
+        },
+        "instagram": {
+          "id": "18099844262361023"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-04T19:50:36Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "bemi_ad_05_after_hours",
@@ -5352,7 +5367,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1527841058572918"
+        },
+        "instagram": {
+          "id": "18059114549569341"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-04T19:51:37Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "faithdoubt_d02",
