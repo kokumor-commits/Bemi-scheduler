@@ -1424,7 +1424,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-04T20:41:34Z",
+      "last_retry_at": "2026-08-04T21:45:43Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1554,7 +1554,28 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "2584002258699915"
+        },
+        "instagram": {
+          "id": "18104181299331944"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-04T21:46:29Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "notwasntlove_reel14_lovingwrong",
