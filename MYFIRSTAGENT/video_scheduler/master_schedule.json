@@ -562,7 +562,50 @@
           "id": "18118281814852807"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "VXkwugo4IEEKpUr-oAqME8L0t1I",
+          "id": "QwM4JyIK2_g",
+          "snippet": {
+            "publishedAt": "2026-08-05T12:56:56Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Motivation Leaves — Discipline Stays. Keep Showing Up #Shorts",
+            "description": "Motivation leaves. Discipline stays.\n\nYou won't always feel inspired.\nYou won't always feel confident.\n\nThat's why discipline matters.\n\nThe habits you keep on difficult days shape the life you enjoy on better ones.\n\nKeep showing up.\n\n#DisciplineBeatsMotivation #KeepShowingUp #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/QwM4JyIK2_g/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/QwM4JyIK2_g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/QwM4JyIK2_g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Motivation Leaves — Discipline Stays. Keep Showing Up #Shorts",
+              "description": "Motivation leaves. Discipline stays.\n\nYou won't always feel inspired.\nYou won't always feel confident.\n\nThat's why discipline matters.\n\nThe habits you keep on difficult days shape the life you enjoy on better ones.\n\nKeep showing up.\n\n#DisciplineBeatsMotivation #KeepShowingUp #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -571,10 +614,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T11:50:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T12:56:58Z"
     },
     {
       "id": "comeback_reel09_storynotfinished",
@@ -1452,7 +1492,50 @@
           "id": "18385602688160874"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "_Jz9oiZ2OIwcRfKxhKYSjwR9s90",
+          "id": "hmuon30q94k",
+          "snippet": {
+            "publishedAt": "2026-08-05T12:56:59Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Healing Is Remembering Without Breaking — Keep Going #Shorts",
+            "description": "Healing isn't forgetting.\nHealing is remembering without breaking.\n\nOne day — you'll remember what happened\nwithout crying.\nWithout shaking.\nWithout blaming yourself.\n\nThat doesn't mean it didn't matter.\n\nIt means you've grown beyond what once controlled you.\n\nKeep going. You're becoming stronger than your past.\n\n#HealingJourney #YouAreStronger #KeepGoing",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/hmuon30q94k/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/hmuon30q94k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/hmuon30q94k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Healing Is Remembering Without Breaking — Keep Going #Shorts",
+              "description": "Healing isn't forgetting.\nHealing is remembering without breaking.\n\nOne day — you'll remember what happened\nwithout crying.\nWithout shaking.\nWithout blaming yourself.\n\nThat doesn't mean it didn't matter.\n\nIt means you've grown beyond what once controlled you.\n\nKeep going. You're becoming stronger than your past.\n\n#HealingJourney #YouAreStronger #KeepGoing"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -1461,10 +1544,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T11:50:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T12:57:00Z"
     },
     {
       "id": "notwasntlove_reel11_redflag",
@@ -1526,7 +1606,50 @@
           "id": "17873711145690350"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "Vy3fKI2zhRP4iw5xh8vAvlCEIzA",
+          "id": "1JkfHRWmSPQ",
+          "snippet": {
+            "publishedAt": "2026-08-05T12:57:01Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Don't Mistake Attention For Affection — You Deserve Stability Not Intensity #Shorts",
+            "description": "Don't mistake attention for affection.\n\nSomeone texting you all day isn't necessarily love.\nSomeone wanting your time isn't necessarily respect.\n\nReal love is consistent.\nSafe. Kind. Reliable.\n\nNever settle for intensity when what you truly deserve is stability.\n\n#DontSettle #RealLove #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1JkfHRWmSPQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1JkfHRWmSPQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1JkfHRWmSPQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Don't Mistake Attention For Affection — You Deserve Stability Not Intensity #Shorts",
+              "description": "Don't mistake attention for affection.\n\nSomeone texting you all day isn't necessarily love.\nSomeone wanting your time isn't necessarily respect.\n\nReal love is consistent.\nSafe. Kind. Reliable.\n\nNever settle for intensity when what you truly deserve is stability.\n\n#DontSettle #RealLove #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -1535,10 +1658,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T11:50:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T12:57:02Z"
     },
     {
       "id": "notwasntlove_reel13_forgiveyourself",
@@ -2504,7 +2624,50 @@
           "id": "18197508859373672"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "GdB9CrOcuukjpxamBMjJIsIGN0Q",
+          "id": "Ap6Zp_8ziSA",
+          "snippet": {
+            "publishedAt": "2026-08-05T12:57:03Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "One Year From Now — What Decision Will You Be Grateful You Made Today? #Shorts",
+            "description": "One final question.\n\nWhen you look back one year from today...\n\nWhat decision do you hope you'll be grateful you made?\n\nStart that decision today.\n\nYour future is built by the choices you make in the present.\n\nIf this question made you pause — save it and come back in a month.\n\nFollow for more questions that challenge you to grow.\n\n#StartToday #YourFutureIsNow #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Ap6Zp_8ziSA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Ap6Zp_8ziSA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Ap6Zp_8ziSA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "One Year From Now — What Decision Will You Be Grateful You Made Today? #Shorts",
+              "description": "One final question.\n\nWhen you look back one year from today...\n\nWhat decision do you hope you'll be grateful you made?\n\nStart that decision today.\n\nYour future is built by the choices you make in the present.\n\nIf this question made you pause — save it and come back in a month.\n\nFollow for more questions that challenge you to grow.\n\n#StartToday #YourFutureIsNow #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -2513,10 +2676,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T11:50:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T12:57:05Z"
     },
     {
       "id": "abracadabra_day1_nocreds",
@@ -4861,13 +5021,53 @@
           "id": "18327247219260997"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "-ha2VpwM2bqoAAge6YaSplVFnoQ",
+          "id": "WXZhpo23Rzc",
+          "snippet": {
+            "publishedAt": "2026-08-05T12:57:06Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "FREE 24/7 IT Support — No Hold Times, No Fees | Bemi Tech Solutions",
+            "description": "Your computer crashed and your IT guy didn't pick up. Sound familiar? 😤\n\nWe offer FREE 24/7 IT support — no hold times, no invoices, no stress.\n\nChat with us live RIGHT NOW 👇\nbemitechsolutions.netlify.app\n\n#ITSupport #TechHelp #SmallBusiness #FreeTechSupport #ITServices #ComputerRepair #24_7Support",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WXZhpo23Rzc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WXZhpo23Rzc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WXZhpo23Rzc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "FREE 24/7 IT Support — No Hold Times, No Fees | Bemi Tech Solutions",
+              "description": "Your computer crashed and your IT guy didn't pick up. Sound familiar? 😤\n\nWe offer FREE 24/7 IT support — no hold times, no invoices, no stress.\n\nChat with us live RIGHT NOW 👇\nbemitechsolutions.netlify.app\n\n#ITSupport #TechHelp #SmallBusiness #FreeTechSupport #ITServices #ComputerRepair #24_7Support"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T11:50:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T12:57:07Z"
     },
     {
       "id": "bemi_ad_02_downtime",
@@ -5201,13 +5401,53 @@
           "id": "18082707965690019"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "jihc-CkqPMLkrvpsJf2DZeA6B0k",
+          "id": "SonCdln4NlM",
+          "snippet": {
+            "publishedAt": "2026-08-05T12:57:08Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Talent gets you noticed. Discipline is why you're still here in a year.",
+            "description": "Talent gets you noticed. Discipline is why you're still here in a year.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindset #selfdiscipline",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/SonCdln4NlM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/SonCdln4NlM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/SonCdln4NlM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Talent gets you noticed. Discipline is why you're still here in a year.",
+              "description": "Talent gets you noticed. Discipline is why you're still here in a year.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindset #selfdiscipline"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T11:50:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T12:57:09Z"
     },
     {
       "id": "discipline_d02",
