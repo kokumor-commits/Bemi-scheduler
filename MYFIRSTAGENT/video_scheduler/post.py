@@ -52,6 +52,21 @@ def post_facebook(video_url: str, caption: str) -> dict:
     return r.json()
 
 
+def post_facebook_comment(video_post_id: str, message: str) -> dict:
+    """Post a comment on an existing FB video post -- used for Amazon affiliate
+    links, which per Associates Program rules should not be the primary caption
+    and always need the 'As an Amazon Associate I earn from qualifying
+    purchases' disclosure attached."""
+    r = httpx.post(
+        f"{GRAPH}/{video_post_id}/comments",
+        data={"message": message, "access_token": META_TOKEN},
+        timeout=30,
+    )
+    if not r.is_success:
+        raise Exception(f"FB comment {r.status_code}: {r.text[:500]}")
+    return r.json()
+
+
 # ── Instagram Reels ───────────────────────────────────────────────────────────
 def post_instagram(video_url: str, caption: str) -> dict:
     # Step 1: create container

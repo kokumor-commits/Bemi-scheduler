@@ -10,7 +10,7 @@ import httpx
 
 # import platform posting functions from sibling video_scheduler/
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "video_scheduler"))
-from post import post_facebook, post_instagram, post_youtube, post_tiktok, post_threads
+from post import post_facebook, post_facebook_comment, post_instagram, post_youtube, post_tiktok, post_threads
 
 logging.basicConfig(
     level=logging.INFO,
@@ -106,6 +106,13 @@ def fire_platforms(post: dict, platforms: list) -> dict:
         try:
             if platform == "facebook":
                 results["facebook"] = post_facebook(url, caption)
+                affiliate_comment = post.get("affiliate_comment")
+                if affiliate_comment and "id" in results["facebook"]:
+                    try:
+                        post_facebook_comment(results["facebook"]["id"], affiliate_comment)
+                        log.info(f"  ✓ facebook affiliate comment")
+                    except Exception as ce:
+                        log.error(f"  ✗ facebook affiliate comment: {ce}")
             elif platform == "instagram":
                 results["instagram"] = post_instagram(url, caption)
             elif platform == "youtube":
