@@ -5709,7 +5709,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1364730625152998"
+        },
+        "instagram": {
+          "id": "18025196105848232"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "TANVJMsPaA_AyMzzc8j5EMSwWQU",
+          "id": "zKXbTsbYcoc",
+          "snippet": {
+            "publishedAt": "2026-08-05T19:51:28Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Losing After-Hours Customers — AI Phone Assistant | Bemi Tech Solutions",
+            "description": "It's 11pm and a potential customer just called your business. Nobody answered. They moved on. 😬\n\nAn AI phone assistant catches EVERY call — 24/7, professional, never sleeps.\n\nYou're losing money without one 👇\nbemitechsolutions.netlify.app\n\n#AIPhoneAssistant #AfterHoursBusiness #AIAssistant #LeadGeneration #SmallBusiness #BusinessAutomation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zKXbTsbYcoc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zKXbTsbYcoc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zKXbTsbYcoc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Losing After-Hours Customers — AI Phone Assistant | Bemi Tech Solutions",
+              "description": "It's 11pm and a potential customer just called your business. Nobody answered. They moved on. 😬\n\nAn AI phone assistant catches EVERY call — 24/7, professional, never sleeps.\n\nYou're losing money without one 👇\nbemitechsolutions.netlify.app\n\n#AIPhoneAssistant #AfterHoursBusiness #AIAssistant #LeadGeneration #SmallBusiness #BusinessAutomation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-05T19:51:30Z"
     },
     {
       "id": "bemi_ad_06_combo",
@@ -6280,8 +6335,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1368747138563223"
+        },
+        "instagram": {
+          "id": "18402202627091024"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "RXq-5GKsu2wTF8xgQXs_edc8Q6U",
+          "id": "mJAdIDq0WBA",
+          "snippet": {
+            "publishedAt": "2026-08-05T19:52:52Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Apology I Rehearsed But Never Said",
+            "description": "I wish I knew this earlier. For months I rehearsed an apology to someone I loved. Every night, in the shower, driving home, I said it perfectly in my head. But I never said it out loud. I kept waiting. Waiting for the right moment. Waiting to feel ready. Waiting until I was sure it would go well. That was doubt. And doubt just kept me frozen, replaying the same words while nothing changed. Then it hit me. Faith doesn't wait for certainty. Faith expects something good, so it starts moving. Doubt sits and waits for a proof that never comes. When I finally understood that, I picked up the phone. It was messy. But it was real. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/mJAdIDq0WBA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/mJAdIDq0WBA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/mJAdIDq0WBA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Apology I Rehearsed But Never Said",
+              "description": "I wish I knew this earlier. For months I rehearsed an apology to someone I loved. Every night, in the shower, driving home, I said it perfectly in my head. But I never said it out loud. I kept waiting. Waiting for the right moment. Waiting to feel ready. Waiting until I was sure it would go well. That was doubt. And doubt just kept me frozen, replaying the same words while nothing changed. Then it hit me. Faith doesn't wait for certainty. Faith expects something good, so it starts moving. Doubt sits and waits for a proof that never comes. When I finally understood that, I picked up the phone. It was messy. But it was real. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-05T19:52:55Z"
     },
     {
       "id": "faithdoubt_d03",
