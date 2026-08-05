@@ -793,7 +793,50 @@
           "id": "18055565465788360"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "GY2emRXwe-YfO0xG594HJm8F-Sk",
+          "id": "Fv9p7i67ZFI",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:51:15Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Big Success Is Built From Small Daily Victories — Celebrate Every Win #Shorts",
+            "description": "Big success is built from small victories.\n\nMade your bed? Progress.\nRead one page? Progress.\nWalked for ten minutes? Progress.\n\nCelebrate consistency.\n\nSmall wins build unstoppable confidence.\n\n#SmallWins #CelebrateProgress #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Fv9p7i67ZFI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Fv9p7i67ZFI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Fv9p7i67ZFI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Big Success Is Built From Small Daily Victories — Celebrate Every Win #Shorts",
+              "description": "Big success is built from small victories.\n\nMade your bed? Progress.\nRead one page? Progress.\nWalked for ten minutes? Progress.\n\nCelebrate consistency.\n\nSmall wins build unstoppable confidence.\n\n#SmallWins #CelebrateProgress #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -802,10 +845,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T12:37:38Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:51:17Z"
     },
     {
       "id": "comeback_reel12_mindbelieveswhatyourepeat",
@@ -5548,13 +5588,53 @@
           "id": "18099844262361023"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "a2lE3flEDWPqbVROK9pTllytnIA",
+          "id": "wV6b4OGSYsc",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:51:17Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Never Miss a Customer Call Again — AI Phone Assistant | Bemi Tech Solutions",
+            "description": "Every missed call = a customer who just called your competitor. 📞\n\nAn AI phone assistant answers EVERY call 24/7 — professional, instant, never sleeps.\n\nStop losing leads 👇\nbemitechsolutions.netlify.app\n\n#AIAssistant #AIPhoneAssistant #SmallBusiness #MissedCalls #BusinessGrowth #AIForBusiness #CustomerService",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/wV6b4OGSYsc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/wV6b4OGSYsc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/wV6b4OGSYsc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Never Miss a Customer Call Again — AI Phone Assistant | Bemi Tech Solutions",
+              "description": "Every missed call = a customer who just called your competitor. 📞\n\nAn AI phone assistant answers EVERY call 24/7 — professional, instant, never sleeps.\n\nStop losing leads 👇\nbemitechsolutions.netlify.app\n\n#AIAssistant #AIPhoneAssistant #SmallBusiness #MissedCalls #BusinessGrowth #AIForBusiness #CustomerService"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T12:37:39Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:51:19Z"
     },
     {
       "id": "bemi_ad_05_after_hours",
@@ -6052,13 +6132,53 @@
           "id": "18059114549569341"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "TivdnmgbJpfu16d5RvFJcDBpv2A",
+          "id": "itl651tUxZA",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:51:20Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Idea I Sat On For Two Years",
+            "description": "I wish I knew this earlier. For two years I sat on a business idea. I didn't build it. I didn't test it. I just refreshed my bank account, waiting for proof that it would work. I thought I was being smart. I was being scared. Doubt kept whispering, wait until you're sure. But certainty never came. That anxiety froze me. I called it patience. It was fear in a nicer outfit. Then one night it clicked. Faith isn't a feeling, it's a mechanism. It creates anticipation, and anticipation makes you move. You prepare before you see the result. Doubt just makes you wait forever. So I finally started. Messy, unsure, but moving. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/itl651tUxZA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/itl651tUxZA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/itl651tUxZA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Idea I Sat On For Two Years",
+              "description": "I wish I knew this earlier. For two years I sat on a business idea. I didn't build it. I didn't test it. I just refreshed my bank account, waiting for proof that it would work. I thought I was being smart. I was being scared. Doubt kept whispering, wait until you're sure. But certainty never came. That anxiety froze me. I called it patience. It was fear in a nicer outfit. Then one night it clicked. Faith isn't a feeling, it's a mechanism. It creates anticipation, and anticipation makes you move. You prepare before you see the result. Doubt just makes you wait forever. So I finally started. Messy, unsure, but moving. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T12:37:39Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:51:21Z"
     },
     {
       "id": "faithdoubt_d02",
