@@ -571,7 +571,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T09:44:57Z",
+      "last_retry_at": "2026-08-05T10:47:37Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1461,7 +1461,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T09:44:57Z",
+      "last_retry_at": "2026-08-05T10:47:37Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1535,7 +1535,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T09:44:58Z",
+      "last_retry_at": "2026-08-05T10:47:37Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -2513,7 +2513,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T09:44:58Z",
+      "last_retry_at": "2026-08-05T10:47:38Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -4864,7 +4864,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-05T09:44:58Z",
+      "last_retry_at": "2026-08-05T10:47:38Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -5192,7 +5192,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "950162298093877"
+        },
+        "instagram": {
+          "id": "18082707965690019"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-05T10:48:14Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "discipline_d02",
