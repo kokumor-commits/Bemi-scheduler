@@ -1535,7 +1535,50 @@
           "id": "18099561374620357"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "Z8e-IJBGrG1aWnFyWD5ExVsCZjk",
+          "id": "M03X11QfYFA",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:35:35Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "If Saying No Makes Someone Angry — Pay Attention To That #Shorts",
+            "description": "If saying 'No' makes someone angry — pay attention.\n\nHealthy people may be disappointed.\nManipulative people often become offended.\n\nWhy?\n\nBecause boundaries remove control.\n\nNever feel guilty for protecting your peace.\n\nEvery healthy relationship respects the word 'No.'\n\n#Boundaries #ProtectYourPeace #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/M03X11QfYFA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/M03X11QfYFA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/M03X11QfYFA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "If Saying No Makes Someone Angry — Pay Attention To That #Shorts",
+              "description": "If saying 'No' makes someone angry — pay attention.\n\nHealthy people may be disappointed.\nManipulative people often become offended.\n\nWhy?\n\nBecause boundaries remove control.\n\nNever feel guilty for protecting your peace.\n\nEvery healthy relationship respects the word 'No.'\n\n#Boundaries #ProtectYourPeace #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -1544,10 +1587,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T12:21:51Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:35:37Z"
     },
     {
       "id": "notwasntlove_reel10_healing",
@@ -1803,7 +1843,50 @@
           "id": "18104181299331944"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "VRsY8QyPpGfp3-0gBKsYISYsneM",
+          "id": "-PdOmeU7DQ8",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:35:37Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Forgave Them Already — Now It's Time To Forgive Yourself #Shorts",
+            "description": "You may find it easier to forgive them than to forgive yourself.\n\nYou forgave their lies.\nTheir disrespect.\nTheir broken promises.\n\nBut you haven't forgiven yourself for staying.\nFor believing.\nFor loving someone who wasn't ready to receive it.\n\nYour love wasn't the mistake.\n\nStaying past your own warnings was the lesson.\n\nForgive yourself. You were learning.\n\n#ForgiveYourself #HealingJourney #YouWereLearning",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/-PdOmeU7DQ8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/-PdOmeU7DQ8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/-PdOmeU7DQ8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Forgave Them Already — Now It's Time To Forgive Yourself #Shorts",
+              "description": "You may find it easier to forgive them than to forgive yourself.\n\nYou forgave their lies.\nTheir disrespect.\nTheir broken promises.\n\nBut you haven't forgiven yourself for staying.\nFor believing.\nFor loving someone who wasn't ready to receive it.\n\nYour love wasn't the mistake.\n\nStaying past your own warnings was the lesson.\n\nForgive yourself. You were learning.\n\n#ForgiveYourself #HealingJourney #YouWereLearning"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -1812,10 +1895,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T12:21:51Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:35:39Z"
     },
     {
       "id": "notwasntlove_reel14_lovingwrong",
