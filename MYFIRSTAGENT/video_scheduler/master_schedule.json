@@ -2012,7 +2012,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1582987466603221"
+        },
+        "instagram": {
+          "id": "18142888462481993"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "ufgWc6Q8BkdnbfsOjAjNLLB07sE",
+          "id": "1mOGZImZHgw",
+          "snippet": {
+            "publishedAt": "2026-08-05T21:41:55Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Some People Don't Know How To Receive Love — It Wasn't Your Fault #Shorts",
+            "description": "Some people don't know how to receive love.\n\nThey were never taught that love could be consistent.\nSafe. Without conditions.\n\nWhen you showed up consistently — they became suspicious.\nWhen you gave without expecting — they felt indebted.\nWhen you were kind — they mistook it for weakness.\n\nYou weren't loving the wrong person.\n\nYou were loving someone who hadn't healed enough to receive it.\n\n#LoveWithoutHealing #HealingJourney #YouDeserveMore",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1mOGZImZHgw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1mOGZImZHgw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1mOGZImZHgw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Some People Don't Know How To Receive Love — It Wasn't Your Fault #Shorts",
+              "description": "Some people don't know how to receive love.\n\nThey were never taught that love could be consistent.\nSafe. Without conditions.\n\nWhen you showed up consistently — they became suspicious.\nWhen you gave without expecting — they felt indebted.\nWhen you were kind — they mistook it for weakness.\n\nYou weren't loving the wrong person.\n\nYou were loving someone who hadn't healed enough to receive it.\n\n#LoveWithoutHealing #HealingJourney #YouDeserveMore"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-05T21:41:56Z"
     },
     {
       "id": "notwasntlove_reel15_toomuch",
