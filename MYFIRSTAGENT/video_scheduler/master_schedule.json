@@ -639,7 +639,50 @@
           "id": "18334803094264386"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "jKz6o63Kkh3zZ-eOikiM7RU5NM0",
+          "id": "sXzala5b_yQ",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:10:30Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Don't Judge Your Whole Life By One Difficult Season #Shorts",
+            "description": "Don't judge your whole life by one difficult season.\n\nWinter doesn't last forever.\nNeither do hard seasons.\n\nYour current chapter may be painful.\n\nBut chapters end.\n\nKeep writing your story.\n\n#YourStoryIsntOver #HardSeasonsEnd #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/sXzala5b_yQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/sXzala5b_yQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/sXzala5b_yQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Don't Judge Your Whole Life By One Difficult Season #Shorts",
+              "description": "Don't judge your whole life by one difficult season.\n\nWinter doesn't last forever.\nNeither do hard seasons.\n\nYour current chapter may be painful.\n\nBut chapters end.\n\nKeep writing your story.\n\n#YourStoryIsntOver #HardSeasonsEnd #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -648,10 +691,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T12:06:09Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:10:32Z"
     },
     {
       "id": "comeback_reel10_failureisntfinal",
@@ -676,7 +716,50 @@
           "id": "18123723082801702"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "nxUsV4ecz9JS0G0YEyINHT_9QTY",
+          "id": "paeirMLW13c",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:10:33Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Failure Is Information Not Your Identity — Learn From It #Shorts",
+            "description": "Failure is information — not your identity.\n\nYou failed.\nNow ask: 'What did this teach me?'\n\nEvery successful person has failed.\nThe difference is they learned instead of quitting.\n\nFailure becomes valuable when it becomes your teacher.\n\n#FailureIsntFinal #LearnDontQuit #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/paeirMLW13c/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/paeirMLW13c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/paeirMLW13c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Failure Is Information Not Your Identity — Learn From It #Shorts",
+              "description": "Failure is information — not your identity.\n\nYou failed.\nNow ask: 'What did this teach me?'\n\nEvery successful person has failed.\nThe difference is they learned instead of quitting.\n\nFailure becomes valuable when it becomes your teacher.\n\n#FailureIsntFinal #LearnDontQuit #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -685,10 +768,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T12:06:09Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:10:35Z"
     },
     {
       "id": "comeback_reel11_smallwins",
@@ -1569,7 +1649,50 @@
           "id": "18102722147585782"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "i96HqFFt4HyvVDeQWdjT3jwyR2s",
+          "id": "fLx2NorBcy4",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:10:35Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Biggest Red Flag Isn't Anger — It's Someone Who Never Takes Responsibility #Shorts",
+            "description": "The biggest red flag isn't anger.\n\nIt's someone who never takes responsibility.\n\nEvery problem is your fault.\nEvery disagreement becomes your mistake.\nEvery apology comes with an excuse.\n\nGrowth begins where accountability begins.\n\nWithout accountability — nothing changes.\n\n#RedFlags #Accountability #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fLx2NorBcy4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fLx2NorBcy4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fLx2NorBcy4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Biggest Red Flag Isn't Anger — It's Someone Who Never Takes Responsibility #Shorts",
+              "description": "The biggest red flag isn't anger.\n\nIt's someone who never takes responsibility.\n\nEvery problem is your fault.\nEvery disagreement becomes your mistake.\nEvery apology comes with an excuse.\n\nGrowth begins where accountability begins.\n\nWithout accountability — nothing changes.\n\n#RedFlags #Accountability #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -1578,10 +1701,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-05T12:06:09Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:10:37Z"
     },
     {
       "id": "notwasntlove_reel12_stopsettling",
@@ -4823,13 +4943,53 @@
           "id": "18021268079899980"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "yCNah2ZVjFT5Drs5RvT-biY5eEE",
+          "id": "fPkoospnY-M",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:10:46Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Intermittent Reinforcement: When they were amazing one day and cold the next — and you stayed trying",
+            "description": "Intermittent Reinforcement: When they were amazing one day and cold the next — and you stayed trying to get back to the good days.\n\nThe unpredictability was not random. It was the trap.\n\n#IntermittentReinforcement #NarcissisticAbuse #TraumaResponse #BreakTheCycle #Healing",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fPkoospnY-M/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fPkoospnY-M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fPkoospnY-M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Intermittent Reinforcement: When they were amazing one day and cold the next — and you stayed trying",
+              "description": "Intermittent Reinforcement: When they were amazing one day and cold the next — and you stayed trying to get back to the good days.\n\nThe unpredictability was not random. It was the trap.\n\n#IntermittentReinforcement #NarcissisticAbuse #TraumaResponse #BreakTheCycle #Healing"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T12:06:09Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:10:50Z"
     },
     {
       "id": "narc_09_goalposts",
@@ -4852,13 +5012,53 @@
           "id": "18020333546859905"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "YkyDHkuA4gFgTQLaSVrSEzD7OR0",
+          "id": "iXkg4R54QE8",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:10:51Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Moving Goalposts: When you did everything they asked and they still found something wrong.",
+            "description": "Moving Goalposts: When you did everything they asked and they still found something wrong.\n\nYou were never the problem. The standard was designed to be impossible.\n\n#MovingGoalposts #NarcissisticAbuse #YouAreEnough #EmotionalAbuse #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/iXkg4R54QE8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/iXkg4R54QE8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/iXkg4R54QE8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Moving Goalposts: When you did everything they asked and they still found something wrong.",
+              "description": "Moving Goalposts: When you did everything they asked and they still found something wrong.\n\nYou were never the problem. The standard was designed to be impossible.\n\n#MovingGoalposts #NarcissisticAbuse #YouAreEnough #EmotionalAbuse #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T12:06:09Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:10:53Z"
     },
     {
       "id": "narc_10_futurefaking",
@@ -4881,13 +5081,53 @@
           "id": "17880386967617262"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "zS0UK_PZ2Q1bzXq-dPNXmpO74vY",
+          "id": "OpiUbrwSjCY",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:10:54Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Future Faking: When they talked about moving in, getting married, building a life — and never follow",
+            "description": "Future Faking: When they talked about moving in, getting married, building a life — and never followed through.\n\nThe vision was real. The intention was not. Judge people by their actions, not their promises.\n\n#FutureFaking #NarcissisticAbuse #RelationshipRedFlags #TrustActions #HealAndGrow",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/OpiUbrwSjCY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/OpiUbrwSjCY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/OpiUbrwSjCY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Future Faking: When they talked about moving in, getting married, building a life — and never follow",
+              "description": "Future Faking: When they talked about moving in, getting married, building a life — and never followed through.\n\nThe vision was real. The intention was not. Judge people by their actions, not their promises.\n\n#FutureFaking #NarcissisticAbuse #RelationshipRedFlags #TrustActions #HealAndGrow"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T12:06:09Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:10:59Z"
     },
     {
       "id": "marriage_01_love_matures",
@@ -5090,13 +5330,53 @@
           "id": "17900482263537603"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "muyNNXE9UEpqQzefaB_GVuA-OBY",
+          "id": "uMcy7tjKgXk",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:10:59Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "IT Downtime Is Killing Your Business — Get FREE 24/7 Support | Bemi Tech",
+            "description": "IT downtime is costing your business money RIGHT NOW. Every minute counts. 💸\n\nFREE 24/7 IT support — live chat, instant response, zero fees.\n\nDon't lose another dollar 👇\nbemitechsolutions.netlify.app\n\n#Downtime #ITSupport #BusinessTech #SmallBusinessOwner #TechSolutions #FreeTechSupport",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/uMcy7tjKgXk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/uMcy7tjKgXk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/uMcy7tjKgXk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "IT Downtime Is Killing Your Business — Get FREE 24/7 Support | Bemi Tech",
+              "description": "IT downtime is costing your business money RIGHT NOW. Every minute counts. 💸\n\nFREE 24/7 IT support — live chat, instant response, zero fees.\n\nDon't lose another dollar 👇\nbemitechsolutions.netlify.app\n\n#Downtime #ITSupport #BusinessTech #SmallBusinessOwner #TechSolutions #FreeTechSupport"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T12:06:10Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:11:02Z"
     },
     {
       "id": "bemi_ad_03_no_time",
@@ -5119,13 +5399,53 @@
           "id": "18110711485974761"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "nL9FijaW4y1tY7czLce0iVrtmEg",
+          "id": "217jwOxIVMU",
+          "snippet": {
+            "publishedAt": "2026-08-05T13:11:02Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Wasting Time on Tech Problems — FREE IT Support | Bemi Tech Solutions",
+            "description": "You didn't start a business to spend your day fighting tech issues. 😩\n\nLet us handle it — FREE 24/7 IT support. No hold times. No fees.\n\nFocus on your business. We handle the rest 👇\nbemitechsolutions.netlify.app\n\n#SmallBusiness #ITSupport #TechHelp #BusinessOwner #FreeTechSupport #EntrepreneurLife",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/217jwOxIVMU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/217jwOxIVMU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/217jwOxIVMU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Wasting Time on Tech Problems — FREE IT Support | Bemi Tech Solutions",
+              "description": "You didn't start a business to spend your day fighting tech issues. 😩\n\nLet us handle it — FREE 24/7 IT support. No hold times. No fees.\n\nFocus on your business. We handle the rest 👇\nbemitechsolutions.netlify.app\n\n#SmallBusiness #ITSupport #TechHelp #BusinessOwner #FreeTechSupport #EntrepreneurLife"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-05T12:06:10Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-05T13:11:04Z"
     },
     {
       "id": "bemi_ad_04_missed_calls",
