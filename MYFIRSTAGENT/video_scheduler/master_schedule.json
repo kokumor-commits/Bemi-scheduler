@@ -5853,8 +5853,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "894451760390422"
+        },
+        "instagram": {
+          "id": "17971106958120609"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "K_JQyps--2vvtO6UvZpxKuTzK9s",
+          "id": "DkY3MQMyK6o",
+          "snippet": {
+            "publishedAt": "2026-08-05T22:43:30Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 1 - MONK MODE - Day 1 of monk mode. Follow - day 2 drops tomorrow, 6pm.",
+            "description": "You keep saying you'll change \"when things calm down.\"\n\nThings don't calm down. You calm down - or you don't.\n\nStop waiting for permission. Start with one day of silence.\n\nDay 1 of monk mode. Follow - day 2 drops tomorrow, 6pm.\n\n#monkmode #discipline #mindsetshift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DkY3MQMyK6o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DkY3MQMyK6o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DkY3MQMyK6o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 1 - MONK MODE - Day 1 of monk mode. Follow - day 2 drops tomorrow, 6pm.",
+              "description": "You keep saying you'll change \"when things calm down.\"\n\nThings don't calm down. You calm down - or you don't.\n\nStop waiting for permission. Start with one day of silence.\n\nDay 1 of monk mode. Follow - day 2 drops tomorrow, 6pm.\n\n#monkmode #discipline #mindsetshift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-05T22:43:32Z"
     },
     {
       "id": "monk_d02",
