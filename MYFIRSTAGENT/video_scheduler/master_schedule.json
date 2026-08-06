@@ -5900,7 +5900,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "923590954127994"
+        },
+        "instagram": {
+          "id": "18100279982254740"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "U9afCDRZF9fmgX1kDMLkZMutNGE",
+          "id": "WkvKFs_lWM0",
+          "snippet": {
+            "publishedAt": "2026-08-06T19:48:51Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "FREE IT Support + AI Phone Assistant for Your Business | Bemi Tech Solutions",
+            "description": "Two things killing small businesses: IT crashes with no one to call + missed calls from customers who don't wait. 😤\n\nWe fix BOTH — FREE 24/7 IT support AND custom AI phone assistants.\n\nOne team. Zero excuses 👇\nbemitechsolutions.netlify.app\n\n#ITSupport #AIAssistant #SmallBusiness #BusinessSolutions #FreeTechSupport #AIPhoneAssistant #BemiTech",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WkvKFs_lWM0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WkvKFs_lWM0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WkvKFs_lWM0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "FREE IT Support + AI Phone Assistant for Your Business | Bemi Tech Solutions",
+              "description": "Two things killing small businesses: IT crashes with no one to call + missed calls from customers who don't wait. 😤\n\nWe fix BOTH — FREE 24/7 IT support AND custom AI phone assistants.\n\nOne team. Zero excuses 👇\nbemitechsolutions.netlify.app\n\n#ITSupport #AIAssistant #SmallBusiness #BusinessSolutions #FreeTechSupport #AIPhoneAssistant #BemiTech"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-06T19:48:53Z"
     },
     {
       "id": "monk_d01",
@@ -6637,8 +6692,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1554001339529615"
+        },
+        "instagram": {
+          "id": "17901380928542765"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "wdh1vFWBDZUC2NO90zDed-JCk10",
+          "id": "RC5GTkkGnC8",
+          "snippet": {
+            "publishedAt": "2026-08-06T19:49:51Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Application I Never Sent",
+            "description": "I wish I knew this earlier. For three weeks I wrote and rewrote the same job application. I fixed commas at midnight. I rehearsed the cover letter in the shower. But I never hit submit. I kept telling myself I'd apply once I felt qualified enough. That day never came. Here's what I finally understood. Doubt doesn't just feel bad. It freezes you. It makes you wait for a certainty that never arrives. Faith works the opposite way. It builds anticipation. And anticipation makes you move, prepare, and act before you see the result. I had it backwards. I was waiting to feel ready instead of getting ready by acting. Now when I catch myself stalling, I remember the mechanism. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/RC5GTkkGnC8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/RC5GTkkGnC8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/RC5GTkkGnC8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Application I Never Sent",
+              "description": "I wish I knew this earlier. For three weeks I wrote and rewrote the same job application. I fixed commas at midnight. I rehearsed the cover letter in the shower. But I never hit submit. I kept telling myself I'd apply once I felt qualified enough. That day never came. Here's what I finally understood. Doubt doesn't just feel bad. It freezes you. It makes you wait for a certainty that never arrives. Faith works the opposite way. It builds anticipation. And anticipation makes you move, prepare, and act before you see the result. I had it backwards. I was waiting to feel ready instead of getting ready by acting. Now when I catch myself stalling, I remember the mechanism. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-06T19:49:52Z"
     },
     {
       "id": "faithdoubt_d04",
