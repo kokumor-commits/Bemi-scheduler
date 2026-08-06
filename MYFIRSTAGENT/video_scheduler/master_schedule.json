@@ -2150,7 +2150,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "28300963852925863"
+        },
+        "instagram": {
+          "id": "18110668346515306"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "vpumW9niwrvvEMj8mq5Y_UJz8Uk",
+          "id": "wQ1rzISZVZ8",
+          "snippet": {
+            "publishedAt": "2026-08-06T21:53:04Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Weren't Not Enough — You Were Too Much For Where They Were #Shorts",
+            "description": "They told you that you weren't enough.\n\nBut the truth is something different.\n\nYou were too much awareness for someone who wanted comfort in ignorance.\nToo much honesty for someone who relied on pretending.\nToo much depth for someone who only wanted the surface.\n\nYou were not too little.\n\nYou were too evolved for where they were.\n\n#YouWereEnough #TooMuch #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/wQ1rzISZVZ8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/wQ1rzISZVZ8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/wQ1rzISZVZ8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Weren't Not Enough — You Were Too Much For Where They Were #Shorts",
+              "description": "They told you that you weren't enough.\n\nBut the truth is something different.\n\nYou were too much awareness for someone who wanted comfort in ignorance.\nToo much honesty for someone who relied on pretending.\nToo much depth for someone who only wanted the surface.\n\nYou were not too little.\n\nYou were too evolved for where they were.\n\n#YouWereEnough #TooMuch #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-06T21:53:06Z"
     },
     {
       "id": "notwasntlove_reel16_beforelovingagain",
