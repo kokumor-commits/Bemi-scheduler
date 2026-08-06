@@ -6997,8 +6997,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1575241507715655"
+        },
+        "instagram": {
+          "id": "17919471831203638"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "vSv8TPAozWO2J1_9gTvVFZNN4s0",
+          "id": "EUA6G--9tgU",
+          "snippet": {
+            "publishedAt": "2026-08-06T20:51:23Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Argument Means Losing the Relationship",
+            "description": "The fastest way to lose your marriage is trying to win every argument. When every disagreement becomes a competition, both people lose. Healthy couples focus on solving the problem instead of defeating each other. The strongest relationships aren't built by being right, they're built by understanding. Share this with someone who believes love is about teamwork.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/EUA6G--9tgU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/EUA6G--9tgU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/EUA6G--9tgU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Argument Means Losing the Relationship",
+              "description": "The fastest way to lose your marriage is trying to win every argument. When every disagreement becomes a competition, both people lose. Healthy couples focus on solving the problem instead of defeating each other. The strongest relationships aren't built by being right, they're built by understanding. Share this with someone who believes love is about teamwork.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-06T20:51:25Z"
     },
     {
       "id": "lovehabits_d03",
