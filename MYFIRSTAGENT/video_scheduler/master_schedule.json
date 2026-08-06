@@ -6100,8 +6100,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1560068675583847"
+        },
+        "instagram": {
+          "id": "18110413495811632"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "qOESGzZ9mhWW2Kf6FFMuDtXkl3M",
+          "id": "fl-nCoaXgDw",
+          "snippet": {
+            "publishedAt": "2026-08-06T22:54:34Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 2 - MONK MODE - Two days down, five to go. Follow for day 3.",
+            "description": "Day 2 doesn't feel like freedom. It feels like withdrawal.\n\nThat's not failure - that's proof you needed this.\n\nStop chasing the version that feels good immediately. Start trusting the version that feels honest.\n\nTwo days down, five to go. Follow for day 3.\n\n#monkmode #dopaminedetox #selfgrowth",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fl-nCoaXgDw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fl-nCoaXgDw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fl-nCoaXgDw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 2 - MONK MODE - Two days down, five to go. Follow for day 3.",
+              "description": "Day 2 doesn't feel like freedom. It feels like withdrawal.\n\nThat's not failure - that's proof you needed this.\n\nStop chasing the version that feels good immediately. Start trusting the version that feels honest.\n\nTwo days down, five to go. Follow for day 3.\n\n#monkmode #dopaminedetox #selfgrowth"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-06T22:54:36Z"
     },
     {
       "id": "monk_d03",
