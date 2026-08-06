@@ -938,7 +938,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1439001508055868"
+        },
+        "instagram": {
+          "id": "17859924537675690"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "4ly4tCFDC0jh1c19kmitBuo0j3Y",
+          "id": "mYG1sNOXs5E",
+          "snippet": {
+            "publishedAt": "2026-08-06T17:32:26Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "If You Don't Choose Your Direction Life Will Choose For You #Shorts",
+            "description": "If you don't choose your direction, life will choose it for you.\n\nIntentional living starts with one question:\n'What kind of person am I becoming?'\n\nYour habits answer that question every day.\n\nLive with purpose.\nNot by default.\n\n#IntentionalLiving #LiveWithPurpose #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/mYG1sNOXs5E/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/mYG1sNOXs5E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/mYG1sNOXs5E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "If You Don't Choose Your Direction Life Will Choose For You #Shorts",
+              "description": "If you don't choose your direction, life will choose it for you.\n\nIntentional living starts with one question:\n'What kind of person am I becoming?'\n\nYour habits answer that question every day.\n\nLive with purpose.\nNot by default.\n\n#IntentionalLiving #LiveWithPurpose #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-06T17:32:27Z"
     },
     {
       "id": "comeback_reel14_dontneedeveryone",
