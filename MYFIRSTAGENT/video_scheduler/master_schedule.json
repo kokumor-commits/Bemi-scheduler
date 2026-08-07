@@ -2288,7 +2288,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1783390626311961"
+        },
+        "instagram": {
+          "id": "18098793941258375"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "SG9Udg31z3DlYMTOg1V92V89eLI",
+          "id": "YX4fcuB2DrU",
+          "snippet": {
+            "publishedAt": "2026-08-07T21:48:47Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Before Loving Again — Rebuild What The Last Relationship Took From You #Shorts",
+            "description": "Before you love someone new — love yourself back.\n\nThe relationship you lost took pieces of you.\nYour confidence.\nYour trust.\nYour sense of self.\n\nBefore you invite someone else in —\nrebuild what was taken.\n\nYou cannot give from an empty place.\n\nHealing isn't selfish.\nIt is how you protect the next person you love.\n\n#LoveYourselfFirst #BeforeLovingAgain #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/YX4fcuB2DrU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/YX4fcuB2DrU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/YX4fcuB2DrU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Before Loving Again — Rebuild What The Last Relationship Took From You #Shorts",
+              "description": "Before you love someone new — love yourself back.\n\nThe relationship you lost took pieces of you.\nYour confidence.\nYour trust.\nYour sense of self.\n\nBefore you invite someone else in —\nrebuild what was taken.\n\nYou cannot give from an empty place.\n\nHealing isn't selfish.\nIt is how you protect the next person you love.\n\n#LoveYourselfFirst #BeforeLovingAgain #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-07T21:48:48Z"
     },
     {
       "id": "notwasntlove_reel17_emotionalmaturity",
