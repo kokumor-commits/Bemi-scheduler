@@ -6736,8 +6736,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "879077151661846"
+        },
+        "instagram": {
+          "id": "18211047580344611"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "FOSU-_I4PzlFIKecdvjHs1h79To",
+          "id": "JQs1jh2C0PA",
+          "snippet": {
+            "publishedAt": "2026-08-08T10:51:55Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Every time you keep the promise nobody's watching, you become someone new deals",
+            "description": "Every time you keep the promise nobody's watching, you become someone new deals can't buy.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #selfdiscipline #motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/JQs1jh2C0PA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/JQs1jh2C0PA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/JQs1jh2C0PA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Every time you keep the promise nobody's watching, you become someone new deals",
+              "description": "Every time you keep the promise nobody's watching, you become someone new deals can't buy.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #selfdiscipline #motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-08T10:51:57Z"
     },
     {
       "id": "discipline_d05",
