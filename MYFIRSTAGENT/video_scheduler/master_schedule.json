@@ -6484,8 +6484,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1784592782716861"
+        },
+        "instagram": {
+          "id": "18608397166056558"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "Tx9DN1emtWxuA9OkZdoUetJZkcU",
+          "id": "bZXwscNcyzA",
+          "snippet": {
+            "publishedAt": "2026-08-08T22:44:34Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 4 - MONK MODE - Day 4. Halfway there. Follow for day 5.",
+            "description": "You've gotten good at avoiding your own thoughts.\n\nSilence isn't empty. It's just the first place you stop hiding.\n\nStop filling every gap with noise. Start sitting in one, on purpose.\n\nDay 4. Halfway there. Follow for day 5.\n\n#monkmode #journaling #selfimprovement",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/bZXwscNcyzA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/bZXwscNcyzA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/bZXwscNcyzA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 4 - MONK MODE - Day 4. Halfway there. Follow for day 5.",
+              "description": "You've gotten good at avoiding your own thoughts.\n\nSilence isn't empty. It's just the first place you stop hiding.\n\nStop filling every gap with noise. Start sitting in one, on purpose.\n\nDay 4. Halfway there. Follow for day 5.\n\n#monkmode #journaling #selfimprovement"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-08T22:44:35Z"
     },
     {
       "id": "monk_d05",
