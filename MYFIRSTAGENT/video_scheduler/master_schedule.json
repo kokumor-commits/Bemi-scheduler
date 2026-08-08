@@ -7711,8 +7711,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1501800994968014"
+        },
+        "instagram": {
+          "id": "17957572440187171"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "kGf7EhQRJGA7KIDvz9NdDlgfkqw",
+          "id": "VTK8SRINkS4",
+          "snippet": {
+            "publishedAt": "2026-08-08T20:41:43Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Marriage Mirrors Your Mindset",
+            "description": "Your spouse isn't always the problem. The mindset you bring into a relationship shapes how you respond to challenges. If you approach every disagreement expecting failure, you'll notice every flaw. A mindset focused on growth looks for solutions instead of blame. Share this with someone who's committed to growing together.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/VTK8SRINkS4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/VTK8SRINkS4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/VTK8SRINkS4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Marriage Mirrors Your Mindset",
+              "description": "Your spouse isn't always the problem. The mindset you bring into a relationship shapes how you respond to challenges. If you approach every disagreement expecting failure, you'll notice every flaw. A mindset focused on growth looks for solutions instead of blame. Share this with someone who's committed to growing together.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-08T20:41:45Z"
     },
     {
       "id": "lovehabits_d05",
