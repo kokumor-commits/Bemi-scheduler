@@ -7296,8 +7296,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1780262929658814"
+        },
+        "instagram": {
+          "id": "18608992576024357"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "c4Bve-YyZdTVJGu-BMVmft1d9UI",
+          "id": "Yqg7dj-p4Bc",
+          "snippet": {
+            "publishedAt": "2026-08-08T19:55:16Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Book I Outlined But Never Wrote",
+            "description": "I wish I knew this earlier. I outlined the same book three times. Three notebooks. Not a single chapter written. I told myself I was waiting to find my voice. The truth? I was scared. And doubt disguised itself as patience. Here's what I finally understood. Doubt doesn't wait. It freezes you. It makes you crave a certainty that never actually arrives. Faith is different. Faith creates anticipation, and anticipation gets you moving before you see the result. You prepare. You start. You build. I had it backwards for years. I was waiting for proof instead of creating it. So now I write the messy chapter first. I move, then I find my voice. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Yqg7dj-p4Bc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Yqg7dj-p4Bc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Yqg7dj-p4Bc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Book I Outlined But Never Wrote",
+              "description": "I wish I knew this earlier. I outlined the same book three times. Three notebooks. Not a single chapter written. I told myself I was waiting to find my voice. The truth? I was scared. And doubt disguised itself as patience. Here's what I finally understood. Doubt doesn't wait. It freezes you. It makes you crave a certainty that never actually arrives. Faith is different. Faith creates anticipation, and anticipation gets you moving before you see the result. You prepare. You start. You build. I had it backwards for years. I was waiting for proof instead of creating it. So now I write the messy chapter first. I move, then I find my voice. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-08T19:55:18Z"
     },
     {
       "id": "faithdoubt_d06",
