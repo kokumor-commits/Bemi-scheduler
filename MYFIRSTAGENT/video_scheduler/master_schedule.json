@@ -1169,7 +1169,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "942630718851299"
+        },
+        "instagram": {
+          "id": "17942750373276955"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "8Uaci4dtiqMb7TmGAU0KLnRXoOQ",
+          "id": "P8yLBkxQN94",
+          "snippet": {
+            "publishedAt": "2026-08-09T17:33:42Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Future Is Built In Ordinary Moments — Invest In Yourself Daily #Shorts",
+            "description": "Your future is built in ordinary moments.\n\nNobody becomes stronger overnight.\nThey become stronger by choosing today's healthy habit.\n\nToday's decision becomes tomorrow's character.\n\nInvest in yourself every day.\n\n#BuildYourself #DailyHabits #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/P8yLBkxQN94/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/P8yLBkxQN94/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/P8yLBkxQN94/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Future Is Built In Ordinary Moments — Invest In Yourself Daily #Shorts",
+              "description": "Your future is built in ordinary moments.\n\nNobody becomes stronger overnight.\nThey become stronger by choosing today's healthy habit.\n\nToday's decision becomes tomorrow's character.\n\nInvest in yourself every day.\n\n#BuildYourself #DailyHabits #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-09T17:33:44Z"
     },
     {
       "id": "comeback_reel17_letgo",
