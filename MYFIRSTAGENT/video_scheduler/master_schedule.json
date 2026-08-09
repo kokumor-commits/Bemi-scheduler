@@ -8068,8 +8068,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1552166549923931"
+        },
+        "instagram": {
+          "id": "17865542994641363"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "9-Knaw0hwDVGtFglaCch8MeG3Qw",
+          "id": "E6IrKn5O60g",
+          "snippet": {
+            "publishedAt": "2026-08-09T20:51:40Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Listening Is More Powerful Than Talking",
+            "description": "Most marriages don't suffer from a lack of love. They suffer from a lack of listening. People don't just want advice, they want to feel heard. Listening without interrupting can reduce misunderstandings and build emotional safety. Share this reminder with someone who values healthy communication.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/E6IrKn5O60g/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/E6IrKn5O60g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/E6IrKn5O60g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Listening Is More Powerful Than Talking",
+              "description": "Most marriages don't suffer from a lack of love. They suffer from a lack of listening. People don't just want advice, they want to feel heard. Listening without interrupting can reduce misunderstandings and build emotional safety. Share this reminder with someone who values healthy communication.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-09T20:51:42Z"
     },
     {
       "id": "lovehabits_d06",
