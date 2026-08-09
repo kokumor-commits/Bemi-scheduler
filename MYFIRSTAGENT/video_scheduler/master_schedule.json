@@ -6983,8 +6983,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1054906093568548"
+        },
+        "instagram": {
+          "id": "18165724819458313"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "98cJwWDfp3dTGpFy5zLuK4PxuVw",
+          "id": "jUo8pf7hA4A",
+          "snippet": {
+            "publishedAt": "2026-08-09T10:46:54Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You don't need a better plan. You need to stop letting your mood vote on the old",
+            "description": "You don't need a better plan. You need to stop letting your mood vote on the old one.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindset #stoicism",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jUo8pf7hA4A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jUo8pf7hA4A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jUo8pf7hA4A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You don't need a better plan. You need to stop letting your mood vote on the old",
+              "description": "You don't need a better plan. You need to stop letting your mood vote on the old one.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindset #stoicism"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-09T10:46:56Z"
     },
     {
       "id": "discipline_d06",
