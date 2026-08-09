@@ -2564,7 +2564,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1102233292475364"
+        },
+        "instagram": {
+          "id": "18057690089784120"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "LuwClNaIGzDKqsspdsH2kfqGz40",
+          "id": "fhgMRTl3Ijo",
+          "snippet": {
+            "publishedAt": "2026-08-09T21:53:34Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Notice The Pattern Before You Repeat It — Same Person Different Name #Shorts",
+            "description": "Notice the pattern before you repeat it.\n\nSame person. Different name.\n\nYou chose someone emotionally unavailable again.\nSomeone who needed fixing.\nSomeone who confused intensity with love.\n\nPatterns don't break on their own.\n\nThey break when you do the inner work to understand\nwhy you chose them in the first place.\n\nBreak the cycle before the cycle breaks you.\n\n#BreakThePattern #HealingJourney #CycleBreaker",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fhgMRTl3Ijo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fhgMRTl3Ijo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fhgMRTl3Ijo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Notice The Pattern Before You Repeat It — Same Person Different Name #Shorts",
+              "description": "Notice the pattern before you repeat it.\n\nSame person. Different name.\n\nYou chose someone emotionally unavailable again.\nSomeone who needed fixing.\nSomeone who confused intensity with love.\n\nPatterns don't break on their own.\n\nThey break when you do the inner work to understand\nwhy you chose them in the first place.\n\nBreak the cycle before the cycle breaks you.\n\n#BreakThePattern #HealingJourney #CycleBreaker"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-09T21:53:35Z"
     },
     {
       "id": "notwasntlove_reel19_notyourjob",
