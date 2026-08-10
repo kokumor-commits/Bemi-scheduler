@@ -7900,8 +7900,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "941350505647787"
+        },
+        "instagram": {
+          "id": "17901502143520155"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "xMZPKL5nym8sfWqsP6vJywuPTaI",
+          "id": "vhqTAdEVppU",
+          "snippet": {
+            "publishedAt": "2026-08-10T19:46:48Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Year I Stayed Out of Fear",
+            "description": "I wish I knew this earlier. I moved to a new city for one opportunity. The job ended, but I stayed a full year longer than I needed to. Not because I loved it. Because I was scared. I kept waiting for a sign. For certainty. For the perfect moment to leave. And that waiting felt safe, but it was quietly killing me. Here's what I finally understood. Doubt creates anxiety, and anxiety freezes you. You wait for proof that never comes. But faith creates anticipation, and anticipation makes you move. You start preparing before you see the result. That's the difference. That's the whole mechanism. The moment I saw it, I packed up and left. Now I don't wait for certainty. I move toward it. So take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/vhqTAdEVppU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/vhqTAdEVppU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/vhqTAdEVppU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Year I Stayed Out of Fear",
+              "description": "I wish I knew this earlier. I moved to a new city for one opportunity. The job ended, but I stayed a full year longer than I needed to. Not because I loved it. Because I was scared. I kept waiting for a sign. For certainty. For the perfect moment to leave. And that waiting felt safe, but it was quietly killing me. Here's what I finally understood. Doubt creates anxiety, and anxiety freezes you. You wait for proof that never comes. But faith creates anticipation, and anticipation makes you move. You start preparing before you see the result. That's the difference. That's the whole mechanism. The moment I saw it, I packed up and left. Now I don't wait for certainty. I move toward it. So take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-10T19:46:50Z"
     },
     {
       "id": "faithdoubt_d08",
