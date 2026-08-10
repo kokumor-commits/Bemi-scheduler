@@ -1246,7 +1246,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "959755157150927"
+        },
+        "instagram": {
+          "id": "17915474793424663"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "8A6cTHz8QvjGKCIWfdQnlOQvhZw",
+          "id": "ER1ZQADWXEo",
+          "snippet": {
+            "publishedAt": "2026-08-10T17:28:54Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Peace Begins Where Control Ends — Here's Where Your Real Power Lives #Shorts",
+            "description": "Peace begins where control ends.\n\nYou can't control other people.\nYou can't rewrite yesterday.\nYou can't predict tomorrow.\n\nBut you can control your attitude.\nYour effort. Your response.\n\nThat's where your power lives.\n\n#LetGo #PeaceOfMind #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ER1ZQADWXEo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ER1ZQADWXEo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ER1ZQADWXEo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Peace Begins Where Control Ends — Here's Where Your Real Power Lives #Shorts",
+              "description": "Peace begins where control ends.\n\nYou can't control other people.\nYou can't rewrite yesterday.\nYou can't predict tomorrow.\n\nBut you can control your attitude.\nYour effort. Your response.\n\nThat's where your power lives.\n\n#LetGo #PeaceOfMind #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-10T17:28:56Z"
     },
     {
       "id": "comeback_reel18_chooseprogress",
