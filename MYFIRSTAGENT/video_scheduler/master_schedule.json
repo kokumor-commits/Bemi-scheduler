@@ -6868,8 +6868,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "2894087734258295"
+        },
+        "instagram": {
+          "id": "18126519073739801"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "HX3FO3Ln8SO6y-EQ3G7mSoMWJQw",
+          "id": "cNQbYRYen7k",
+          "snippet": {
+            "publishedAt": "2026-08-10T22:51:58Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 6 - MONK MODE - Day 6. One left. Follow for day 7.",
+            "description": "You don't lack discipline. You have too many exits.\n\nRemove the exits and the discipline was always there.\n\nStop adding more willpower. Start closing more doors.\n\nDay 6. One left. Follow for day 7.\n\n#monkmode #selfdiscipline #growthmindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cNQbYRYen7k/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cNQbYRYen7k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cNQbYRYen7k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 6 - MONK MODE - Day 6. One left. Follow for day 7.",
+              "description": "You don't lack discipline. You have too many exits.\n\nRemove the exits and the discipline was always there.\n\nStop adding more willpower. Start closing more doors.\n\nDay 6. One left. Follow for day 7.\n\n#monkmode #selfdiscipline #growthmindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-10T22:52:00Z"
     },
     {
       "id": "monk_d07",
