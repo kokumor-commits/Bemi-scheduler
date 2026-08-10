@@ -2702,7 +2702,68 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1058488216720663"
+        },
+        "instagram": {
+          "id": "18441109303120288"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "9Gkg3rWnqWRhbmCMEDh92xm_Jyk",
+          "id": "_5-hwZwxIT0",
+          "snippet": {
+            "publishedAt": "2026-08-10T21:50:28Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "It Was Never Your Job To Fix Them — Let That Weight Go #Shorts",
+            "description": "It was never your job to fix them.\n\nYou poured your energy into someone who wasn't doing the same.\n\nYou researched.\nYou adjusted.\nYou communicated.\nYou hoped.\n\nBut healing someone else is not your responsibility.\n\nTheir growth must come from within.\n\nThe most loving thing you ever did was let go of someone who wasn't ready to grow.\n\n#NotYourJob #LetGo #HealingJourney",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_5-hwZwxIT0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_5-hwZwxIT0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_5-hwZwxIT0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "It Was Never Your Job To Fix Them — Let That Weight Go #Shorts",
+              "description": "It was never your job to fix them.\n\nYou poured your energy into someone who wasn't doing the same.\n\nYou researched.\nYou adjusted.\nYou communicated.\nYou hoped.\n\nBut healing someone else is not your responsibility.\n\nTheir growth must come from within.\n\nThe most loving thing you ever did was let go of someone who wasn't ready to grow.\n\n#NotYourJob #LetGo #HealingJourney"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-10T21:50:30Z"
     },
     {
       "id": "notwasntlove_reel20_whatcomesnext",
