@@ -8782,8 +8782,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1803487577327253"
+        },
+        "instagram": {
+          "id": "18108336275062641"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "r2tmUCzZnbMceIq0KUYGvEr3f1I",
+          "id": "g9N25PaogMQ",
+          "snippet": {
+            "publishedAt": "2026-08-11T20:50:05Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Respect Before Romance",
+            "description": "Romance fades. Respect keeps love alive. Excitement naturally rises and falls over time. Mutual respect helps couples navigate stress, disagreements, and life's changes with dignity. Share this with someone who believes respect is the foundation of love.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/g9N25PaogMQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/g9N25PaogMQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/g9N25PaogMQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Respect Before Romance",
+              "description": "Romance fades. Respect keeps love alive. Excitement naturally rises and falls over time. Mutual respect helps couples navigate stress, disagreements, and life's changes with dignity. Share this with someone who believes respect is the foundation of love.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-11T20:50:07Z"
     },
     {
       "id": "lovehabits_d08",
