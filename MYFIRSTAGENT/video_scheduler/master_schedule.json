@@ -9274,7 +9274,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "2120612561824532"
+        },
+        "instagram": {
+          "id": "17876947548533779"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "9J7Epbz70S23XO_4jI75Nbj84Yo",
+          "id": "DsFcnZzu0tk",
+          "snippet": {
+            "publishedAt": "2026-08-11T23:09:38Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Phone Is Not Just Taking Your Time",
+            "description": "Your Phone Is Not Just Taking Your Time\n\nYour phone is not stealing your time. It is stealing something more expensive—your attention. Five minutes becomes thirty. Thirty becomes two hours. And somehow, the dream you said you wanted gets pushed to tomorrow again. Put the phone away for one hour every day. No scrolling. No notifications. Just you and the work that matters. Your attention is your life. Spend it carefully. Send this to someone who needs their focus back.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DsFcnZzu0tk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DsFcnZzu0tk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DsFcnZzu0tk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Phone Is Not Just Taking Your Time",
+              "description": "Your Phone Is Not Just Taking Your Time\n\nYour phone is not stealing your time. It is stealing something more expensive—your attention. Five minutes becomes thirty. Thirty becomes two hours. And somehow, the dream you said you wanted gets pushed to tomorrow again. Put the phone away for one hour every day. No scrolling. No notifications. Just you and the work that matters. Your attention is your life. Spend it carefully. Send this to someone who needs their focus back.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-11T23:09:40Z"
     },
     {
       "id": "phoneattention_d02",
