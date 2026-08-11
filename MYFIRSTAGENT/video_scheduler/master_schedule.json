@@ -8937,7 +8937,62 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1977654679608795"
+        },
+        "instagram": {
+          "id": "18144329182532882"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "Og7pT2Suiu_y0_33Qz0QSnOlw2A",
+          "id": "V5BzWZ6SAO0",
+          "snippet": {
+            "publishedAt": "2026-08-11T19:13:25Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Are Not Stuck. You Just Haven't Decided.",
+            "description": "You Are Not Stuck. You Just Haven't Decided.\n\nSometimes, life is not holding you back. You are simply standing between two roads, afraid to choose. Make the decision. Movement begins when fear stops choosing for you.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/V5BzWZ6SAO0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/V5BzWZ6SAO0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/V5BzWZ6SAO0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Are Not Stuck. You Just Haven't Decided.",
+              "description": "You Are Not Stuck. You Just Haven't Decided.\n\nSometimes, life is not holding you back. You are simply standing between two roads, afraid to choose. Make the decision. Movement begins when fear stops choosing for you.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-11T19:13:27Z"
     },
     {
       "id": "mindsetshift_d02",
