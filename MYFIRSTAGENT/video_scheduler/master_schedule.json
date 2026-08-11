@@ -7060,8 +7060,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1609326324199723"
+        },
+        "instagram": {
+          "id": "18106888178160815"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "DauHMaxCWj-DJ4JzEHBXZxQwaoU",
+          "id": "WpdqyoLrkQQ",
+          "snippet": {
+            "publishedAt": "2026-08-11T22:53:08Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 7 - MONK MODE - Day 7. Done. Save this if you're starting your own reset.",
+            "description": "Seven days of monk mode changed more than seven months of motivation.\n\nMotivation asks how you feel. Discipline only asks what you'll do.\n\nStop waiting to feel ready. Start before you do.\n\nDay 7. Done. Save this if you're starting your own reset.\n\n#monkmode #discipline #mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WpdqyoLrkQQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WpdqyoLrkQQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WpdqyoLrkQQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 7 - MONK MODE - Day 7. Done. Save this if you're starting your own reset.",
+              "description": "Seven days of monk mode changed more than seven months of motivation.\n\nMotivation asks how you feel. Discipline only asks what you'll do.\n\nStop waiting to feel ready. Start before you do.\n\nDay 7. Done. Save this if you're starting your own reset.\n\n#monkmode #discipline #mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-11T22:53:10Z"
     },
     {
       "id": "monk_d08",
