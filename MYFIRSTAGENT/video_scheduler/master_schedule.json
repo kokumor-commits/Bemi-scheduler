@@ -8202,8 +8202,63 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1792095152038939"
+        },
+        "instagram": {
+          "id": "17921686149409636"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "JHxacKBG5n9rUITy0HBvtrTXHRI",
+          "id": "PQCUCxosw2Q",
+          "snippet": {
+            "publishedAt": "2026-08-11T19:45:42Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "I Rehearsed That Raise For 6 Months",
+            "description": "I wish I knew this earlier. I spent six months rehearsing how to ask my boss for a raise I'd already earned. Six months. Every night I ran the words in my head, waiting to feel ready. But ready never came. I thought I was preparing. I wasn't. I was hiding inside doubt, waiting for certainty that never shows up. That's the trap. Doubt makes anxiety, and anxiety freezes you. You wait. Faith works the opposite way. Faith makes anticipation, and anticipation makes you move. You start working before you see the result. The day I finally asked, I got it in ten minutes. Ten minutes, after six months frozen. Now I move first and figure it out on the way. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PQCUCxosw2Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PQCUCxosw2Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PQCUCxosw2Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "I Rehearsed That Raise For 6 Months",
+              "description": "I wish I knew this earlier. I spent six months rehearsing how to ask my boss for a raise I'd already earned. Six months. Every night I ran the words in my head, waiting to feel ready. But ready never came. I thought I was preparing. I wasn't. I was hiding inside doubt, waiting for certainty that never shows up. That's the trap. Doubt makes anxiety, and anxiety freezes you. You wait. Faith works the opposite way. Faith makes anticipation, and anticipation makes you move. You start working before you see the result. The day I finally asked, I got it in ten minutes. Ten minutes, after six months frozen. Now I move first and figure it out on the way. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-11T19:45:44Z"
     },
     {
       "id": "faithdoubt_d09",
