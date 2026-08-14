@@ -1418,7 +1418,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:45Z",
+      "last_retry_at": "2026-08-14T19:43:01Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1455,7 +1455,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:45Z",
+      "last_retry_at": "2026-08-14T19:43:01Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -3846,7 +3846,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:45Z",
+      "last_retry_at": "2026-08-14T19:43:01Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -3883,7 +3883,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:45Z",
+      "last_retry_at": "2026-08-14T19:43:01Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7227,7 +7227,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:45Z",
+      "last_retry_at": "2026-08-14T19:43:01Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7257,7 +7257,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:46Z",
+      "last_retry_at": "2026-08-14T19:43:02Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8600,7 +8600,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:46Z",
+      "last_retry_at": "2026-08-14T19:43:02Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8630,7 +8630,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:46Z",
+      "last_retry_at": "2026-08-14T19:43:02Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8647,8 +8647,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The Purpose Driven Life goes deeper into this exact idea: https://www.amazon.com/Purpose-Driven-Life-What-Earth/dp/031033750X?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "2857700344595835"
+        },
+        "instagram": {
+          "id": "18113729042053115"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-14T19:43:52Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "faithdoubt_d12",
@@ -9210,7 +9225,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:46Z",
+      "last_retry_at": "2026-08-14T19:43:52Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9240,7 +9255,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:46Z",
+      "last_retry_at": "2026-08-14T19:43:52Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9659,7 +9674,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T18:37:46Z",
+      "last_retry_at": "2026-08-14T19:43:52Z",
       "retry_platforms": [
         "youtube"
       ]
