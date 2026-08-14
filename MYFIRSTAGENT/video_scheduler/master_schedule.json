@@ -1418,7 +1418,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:01Z",
+      "last_retry_at": "2026-08-14T20:46:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -1455,7 +1455,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:01Z",
+      "last_retry_at": "2026-08-14T20:46:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -3846,7 +3846,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:01Z",
+      "last_retry_at": "2026-08-14T20:46:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -3883,7 +3883,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:01Z",
+      "last_retry_at": "2026-08-14T20:46:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7227,7 +7227,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:01Z",
+      "last_retry_at": "2026-08-14T20:46:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7257,7 +7257,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:02Z",
+      "last_retry_at": "2026-08-14T20:46:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8600,7 +8600,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:02Z",
+      "last_retry_at": "2026-08-14T20:46:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8630,7 +8630,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:02Z",
+      "last_retry_at": "2026-08-14T20:46:18Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8660,7 +8660,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:52Z",
+      "last_retry_at": "2026-08-14T20:46:18Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9225,7 +9225,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:52Z",
+      "last_retry_at": "2026-08-14T20:46:18Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9255,7 +9255,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:52Z",
+      "last_retry_at": "2026-08-14T20:46:18Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9272,8 +9272,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1402162182046980"
+        },
+        "instagram": {
+          "id": "17896237074570196"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-14T20:47:06Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "lovehabits_d11",
@@ -9674,7 +9689,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-14T19:43:52Z",
+      "last_retry_at": "2026-08-14T20:47:06Z",
       "retry_platforms": [
         "youtube"
       ]
