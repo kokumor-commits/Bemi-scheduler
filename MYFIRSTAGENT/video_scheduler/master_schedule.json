@@ -9916,7 +9916,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-16T22:04:20Z",
+      "last_retry_at": "2026-08-16T23:08:49Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10049,7 +10049,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1633644684847938"
+        },
+        "instagram": {
+          "id": "17985312047857608"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-16T23:10:15Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "mindsetshift_d08",
