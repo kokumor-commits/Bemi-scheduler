@@ -8023,7 +8023,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-16T18:08:05Z",
+      "last_retry_at": "2026-08-16T19:10:31Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8053,7 +8053,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-16T18:08:05Z",
+      "last_retry_at": "2026-08-16T19:10:31Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8083,7 +8083,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-16T18:08:05Z",
+      "last_retry_at": "2026-08-16T19:10:31Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9723,7 +9723,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-16T18:08:06Z",
+      "last_retry_at": "2026-08-16T19:10:31Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9908,7 +9908,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-16T18:08:06Z",
+      "last_retry_at": "2026-08-16T19:10:32Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9954,7 +9954,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1063185579743745"
+        },
+        "instagram": {
+          "id": "18102503951611040"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-16T19:11:12Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "phoneattention_d06",
