@@ -8059,7 +8059,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-17T09:47:36Z",
+      "last_retry_at": "2026-08-17T10:50:14Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8089,7 +8089,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-17T09:47:36Z",
+      "last_retry_at": "2026-08-17T10:50:14Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8119,7 +8119,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-17T09:47:36Z",
+      "last_retry_at": "2026-08-17T10:50:14Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8136,8 +8136,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, Atomic Habits goes deeper into this exact idea: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1784628309198514"
+        },
+        "instagram": {
+          "id": "18615355126056255"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-17T10:51:22Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "discipline_d14",
@@ -9789,7 +9804,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-17T09:47:36Z",
+      "last_retry_at": "2026-08-17T10:51:22Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9974,7 +9989,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-17T09:47:37Z",
+      "last_retry_at": "2026-08-17T10:51:22Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10032,7 +10047,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-17T09:47:37Z",
+      "last_retry_at": "2026-08-17T10:51:22Z",
       "retry_platforms": [
         "youtube"
       ]
