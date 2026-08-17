@@ -8903,7 +8903,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-17T19:42:04Z",
+      "last_retry_at": "2026-08-17T20:43:09Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9560,8 +9560,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "2072521946681040"
+        },
+        "instagram": {
+          "id": "18002274689989604"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-17T20:44:51Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "lovehabits_d14",
