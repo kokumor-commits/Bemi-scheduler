@@ -10173,7 +10173,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1069707165590788"
+        },
+        "instagram": {
+          "id": "18440811673192115"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-17T23:09:24Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "mindsetshift_d09",
