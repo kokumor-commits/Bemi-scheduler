@@ -4087,7 +4087,28 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "4679225668976047"
+        },
+        "instagram": {
+          "id": "18174917659427340"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-19T22:52:11Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "lionrain_day4_miscalculated",
@@ -9720,7 +9741,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-19T21:49:02Z",
+      "last_retry_at": "2026-08-19T22:52:11Z",
       "retry_platforms": [
         "youtube"
       ]
