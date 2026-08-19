@@ -4031,7 +4031,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-19T22:04:42Z",
+      "last_retry_at": "2026-08-19T23:07:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7503,7 +7503,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-19T22:04:42Z",
+      "last_retry_at": "2026-08-19T23:07:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9011,7 +9011,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-19T22:04:42Z",
+      "last_retry_at": "2026-08-19T23:07:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9681,7 +9681,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-19T22:04:43Z",
+      "last_retry_at": "2026-08-19T23:07:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10405,7 +10405,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1718986302499290"
+        },
+        "instagram": {
+          "id": "18442330984193935"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-19T23:08:31Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "mindsetshift_d12",
