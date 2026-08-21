@@ -4161,7 +4161,28 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1042261358809398"
+        },
+        "instagram": {
+          "id": "18001543184977589"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-21T22:56:21Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "wolf_day5_hungerisagift",
@@ -9792,7 +9813,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-21T21:52:32Z",
+      "last_retry_at": "2026-08-21T22:56:21Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9822,7 +9843,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-21T21:52:32Z",
+      "last_retry_at": "2026-08-21T22:56:21Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10541,7 +10562,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-21T21:52:32Z",
+      "last_retry_at": "2026-08-21T22:56:22Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10572,7 +10593,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1364180305838040"
+        },
+        "instagram": {
+          "id": "18335396203259697"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-21T22:57:08Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "mindsetshift_d14",
@@ -10822,7 +10858,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-21T21:52:32Z",
+      "last_retry_at": "2026-08-21T22:57:08Z",
       "retry_platforms": [
         "youtube"
       ]
