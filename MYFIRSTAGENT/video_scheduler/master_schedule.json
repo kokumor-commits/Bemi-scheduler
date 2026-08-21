@@ -9792,7 +9792,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-21T19:45:34Z",
+      "last_retry_at": "2026-08-21T20:47:45Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9809,8 +9809,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "id": "1060926020231401"
+        },
+        "instagram": {
+          "id": "18125499970796698"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-21T20:48:36Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "lovehabits_d18",
@@ -10526,7 +10541,7 @@
           "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-21T19:45:34Z",
+      "last_retry_at": "2026-08-21T20:48:36Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10795,7 +10810,22 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "id": "1516816380130354"
+        },
+        "instagram": {
+          "id": "17869888302651060"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-21T20:50:09Z",
+      "retry_platforms": [
+        "youtube"
+      ]
     },
     {
       "id": "characterseries_d02",
