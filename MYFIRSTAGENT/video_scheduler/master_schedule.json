@@ -1409,7 +1409,62 @@
           "id": "17914561137240802"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "DAJDUb784xnQNjWc41h-HMMST04",
+          "id": "ADhEbwqtc8Q",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:03Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Wishing For A Better Life — Become The Person Who Creates One #Shorts",
+            "description": "Instead of wishing for a better life — become the person who creates one.\n\nAsk yourself:\nWhat habits does that person have?\nHow do they speak?\nHow do they respond to setbacks?\n\nThen begin practicing those habits today.\n\nIdentity shapes behavior.\n\n#BecomeWhoYouAdmire #IdentityShift #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ADhEbwqtc8Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ADhEbwqtc8Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ADhEbwqtc8Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "become",
+              "better",
+              "creates",
+              "does",
+              "habits",
+              "instead",
+              "life",
+              "person",
+              "speak",
+              "stop",
+              "wishing",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Wishing For A Better Life — Become The Person Who Creates One #Shorts",
+              "description": "Instead of wishing for a better life — become the person who creates one.\n\nAsk yourself:\nWhat habits does that person have?\nHow do they speak?\nHow do they respond to setbacks?\n\nThen begin practicing those habits today.\n\nIdentity shapes behavior.\n\n#BecomeWhoYouAdmire #IdentityShift #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -1418,10 +1473,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:21Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:04Z"
     },
     {
       "id": "comeback_reel20_mirrortest",
@@ -1446,7 +1498,62 @@
           "id": "17955920793199754"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "S2e71jDWDep8MXTyLumrqCiM3NI",
+          "id": "i4sohpBdQos",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:05Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Only Question That Matters At The End Of Every Day #Shorts",
+            "description": "At the end of today, ask yourself one question:\n\nDid I become a little stronger today?\n\nNot richer. Not more popular. Stronger.\n\nGrowth isn't measured by applause.\n\nIt's measured by the person you become when no one is watching.\n\nKeep becoming.\n\n#TheMirrorTest #KeepBecoming #MindsetShift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/i4sohpBdQos/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/i4sohpBdQos/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/i4sohpBdQos/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "become",
+              "every",
+              "little",
+              "matters",
+              "more",
+              "only",
+              "popular",
+              "question",
+              "richer",
+              "stronger",
+              "today",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Only Question That Matters At The End Of Every Day #Shorts",
+              "description": "At the end of today, ask yourself one question:\n\nDid I become a little stronger today?\n\nNot richer. Not more popular. Stronger.\n\nGrowth isn't measured by applause.\n\nIt's measured by the person you become when no one is watching.\n\nKeep becoming.\n\n#TheMirrorTest #KeepBecoming #MindsetShift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -1455,10 +1562,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:21Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:06Z"
     },
     {
       "id": "notwasntlove_reel01_attentionisntlove",
@@ -3837,7 +3941,62 @@
           "id": "18114255244876259"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "PY1yYP7BPQBAX0gnUn3XXx5jtVY",
+          "id": "PzJProfkack",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:07Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Cannot Take Advice From Someone Who Has Never Paid The Price #Shorts",
+            "description": "The loudest critics in the room have never touched the work.\n\nThey study the game from the stands and call every play wrong from a seat that cost them nothing.\n\nYou cannot take advice from someone who has never paid the price the advice requires.\n\n#BuildInSilence #DoTheWork #NoReceipts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PzJProfkack/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PzJProfkack/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PzJProfkack/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "advice",
+              "cannot",
+              "critics",
+              "loudest",
+              "never",
+              "paid",
+              "price",
+              "room",
+              "someone",
+              "take",
+              "touched",
+              "work"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Cannot Take Advice From Someone Who Has Never Paid The Price #Shorts",
+              "description": "The loudest critics in the room have never touched the work.\n\nThey study the game from the stands and call every play wrong from a seat that cost them nothing.\n\nYou cannot take advice from someone who has never paid the price the advice requires.\n\n#BuildInSilence #DoTheWork #NoReceipts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -3846,10 +4005,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:21Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:08Z"
     },
     {
       "id": "abracadabra_day2_sixyears",
@@ -3874,7 +4030,62 @@
           "id": "18089872520540275"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "_bMOA7MNURWpdkqzf8jPqehoOIY",
+          "id": "ipEqRoUo11o",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:09Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Six Years Of Work Builds What Their Six Second Opinion Never Could #Shorts",
+            "description": "Six years of showing up every single day builds something a six-second opinion never could.\n\nWhile you were grinding through the hard years, they were sitting comfortably forming theories.\n\nTime in the work separates real knowledge from borrowed opinions.\n\n#PutInTheTime #Consistency #EarnIt",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ipEqRoUo11o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ipEqRoUo11o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ipEqRoUo11o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "builds",
+              "could",
+              "every",
+              "never",
+              "opinion",
+              "second",
+              "showing",
+              "single",
+              "something",
+              "while",
+              "work",
+              "years"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Six Years Of Work Builds What Their Six Second Opinion Never Could #Shorts",
+              "description": "Six years of showing up every single day builds something a six-second opinion never could.\n\nWhile you were grinding through the hard years, they were sitting comfortably forming theories.\n\nTime in the work separates real knowledge from borrowed opinions.\n\n#PutInTheTime #Consistency #EarnIt"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -3883,10 +4094,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:21Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:11Z"
     },
     {
       "id": "abracadabra_day3_neverdoneit",
@@ -3911,7 +4119,62 @@
           "id": "17878060605686168"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "FVehou1LL_m1ftaA8BeTh91CoNc",
+          "id": "FcWDkkea8yc",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:11Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Cannot Coach What You Have Never Done Period #Shorts",
+            "description": "You cannot coach what you've never done. It sounds simple. Most people miss it.\n\nInstructions from someone who's never built anything are not coaching.\n\nThat's speculation delivered with confidence.\n\nThe credential for advice is having actually done the thing.\n\n#Credibility #EarnTheRight #NoFakeCoaches",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/FcWDkkea8yc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/FcWDkkea8yc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/FcWDkkea8yc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "cannot",
+              "coach",
+              "done",
+              "instructions",
+              "miss",
+              "most",
+              "never",
+              "people",
+              "period",
+              "simple",
+              "sounds",
+              "you've"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Cannot Coach What You Have Never Done Period #Shorts",
+              "description": "You cannot coach what you've never done. It sounds simple. Most people miss it.\n\nInstructions from someone who's never built anything are not coaching.\n\nThat's speculation delivered with confidence.\n\nThe credential for advice is having actually done the thing.\n\n#Credibility #EarnTheRight #NoFakeCoaches"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -3920,10 +4183,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:14Z"
     },
     {
       "id": "abracadabra_day4_comfortablecritics",
@@ -3948,7 +4208,62 @@
           "id": "18362955670246761"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "wks100Enrs4wIVgb4siGmWGIWc4",
+          "id": "VIBA0v_ScI4",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:14Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Most Comfortable People Talk The Most About Your Risk #Shorts",
+            "description": "The most comfortable people talk the most about your risk.\n\nFrom nothing on the line, your moves look reckless. Your hustle looks desperate.\n\nThat's not clarity. That's the view from comfort judging what it never had the courage to try.\n\n#StayFocused #IgnoreTheNoise #ComfortZoneCritics",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/VIBA0v_ScI4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/VIBA0v_ScI4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/VIBA0v_ScI4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "comfortable",
+              "hustle",
+              "line",
+              "look",
+              "looks",
+              "most",
+              "moves",
+              "nothing",
+              "people",
+              "reckless",
+              "risk",
+              "talk"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Most Comfortable People Talk The Most About Your Risk #Shorts",
+              "description": "The most comfortable people talk the most about your risk.\n\nFrom nothing on the line, your moves look reckless. Your hustle looks desperate.\n\nThat's not clarity. That's the view from comfort judging what it never had the courage to try.\n\n#StayFocused #IgnoreTheNoise #ComfortZoneCritics"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -3957,10 +4272,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:16Z"
     },
     {
       "id": "abracadabra_day5_whatitfeels",
@@ -3985,7 +4297,62 @@
           "id": "18124639246765186"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "q_ZiiZ5uW3DCyx_JXZcjhzR2A3c",
+          "id": "tG_3J91r4FU",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:16Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "What It Feels Like To Build From Nothing The Critics Have No Idea #Shorts",
+            "description": "What it actually feels like to build from nothing — the critics have no idea.\n\nThe sleepless nights. The slow progress. The moments you almost quit but didn't.\n\nNone of that is visible from the outside. They see the attempt and judge it.\n\nThey never felt the weight of starting from zero.\n\n#BuildFromZero #TheRealWork #TheyDontKnow",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/tG_3J91r4FU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/tG_3J91r4FU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/tG_3J91r4FU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "actually",
+              "build",
+              "critics",
+              "feels",
+              "idea",
+              "like",
+              "moments",
+              "nights",
+              "nothing",
+              "progress",
+              "sleepless",
+              "slow"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "What It Feels Like To Build From Nothing The Critics Have No Idea #Shorts",
+              "description": "What it actually feels like to build from nothing — the critics have no idea.\n\nThe sleepless nights. The slow progress. The moments you almost quit but didn't.\n\nNone of that is visible from the outside. They see the attempt and judge it.\n\nThey never felt the weight of starting from zero.\n\n#BuildFromZero #TheRealWork #TheyDontKnow"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -3994,10 +4361,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:18Z"
     },
     {
       "id": "lionrain_day1_lioninrain",
@@ -4099,7 +4463,62 @@
           "id": "17938747752351047"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "aJ2Ujf-iUd5Ss3FnRagk8WYx7yc",
+          "id": "BOVMqT-0EIs",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:18Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Storm Does Not Change What You Are Built For #Shorts",
+            "description": "The storm doesn't change what you're built for.\n\nPressure doesn't rewrite your design.\n\nHard seasons reveal character that easy ones never had to call on.\n\nWhat you're made of doesn't dissolve under difficulty — it gets more visible.\n\n#StormSeason #BuiltDifferent #HardTimes",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/BOVMqT-0EIs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/BOVMqT-0EIs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/BOVMqT-0EIs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "built",
+              "change",
+              "design",
+              "does",
+              "doesn't",
+              "hard",
+              "pressure",
+              "reveal",
+              "rewrite",
+              "seasons",
+              "storm",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Storm Does Not Change What You Are Built For #Shorts",
+              "description": "The storm doesn't change what you're built for.\n\nPressure doesn't rewrite your design.\n\nHard seasons reveal character that easy ones never had to call on.\n\nWhat you're made of doesn't dissolve under difficulty — it gets more visible.\n\n#StormSeason #BuiltDifferent #HardTimes"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4108,10 +4527,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:21Z"
     },
     {
       "id": "lionrain_day3_lowposture",
@@ -4213,7 +4629,62 @@
           "id": "17903026041490102"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "XvYx2Z_JZAoL-GDwSXz5st4WwaI",
+          "id": "D-hPzgtRjJ8",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:21Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "They Counted You Out In The Storm And They Miscalculated #Shorts",
+            "description": "They counted you out in the storm. That was a miscalculation.\n\nThey saw the conditions — not the constitution.\n\nThey read the weather — not the warrior.\n\nPeople who dismiss someone in their hard season forget what that season is actually building.\n\n#TheyMiscalculated #ForgedByFire #WatchAndSee",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/D-hPzgtRjJ8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/D-hPzgtRjJ8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/D-hPzgtRjJ8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "conditions",
+              "constitution",
+              "counted",
+              "dismiss",
+              "miscalculated",
+              "miscalculation",
+              "people",
+              "read",
+              "someone",
+              "storm",
+              "warrior",
+              "weather"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "They Counted You Out In The Storm And They Miscalculated #Shorts",
+              "description": "They counted you out in the storm. That was a miscalculation.\n\nThey saw the conditions — not the constitution.\n\nThey read the weather — not the warrior.\n\nPeople who dismiss someone in their hard season forget what that season is actually building.\n\n#TheyMiscalculated #ForgedByFire #WatchAndSee"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4222,10 +4693,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:23Z"
     },
     {
       "id": "wolf_day4_worldapplaudsyourlimits",
@@ -7512,13 +7980,65 @@
           "id": "18071632193424418"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "MtJ3hV8Ktav09G0ErDyh4DmHkEQ",
+          "id": "x2kKl18RNdY",
+          "snippet": {
+            "publishedAt": "2026-08-22T20:28:23Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 1 - ROUND 2 - Monk mode, round 2. Follow the week.",
+            "description": "You already did the reset once. And the noise still came back.\n\nThat's not failure. That means detox isn't the goal - decisions are.\n\nStop resetting the same way. Start deciding what stays gone.\n\nMonk mode, round 2. Follow the week.\n\n#monkmode #discipline #selfgrowth",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/x2kKl18RNdY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/x2kKl18RNdY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/x2kKl18RNdY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "already",
+              "back",
+              "came",
+              "follow",
+              "mode",
+              "monk",
+              "noise",
+              "once",
+              "reset",
+              "round",
+              "still",
+              "week"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 1 - ROUND 2 - Monk mode, round 2. Follow the week.",
+              "description": "You already did the reset once. And the noise still came back.\n\nThat's not failure. That means detox isn't the goal - decisions are.\n\nStop resetting the same way. Start deciding what stays gone.\n\nMonk mode, round 2. Follow the week.\n\n#monkmode #discipline #selfgrowth"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T20:28:25Z"
     },
     {
       "id": "monk_d09",
@@ -7542,10 +8062,10 @@
           "id": "17925547554165771"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
+      "last_retry_at": "2026-08-22T20:28:26Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7572,10 +8092,10 @@
           "id": "18101943568949462"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:22Z",
+      "last_retry_at": "2026-08-22T20:28:27Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7602,10 +8122,10 @@
           "id": "18424221571176540"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:23Z",
+      "last_retry_at": "2026-08-22T20:28:27Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7632,10 +8152,10 @@
           "id": "18094667504637273"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:23Z",
+      "last_retry_at": "2026-08-22T20:28:28Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -7732,10 +8252,10 @@
           "id": "18004084349779193"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:23Z",
+      "last_retry_at": "2026-08-22T20:28:28Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8321,10 +8841,10 @@
           "id": "17902222446501584"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:23Z",
+      "last_retry_at": "2026-08-22T20:28:29Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8351,10 +8871,10 @@
           "id": "18364718314241326"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:23Z",
+      "last_retry_at": "2026-08-22T20:28:29Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8381,10 +8901,10 @@
           "id": "18163733815481368"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:23Z",
+      "last_retry_at": "2026-08-22T20:28:30Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8411,10 +8931,10 @@
           "id": "18617614093009590"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:23Z",
+      "last_retry_at": "2026-08-22T20:28:31Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8441,10 +8961,10 @@
           "id": "18615355126056255"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:24Z",
+      "last_retry_at": "2026-08-22T20:28:31Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8471,10 +8991,10 @@
           "id": "17897626725577107"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:24Z",
+      "last_retry_at": "2026-08-22T20:28:32Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9060,10 +9580,10 @@
           "id": "18130536289633577"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:24Z",
+      "last_retry_at": "2026-08-22T20:28:32Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9090,10 +9610,10 @@
           "id": "18161737360468953"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:24Z",
+      "last_retry_at": "2026-08-22T20:28:33Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9120,10 +9640,10 @@
           "id": "18113729042053115"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:24Z",
+      "last_retry_at": "2026-08-22T20:28:34Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9150,10 +9670,10 @@
           "id": "18076533593700381"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:24Z",
+      "last_retry_at": "2026-08-22T20:28:34Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9180,10 +9700,10 @@
           "id": "18369124882212602"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:24Z",
+      "last_retry_at": "2026-08-22T20:28:35Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9770,10 +10290,10 @@
           "id": "18091168361402555"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:36Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9800,10 +10320,10 @@
           "id": "18001926641982313"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:37Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9830,10 +10350,10 @@
           "id": "17896237074570196"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:37Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9860,10 +10380,10 @@
           "id": "17858192940696068"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:38Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9890,10 +10410,10 @@
           "id": "17954005785232778"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:39Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9990,10 +10510,10 @@
           "id": "18114301150752508"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:41Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10343,10 +10863,10 @@
           "id": "18106711936871699"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:41Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10372,10 +10892,10 @@
           "id": "18433229557132425"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:25Z",
+      "last_retry_at": "2026-08-22T20:28:42Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10401,10 +10921,10 @@
           "id": "17976416886095505"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:26Z",
+      "last_retry_at": "2026-08-22T20:28:42Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10499,10 +11019,10 @@
           "id": "18154767712449059"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:26Z",
+      "last_retry_at": "2026-08-22T20:28:43Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10528,10 +11048,10 @@
           "id": "18025022420916329"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:26Z",
+      "last_retry_at": "2026-08-22T20:28:44Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10557,10 +11077,10 @@
           "id": "18424110946197869"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:26Z",
+      "last_retry_at": "2026-08-22T20:28:45Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10586,10 +11106,10 @@
           "id": "18107592293127785"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:26Z",
+      "last_retry_at": "2026-08-22T20:28:46Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10615,10 +11135,10 @@
           "id": "18021820736698503"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:26Z",
+      "last_retry_at": "2026-08-22T20:28:47Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10644,10 +11164,10 @@
           "id": "18102503951611040"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:26Z",
+      "last_retry_at": "2026-08-22T20:28:47Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10673,10 +11193,10 @@
           "id": "17985312047857608"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:27Z",
+      "last_retry_at": "2026-08-22T20:28:48Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10702,10 +11222,10 @@
           "id": "18099771815250585"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:27Z",
+      "last_retry_at": "2026-08-22T20:28:48Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10731,10 +11251,10 @@
           "id": "18440811673192115"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:27Z",
+      "last_retry_at": "2026-08-22T20:28:49Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10760,10 +11280,10 @@
           "id": "18585796783066231"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:27Z",
+      "last_retry_at": "2026-08-22T20:28:50Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10789,10 +11309,10 @@
           "id": "17965342374170888"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:27Z",
+      "last_retry_at": "2026-08-22T20:28:50Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10818,10 +11338,10 @@
           "id": "18054494372793946"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:27Z",
+      "last_retry_at": "2026-08-22T20:28:51Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10847,10 +11367,10 @@
           "id": "18125781964683960"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:20:27Z",
+      "last_retry_at": "2026-08-22T20:28:51Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10945,10 +11465,10 @@
           "id": "18621599248009716"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T19:21:15Z",
+      "last_retry_at": "2026-08-22T20:28:52Z",
       "retry_platforms": [
         "youtube"
       ]
