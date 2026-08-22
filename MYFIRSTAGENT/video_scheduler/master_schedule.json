@@ -4170,7 +4170,50 @@
           "id": "18001543184977589"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "KBAHEdAuVEftNAW-G472kAB73so",
+          "id": "Q8dYICea3Pg",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:36:41Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The World Will Clap For You Accepting Limits — That Applause Is A Trap #RunThePlay",
+            "description": "The world will clap for you for accepting limits.\n\nThey call it wisdom. Maturity. Being realistic.\n\nBut you know what you handed over to earn those compliments.\n\n#RunThePlay #BeyondTheCeiling #Courage",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Q8dYICea3Pg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Q8dYICea3Pg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Q8dYICea3Pg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The World Will Clap For You Accepting Limits — That Applause Is A Trap #RunThePlay",
+              "description": "The world will clap for you for accepting limits.\n\nThey call it wisdom. Maturity. Being realistic.\n\nBut you know what you handed over to earn those compliments.\n\n#RunThePlay #BeyondTheCeiling #Courage"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4179,10 +4222,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T18:34:14Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:36:42Z"
     },
     {
       "id": "wolf_day5_hungerisagift",
@@ -9810,13 +9850,53 @@
           "id": "18083559533264922"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "kG6-suUh0Rmih6QRQcZiynsg6wU",
+          "id": "P-JBhHAsEvk",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:36:43Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Growth Is a Daily Choice",
+            "description": "The happiest couples never stop learning. They read, ask questions, improve communication, and grow through challenges together. Growth doesn't happen by accident, it happens by intention. Share this with someone committed to lifelong growth.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/P-JBhHAsEvk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/P-JBhHAsEvk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/P-JBhHAsEvk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Growth Is a Daily Choice",
+              "description": "The happiest couples never stop learning. They read, ask questions, improve communication, and grow through challenges together. Growth doesn't happen by accident, it happens by intention. Share this with someone committed to lifelong growth.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:34:14Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:36:45Z"
     },
     {
       "id": "lovehabits_d17",
@@ -9840,13 +9920,53 @@
           "id": "18125499970796698"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "9HCTDun4DoQ28_bubcTPWAQyDWY",
+          "id": "KO8tJbtwsII",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:36:45Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Power of Daily Kindness",
+            "description": "Small acts of kindness change relationships. A kind word, a thoughtful gesture, or a simple thank you can shift the tone of an entire day. Lasting love is often built one small moment at a time. Share this with someone who spreads kindness.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/KO8tJbtwsII/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/KO8tJbtwsII/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/KO8tJbtwsII/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Power of Daily Kindness",
+              "description": "Small acts of kindness change relationships. A kind word, a thoughtful gesture, or a simple thank you can shift the tone of an entire day. Lasting love is often built one small moment at a time. Share this with someone who spreads kindness.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:34:14Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:36:47Z"
     },
     {
       "id": "lovehabits_d18",
@@ -10574,13 +10694,53 @@
           "id": "18084106901259135"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "wad4yXzFjpve1nXAizmb2gLMBy0",
+          "id": "TWbmX6gaU4U",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:36:48Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Scrolling Is Not Resting",
+            "description": "Scrolling Is Not Resting\n\nYou say you're tired, so you scroll for two hours. But afterward you feel even more tired. Because distraction and rest are not the same thing. Your body stopped moving, but your mind never stopped consuming. When you're tired, actually rest. Walk. Sleep. Sit outside. Pray. Talk to someone you love. Give your mind silence. Tonight, trade thirty minutes of scrolling for real rest.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/TWbmX6gaU4U/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/TWbmX6gaU4U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/TWbmX6gaU4U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Scrolling Is Not Resting",
+              "description": "Scrolling Is Not Resting\n\nYou say you're tired, so you scroll for two hours. But afterward you feel even more tired. Because distraction and rest are not the same thing. Your body stopped moving, but your mind never stopped consuming. When you're tired, actually rest. Walk. Sleep. Sit outside. Pray. Talk to someone you love. Give your mind silence. Tonight, trade thirty minutes of scrolling for real rest.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:34:14Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:36:49Z"
     },
     {
       "id": "mindsetshift_d13",
@@ -10617,13 +10777,53 @@
           "id": "18335396203259697"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "baUHDaopKrI9xTt03z_V6SD2oFU",
+          "id": "_ndRnvR4Ze0",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:36:50Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Attention Builds Your Future",
+            "description": "Your Attention Builds Your Future\n\nShow me where your attention goes, and I'll show you where your life is going. Whatever receives your attention receives your energy. Whatever receives your energy eventually grows. If you want your business to grow, give it attention. If you want your marriage to grow, give it attention. If you want your mind to grow, give it attention. Ask yourself: what deserves more of me?\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_ndRnvR4Ze0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_ndRnvR4Ze0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_ndRnvR4Ze0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Attention Builds Your Future",
+              "description": "Your Attention Builds Your Future\n\nShow me where your attention goes, and I'll show you where your life is going. Whatever receives your attention receives your energy. Whatever receives your energy eventually grows. If you want your business to grow, give it attention. If you want your marriage to grow, give it attention. If you want your mind to grow, give it attention. Ask yourself: what deserves more of me?\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:34:15Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:36:52Z"
     },
     {
       "id": "mindsetshift_d14",
@@ -10870,13 +11070,53 @@
           "id": "17869888302651060"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "dGwajJFB7xoB3zqzMEhY_-skkww",
+          "id": "hTIWhozGQpo",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:36:53Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Trust",
+            "description": "Trust\n\nTrust is funny. It can take years to build and one careless moment to damage. So when someone trusts you, don't treat it like something small. It's actually one of the biggest things they can give you. Protect the trust people place in you.\n\n#Trust #Character #Relationships",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/hTIWhozGQpo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/hTIWhozGQpo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/hTIWhozGQpo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Trust",
+              "description": "Trust\n\nTrust is funny. It can take years to build and one careless moment to damage. So when someone trusts you, don't treat it like something small. It's actually one of the biggest things they can give you. Protect the trust people place in you.\n\n#Trust #Character #Relationships"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:34:15Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:36:54Z"
     },
     {
       "id": "characterseries_d02",
