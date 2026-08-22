@@ -4022,7 +4022,50 @@
           "id": "18607434943055174"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "f9oe-SqMvw3C5luJzlMv7BlLmyk",
+          "id": "lf5buMKp0N0",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:52:42Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Don't Look At A Lion In The Rain And Think It's Something Less #Shorts",
+            "description": "Don't look at someone in a hard season and confuse their circumstances for their ceiling.\n\nA lion caught in a downpour still has everything it was built with.\n\nThe storm doesn't reassign its nature.\n\nWhat you see is temporary conditions — not permanent limits.\n\n#LionInTheRain #KnowYourNature #HardSeasons",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/lf5buMKp0N0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/lf5buMKp0N0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/lf5buMKp0N0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Don't Look At A Lion In The Rain And Think It's Something Less #Shorts",
+              "description": "Don't look at someone in a hard season and confuse their circumstances for their ceiling.\n\nA lion caught in a downpour still has everything it was built with.\n\nThe storm doesn't reassign its nature.\n\nWhat you see is temporary conditions — not permanent limits.\n\n#LionInTheRain #KnowYourNature #HardSeasons"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4031,10 +4074,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T18:49:45Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:52:44Z"
     },
     {
       "id": "lionrain_day2_stormdoesntchange",
@@ -4096,7 +4136,50 @@
           "id": "18174917659427340"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "DTrCJgmozBg6X1E20hDDQbvHV24",
+          "id": "YkcLKY_V32I",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:52:45Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Low Posture In A Tough Moment Is Not The Same As Low Power #Shorts",
+            "description": "Low posture in a tough moment is not the same as low power.\n\nSome of the most powerful people on earth have been in positions that looked like defeat from the outside.\n\nWhat they carried inside didn't shrink to fit the moment.\n\n#LowPostureNotLowPower #TrueStrength #HiddenPotential",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/YkcLKY_V32I/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/YkcLKY_V32I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/YkcLKY_V32I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Low Posture In A Tough Moment Is Not The Same As Low Power #Shorts",
+              "description": "Low posture in a tough moment is not the same as low power.\n\nSome of the most powerful people on earth have been in positions that looked like defeat from the outside.\n\nWhat they carried inside didn't shrink to fit the moment.\n\n#LowPostureNotLowPower #TrueStrength #HiddenPotential"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4105,10 +4188,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-22T18:49:45Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:52:47Z"
     },
     {
       "id": "lionrain_day4_miscalculated",
@@ -7582,13 +7662,53 @@
           "id": "18060625541528009"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "_TkkbAgQkvSRvaDkPzlmyDW_Un0",
+          "id": "Yo8rgZnM7W4",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:52:47Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 6 - ROUND 2 - Day 6, round 2. One left.",
+            "description": "You want discipline to feel exciting. It's supposed to feel boring.\n\nBoring means it stopped being a decision and became a routine.\n\nStop chasing the high of starting over. Start protecting the boredom of showing up.\n\nDay 6, round 2. One left.\n\n#monkmode #growthmindset #selfdiscipline",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Yo8rgZnM7W4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Yo8rgZnM7W4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Yo8rgZnM7W4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 6 - ROUND 2 - Day 6, round 2. One left.",
+              "description": "You want discipline to feel exciting. It's supposed to feel boring.\n\nBoring means it stopped being a decision and became a routine.\n\nStop chasing the high of starting over. Start protecting the boredom of showing up.\n\nDay 6, round 2. One left.\n\n#monkmode #growthmindset #selfdiscipline"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:49:45Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:52:49Z"
     },
     {
       "id": "monk_d14",
@@ -9090,13 +9210,53 @@
           "id": "18003266681989186"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "ghc6TpbOtSnx4oGD4OogyE9LsYc",
+          "id": "68Uiwa2dLb8",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:52:49Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "I Waited Years to Feel Ready to Forgive",
+            "description": "I wish I knew this earlier. Someone hurt me deeply, and I told myself I'd forgive them once I felt ready. So I waited. Months turned into years. I kept checking my heart like a weather report, waiting for the calm that never came. I thought the readiness had to arrive first. But that waiting? It wasn't peace. It was doubt. And doubt just made me anxious, frozen, stuck rehearsing the pain. Then it hit me. Faith doesn't wait for proof. It moves first. It prepares. So I let go before I felt ready, and the peace followed the action. That's the mechanism. You don't wait to feel it. You move, and the feeling catches up. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/68Uiwa2dLb8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/68Uiwa2dLb8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/68Uiwa2dLb8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "I Waited Years to Feel Ready to Forgive",
+              "description": "I wish I knew this earlier. Someone hurt me deeply, and I told myself I'd forgive them once I felt ready. So I waited. Months turned into years. I kept checking my heart like a weather report, waiting for the calm that never came. I thought the readiness had to arrive first. But that waiting? It wasn't peace. It was doubt. And doubt just made me anxious, frozen, stuck rehearsing the pain. Then it hit me. Faith doesn't wait for proof. It moves first. It prepares. So I let go before I felt ready, and the peace followed the action. That's the mechanism. You don't wait to feel it. You move, and the feeling catches up. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:49:45Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:52:51Z"
     },
     {
       "id": "lovehabits_d01",
@@ -9760,13 +9920,53 @@
           "id": "18002274689989604"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "wYU12WjGtJZSpwOOruq8iItfYIw",
+          "id": "_MalgZN77zw",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:52:52Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Money Doesn't Solve Relationship Problems",
+            "description": "More money won't automatically create a better marriage. Financial stability helps, but healthy communication and shared values matter just as much. Without them, wealth alone can't prevent conflict. Share this with someone planning their future.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_MalgZN77zw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_MalgZN77zw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_MalgZN77zw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Money Doesn't Solve Relationship Problems",
+              "description": "More money won't automatically create a better marriage. Financial stability helps, but healthy communication and shared values matter just as much. Without them, wealth alone can't prevent conflict. Share this with someone planning their future.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:49:45Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:52:54Z"
     },
     {
       "id": "lovehabits_d14",
@@ -9820,13 +10020,53 @@
           "id": "17955879066208686"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "fxKFE-DRftTra4HzaYbCd-DM530",
+          "id": "A48q5aMOUIo",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:52:54Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Protect the Relationship, Not Your Image",
+            "description": "Stop trying to look like the perfect couple. Strong relationships aren't built by appearances. They're built by honesty, humility, and consistent effort behind closed doors. Share this with someone who values authenticity.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/A48q5aMOUIo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/A48q5aMOUIo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/A48q5aMOUIo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Protect the Relationship, Not Your Image",
+              "description": "Stop trying to look like the perfect couple. Strong relationships aren't built by appearances. They're built by honesty, humility, and consistent effort behind closed doors. Share this with someone who values authenticity.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:49:45Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:52:56Z"
     },
     {
       "id": "lovehabits_d16",
@@ -10636,13 +10876,53 @@
           "id": "18442330984193935"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://oauth2.googleapis.com/token'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "kind": "youtube#video",
+          "etag": "xejptopNIMQGwwnh8tQnN1vYqDw",
+          "id": "_kGpM8uiJC4",
+          "snippet": {
+            "publishedAt": "2026-08-22T19:52:57Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Feeding Your Mind Junk",
+            "description": "Stop Feeding Your Mind Junk\n\nYou wouldn't eat junk food from morning until midnight. So why feed your mind that way? Drama. Gossip. Arguments. Random videos. Bad news. Hour after hour. Then you wonder why your mind feels heavy. Choose a cleaner mental diet. Read something useful. Listen to something meaningful. Spend time in silence. Your thoughts are shaped by what you repeatedly consume. Feed your mind better today.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_kGpM8uiJC4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_kGpM8uiJC4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_kGpM8uiJC4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Feeding Your Mind Junk",
+              "description": "Stop Feeding Your Mind Junk\n\nYou wouldn't eat junk food from morning until midnight. So why feed your mind that way? Drama. Gossip. Arguments. Random videos. Bad news. Hour after hour. Then you wonder why your mind feels heavy. Choose a cleaner mental diet. Read something useful. Listen to something meaningful. Spend time in silence. Your thoughts are shaped by what you repeatedly consume. Feed your mind better today.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-22T18:49:45Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-22T19:52:58Z"
     },
     {
       "id": "mindsetshift_d12",
