@@ -10753,7 +10753,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T20:45:06Z",
+      "last_retry_at": "2026-08-22T21:47:30Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11958,7 +11958,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-22T20:45:49Z",
+      "last_retry_at": "2026-08-22T21:47:32Z",
       "retry_platforms": [
         "facebook",
         "youtube"
