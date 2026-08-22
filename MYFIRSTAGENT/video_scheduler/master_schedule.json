@@ -10740,8 +10740,24 @@
         "instagram",
         "youtube"
       ],
-      "done": false,
-      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases."
+      "done": true,
+      "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "results": {
+        "facebook": {
+          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+        },
+        "instagram": {
+          "id": "17993462489829110"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-22T20:45:06Z",
+      "retry_platforms": [
+        "facebook",
+        "youtube"
+      ]
     },
     {
       "id": "lovehabits_d19",
@@ -11930,7 +11946,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+        },
+        "instagram": {
+          "id": "18114051859969305"
+        },
+        "youtube": {
+          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+        }
+      },
+      "last_retry_at": "2026-08-22T20:45:49Z",
+      "retry_platforms": [
+        "facebook",
+        "youtube"
+      ]
     },
     {
       "id": "characterseries_d03",
