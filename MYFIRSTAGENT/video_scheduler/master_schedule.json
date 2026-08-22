@@ -11689,7 +11689,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+        },
+        "instagram": {
+          "id": "18134302810642503"
+        },
+        "youtube": {
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+        }
+      },
+      "last_retry_at": "2026-08-22T23:06:38Z",
+      "retry_platforms": [
+        "facebook",
+        "youtube"
+      ]
     },
     {
       "id": "mindsetshift_d15",
