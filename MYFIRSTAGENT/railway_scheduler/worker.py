@@ -101,11 +101,12 @@ def needs_retry(post: dict) -> list:
 def fire_platforms(post: dict, platforms: list) -> dict:
     url, caption = post["video_url"], post["caption"]
     yt_title = post.get("yt_title", caption[:100])
+    thumb = post.get("thumbnail_url", "")
     results = {}
     for platform in platforms:
         try:
             if platform == "facebook":
-                results["facebook"] = post_facebook(url, caption)
+                results["facebook"] = post_facebook(url, caption, thumbnail_url=thumb)
                 affiliate_comment = post.get("affiliate_comment")
                 if affiliate_comment and "id" in results["facebook"]:
                     try:
@@ -114,9 +115,9 @@ def fire_platforms(post: dict, platforms: list) -> dict:
                     except Exception as ce:
                         log.error(f"  ✗ facebook affiliate comment: {ce}")
             elif platform == "instagram":
-                results["instagram"] = post_instagram(url, caption)
+                results["instagram"] = post_instagram(url, caption, thumbnail_url=thumb)
             elif platform == "youtube":
-                results["youtube"] = post_youtube(url, yt_title, caption)
+                results["youtube"] = post_youtube(url, yt_title, caption, thumbnail_url=thumb)
             elif platform == "tiktok":
                 results["tiktok"] = post_tiktok(url, caption, yt_title)
             elif platform == "threads":

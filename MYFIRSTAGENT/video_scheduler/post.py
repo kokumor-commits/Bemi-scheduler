@@ -32,23 +32,77 @@ GRAPH = "https://graph.facebook.com/v19.0"
 
 
 # ── Facebook ──────────────────────────────────────────────────────────────────
-def post_facebook(video_url: str, caption: str) -> dict:
-    # Download video first — avoids Facebook needing to fetch from R2 directly
-    print(f"  FB: downloading video...", flush=True)
-    vid = httpx.get(video_url, timeout=300, follow_redirects=True)
-    vid.raise_for_status()
-    video_bytes = vid.content
-    print(f"  FB: downloaded {len(video_bytes)//1024}KB, uploading...", flush=True)
+def post_facebook(video_url: str, caption: str, thumbnail_url: str = "") -> dict:
+    """Publish via the Reels Publishing API (video_reels), not the plain /videos
+    upload. Meta has shifted organic distribution heavily toward Reels since
+    2023 -- a plain Page video post gets a fraction of the reach a Reel does,
+    even at identical 9:16 spec. See project_amazon_affiliate-adjacent audit,
+    2026-08-22: this was the primary reach-suppression fix alongside removing
+    outbound links from captions."""
+    # Phase 1: start
+    start = httpx.post(
+        f"{GRAPH}/{FB_PAGE_ID}/video_reels",
+        data={"upload_phase": "start", "access_token": META_TOKEN},
+        timeout=30,
+    )
+    if not start.is_success:
+        raise Exception(f"FB reels start {start.status_code}: {start.text[:500]}")
+    start_data = start.json()
+    video_id = start_data["video_id"]
+    upload_url = start_data.get("upload_url") or f"https://rupload.facebook.com/video-upload/v19.0/{video_id}"
+
+    # Phase 2: transfer -- pass file_url directly, Facebook pulls from R2 itself
+    print(f"  FB: transferring video (video_id={video_id})...", flush=True)
+    transfer = httpx.post(
+        upload_url,
+        headers={"Authorization": f"OAuth {META_TOKEN}"},
+        data={"file_url": video_url},
+        timeout=180,
+    )
+    if not transfer.is_success:
+        body = transfer.text[:500]
+        print(f"  FB transfer error body: {body}", flush=True)
+        raise Exception(f"FB reels transfer {transfer.status_code}: {body}")
+
+    # Phase 3: finish/publish
+    finish = httpx.post(
+        f"{GRAPH}/{FB_PAGE_ID}/video_reels",
+        data={
+            "upload_phase": "finish",
+            "video_id": video_id,
+            "video_state": "PUBLISHED",
+            "description": caption,
+            "access_token": META_TOKEN,
+        },
+        timeout=60,
+    )
+    if not finish.is_success:
+        body = finish.text[:500]
+        print(f"  FB finish error body: {body}", flush=True)
+        raise Exception(f"FB reels finish {finish.status_code}: {body}")
+
+    if thumbnail_url:
+        try:
+            post_facebook_thumbnail(video_id, thumbnail_url)
+        except Exception as e:
+            print(f"  FB thumbnail set failed (non-fatal): {e}", flush=True)
+
+    return {"id": video_id, **finish.json()}
+
+
+def post_facebook_thumbnail(video_id: str, thumbnail_url: str) -> dict:
+    """Upload a custom thumbnail and mark it preferred. FB's thumbnails
+    endpoint wants the image bytes, not a URL, so fetch then upload."""
+    img = httpx.get(thumbnail_url, timeout=30, follow_redirects=True)
+    img.raise_for_status()
     r = httpx.post(
-        f"{GRAPH}/{FB_PAGE_ID}/videos",
-        data={"description": caption, "access_token": META_TOKEN},
-        files={"source": ("video.mp4", video_bytes, "video/mp4")},
-        timeout=300,
+        f"{GRAPH}/{video_id}/thumbnails",
+        data={"is_preferred": "true", "access_token": META_TOKEN},
+        files={"source": ("thumb.jpg", img.content, "image/jpeg")},
+        timeout=30,
     )
     if not r.is_success:
-        body = r.text[:500]
-        print(f"  FB error body: {body}", flush=True)
-        raise Exception(f"FB {r.status_code}: {body}")
+        raise Exception(f"FB thumbnail {r.status_code}: {r.text[:500]}")
     return r.json()
 
 
@@ -68,16 +122,19 @@ def post_facebook_comment(video_post_id: str, message: str) -> dict:
 
 
 # ── Instagram Reels ───────────────────────────────────────────────────────────
-def post_instagram(video_url: str, caption: str) -> dict:
+def post_instagram(video_url: str, caption: str, thumbnail_url: str = "") -> dict:
     # Step 1: create container
+    data = {
+        "media_type": "REELS",
+        "video_url": video_url,
+        "caption": caption,
+        "access_token": META_TOKEN,
+    }
+    if thumbnail_url:
+        data["cover_url"] = thumbnail_url  # takes precedence over auto-picked frame
     r = httpx.post(
         f"{GRAPH}/{IG_ACCT_ID}/media",
-        data={
-            "media_type": "REELS",
-            "video_url": video_url,
-            "caption": caption,
-            "access_token": META_TOKEN,
-        },
+        data=data,
         timeout=180,
     )
     if not r.is_success:
@@ -155,7 +212,25 @@ def _yt_token() -> str:
     return r.json()["access_token"]
 
 
-def post_youtube(video_url: str, title: str, description: str = "") -> dict:
+def _yt_tags(title: str, description: str) -> list[str]:
+    """Real keyword tags for search/suggested discovery, not just '#Shorts'."""
+    import re
+    text = f"{title} {description}".lower()
+    words = re.findall(r"[a-z']{4,}", text)
+    stop = {"this", "that", "with", "your", "have", "will", "from", "they",
+            "them", "what", "when", "there", "their", "about", "which", "shorts"}
+    seen, tags = set(), []
+    for w in words:
+        if w in stop or w in seen:
+            continue
+        seen.add(w)
+        tags.append(w)
+        if len(tags) >= 12:
+            break
+    return ["#Shorts"] + tags
+
+
+def post_youtube(video_url: str, title: str, description: str = "", thumbnail_url: str = "") -> dict:
     access_token = _yt_token()
 
     # Download video from R2 (videos are ~5-10 MB at 30s)
@@ -179,7 +254,7 @@ def post_youtube(video_url: str, title: str, description: str = "") -> dict:
             "snippet": {
                 "title": title[:100],
                 "description": description,
-                "tags": ["#Shorts"],
+                "tags": _yt_tags(title, description),
                 "categoryId": "22",
             },
             "status": {
@@ -200,7 +275,28 @@ def post_youtube(video_url: str, title: str, description: str = "") -> dict:
         timeout=600,
     )
     up.raise_for_status()
-    return up.json()
+    result = up.json()
+
+    if thumbnail_url and result.get("id"):
+        try:
+            post_youtube_thumbnail(result["id"], access_token, thumbnail_url)
+        except Exception as e:
+            print(f"  YT thumbnail set failed (non-fatal, needs phone-verified channel): {e}", flush=True)
+
+    return result
+
+
+def post_youtube_thumbnail(video_id: str, access_token: str, thumbnail_url: str) -> dict:
+    img = httpx.get(thumbnail_url, timeout=30, follow_redirects=True)
+    img.raise_for_status()
+    r = httpx.post(
+        f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={video_id}",
+        headers={"Authorization": f"Bearer {access_token}", "Content-Type": "image/jpeg"},
+        content=img.content,
+        timeout=60,
+    )
+    r.raise_for_status()
+    return r.json()
 
 
 # ── TikTok ────────────────────────────────────────────────────────────────────
