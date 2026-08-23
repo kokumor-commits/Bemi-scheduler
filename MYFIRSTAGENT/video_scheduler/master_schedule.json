@@ -8087,7 +8087,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:04Z",
+      "last_retry_at": "2026-08-23T10:02:11Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8117,7 +8117,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:04Z",
+      "last_retry_at": "2026-08-23T10:02:11Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8147,7 +8147,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:05Z",
+      "last_retry_at": "2026-08-23T10:02:12Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8177,7 +8177,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:05Z",
+      "last_retry_at": "2026-08-23T10:02:12Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8277,7 +8277,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:06Z",
+      "last_retry_at": "2026-08-23T10:02:13Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8866,7 +8866,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:06Z",
+      "last_retry_at": "2026-08-23T10:02:13Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8896,7 +8896,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:07Z",
+      "last_retry_at": "2026-08-23T10:02:13Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8923,10 +8923,10 @@
           "id": "18163733815481368"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:07Z",
+      "last_retry_at": "2026-08-23T10:02:14Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8956,7 +8956,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:08Z",
+      "last_retry_at": "2026-08-23T10:02:14Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -8983,10 +8983,10 @@
           "id": "18615355126056255"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:08Z",
+      "last_retry_at": "2026-08-23T10:02:15Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9016,7 +9016,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:08Z",
+      "last_retry_at": "2026-08-23T10:02:15Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9602,10 +9602,10 @@
           "id": "18130536289633577"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:09Z",
+      "last_retry_at": "2026-08-23T10:02:16Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9632,10 +9632,10 @@
           "id": "18161737360468953"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:10Z",
+      "last_retry_at": "2026-08-23T10:02:16Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9662,10 +9662,10 @@
           "id": "18113729042053115"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:10Z",
+      "last_retry_at": "2026-08-23T10:02:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9692,10 +9692,10 @@
           "id": "18076533593700381"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:11Z",
+      "last_retry_at": "2026-08-23T10:02:17Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -9722,10 +9722,10 @@
           "id": "18369124882212602"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:12Z",
+      "last_retry_at": "2026-08-23T10:02:18Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10312,10 +10312,10 @@
           "id": "18091168361402555"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:12Z",
+      "last_retry_at": "2026-08-23T10:02:18Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10342,10 +10342,10 @@
           "id": "18001926641982313"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:13Z",
+      "last_retry_at": "2026-08-23T10:02:19Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10372,10 +10372,10 @@
           "id": "17896237074570196"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:13Z",
+      "last_retry_at": "2026-08-23T10:02:19Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10402,10 +10402,10 @@
           "id": "17858192940696068"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:14Z",
+      "last_retry_at": "2026-08-23T10:02:20Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10432,10 +10432,10 @@
           "id": "17954005785232778"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:15Z",
+      "last_retry_at": "2026-08-23T10:02:20Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10535,7 +10535,7 @@
           "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:15Z",
+      "last_retry_at": "2026-08-23T10:02:21Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10901,10 +10901,10 @@
           "id": "18106711936871699"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:15Z",
+      "last_retry_at": "2026-08-23T10:02:21Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10930,10 +10930,10 @@
           "id": "18433229557132425"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:16Z",
+      "last_retry_at": "2026-08-23T10:02:22Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -10959,10 +10959,10 @@
           "id": "17976416886095505"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:16Z",
+      "last_retry_at": "2026-08-23T10:02:22Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11057,10 +11057,10 @@
           "id": "18154767712449059"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:17Z",
+      "last_retry_at": "2026-08-23T10:02:22Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11086,10 +11086,10 @@
           "id": "18025022420916329"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:18Z",
+      "last_retry_at": "2026-08-23T10:02:23Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11115,10 +11115,10 @@
           "id": "18424110946197869"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:18Z",
+      "last_retry_at": "2026-08-23T10:02:23Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11144,10 +11144,10 @@
           "id": "18107592293127785"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:19Z",
+      "last_retry_at": "2026-08-23T10:02:24Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11173,10 +11173,10 @@
           "id": "18021820736698503"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:19Z",
+      "last_retry_at": "2026-08-23T10:02:24Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11202,10 +11202,10 @@
           "id": "18102503951611040"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:20Z",
+      "last_retry_at": "2026-08-23T10:02:25Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11231,10 +11231,10 @@
           "id": "17985312047857608"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:20Z",
+      "last_retry_at": "2026-08-23T10:02:25Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11260,10 +11260,10 @@
           "id": "18099771815250585"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:21Z",
+      "last_retry_at": "2026-08-23T10:02:25Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11289,10 +11289,10 @@
           "id": "18440811673192115"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:22Z",
+      "last_retry_at": "2026-08-23T10:02:26Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11318,10 +11318,10 @@
           "id": "18585796783066231"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:22Z",
+      "last_retry_at": "2026-08-23T10:02:26Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11347,10 +11347,10 @@
           "id": "17965342374170888"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:23Z",
+      "last_retry_at": "2026-08-23T10:02:27Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11376,10 +11376,10 @@
           "id": "18054494372793946"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:23Z",
+      "last_retry_at": "2026-08-23T10:02:27Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11405,10 +11405,10 @@
           "id": "18125781964683960"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:24Z",
+      "last_retry_at": "2026-08-23T10:02:28Z",
       "retry_platforms": [
         "youtube"
       ]
@@ -11503,10 +11503,10 @@
           "id": "18621599248009716"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:00:24Z",
+      "last_retry_at": "2026-08-23T10:02:28Z",
       "retry_platforms": [
         "youtube"
       ]
