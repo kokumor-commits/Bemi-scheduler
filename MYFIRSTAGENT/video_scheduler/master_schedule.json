@@ -11701,7 +11701,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T02:12:54Z",
+      "last_retry_at": "2026-08-23T03:14:46Z",
       "retry_platforms": [
         "facebook",
         "youtube"
