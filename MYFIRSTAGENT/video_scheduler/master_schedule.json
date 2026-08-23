@@ -10828,7 +10828,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T21:58:11Z",
+      "last_retry_at": "2026-08-23T23:01:32Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11755,7 +11755,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T21:58:13Z",
+      "last_retry_at": "2026-08-23T23:01:33Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11787,7 +11787,23 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+        },
+        "instagram": {
+          "id": "18093507182536417"
+        },
+        "youtube": {
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+        }
+      },
+      "last_retry_at": "2026-08-23T23:03:09Z",
+      "retry_platforms": [
+        "facebook",
+        "youtube"
+      ]
     },
     {
       "id": "mindsetshift_d16",
@@ -12080,7 +12096,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T21:58:15Z",
+      "last_retry_at": "2026-08-23T23:03:11Z",
       "retry_platforms": [
         "facebook",
         "youtube"
