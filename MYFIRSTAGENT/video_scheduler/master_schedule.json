@@ -4795,7 +4795,7 @@
           "id": "18049390502637144"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4804,7 +4804,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-23T09:15:59Z",
+      "last_retry_at": "2026-08-23T10:18:03Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -10772,10 +10772,10 @@
           "id": "17993462489829110"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:16:02Z",
+      "last_retry_at": "2026-08-23T10:18:05Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11993,10 +11993,10 @@
           "id": "18114051859969305"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:16:04Z",
+      "last_retry_at": "2026-08-23T10:18:06Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -12135,10 +12135,10 @@
           "id": "18122186152861721"
         },
         "youtube": {
-          "error": "Client error '400 Bad Request' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T09:16:06Z",
+      "last_retry_at": "2026-08-23T10:18:08Z",
       "retry_platforms": [
         "facebook",
         "youtube"
