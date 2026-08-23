@@ -4804,7 +4804,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-23T22:44:36Z",
+      "last_retry_at": "2026-08-23T23:49:30Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -4842,7 +4842,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-23T22:45:08Z",
+      "last_retry_at": "2026-08-23T23:49:32Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -10797,7 +10797,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T22:45:10Z",
+      "last_retry_at": "2026-08-23T23:49:34Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -12066,7 +12066,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T22:45:11Z",
+      "last_retry_at": "2026-08-23T23:49:35Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -12224,7 +12224,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T22:45:13Z",
+      "last_retry_at": "2026-08-23T23:49:37Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -12254,7 +12254,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-23T22:45:56Z",
+      "last_retry_at": "2026-08-23T23:49:39Z",
       "retry_platforms": [
         "facebook",
         "youtube"
