@@ -13790,7 +13790,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetKq6_WA6MNX41VrWAmHb1FC4H_lmHUsYosGQ6fbyaJkV8vRDQtlhm415YW7uLBr2vE1c33qVyge8FkBMtBReWgi2LbwOafBFbo3KhgsShwV6W-ys09c5g6e7D71C2ulYr0nWXZ5ApW05Zvu2pWebm3x4H5bTEjZCBy1YgEzW9Ousy9UMovR7KpzyKJdDdqB2Ok1KamiZ4fLnoLmcmThQN7QaygAc4Tdv0OhY1K-ZMG"
         },
         "instagram": {
           "id": "18025198658885045"
@@ -13854,7 +13854,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-24T08:05:06Z",
+      "last_retry_at": "2026-08-24T09:06:55Z",
       "retry_platforms": [
         "facebook"
       ]
