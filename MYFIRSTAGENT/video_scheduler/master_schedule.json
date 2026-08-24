@@ -12059,13 +12059,67 @@
           "id": "18112546181082524"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "FldVyQPtcK5aZiSu070JK45IHak",
+          "id": "bVNiH_LHZng",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:34:22Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Be the Example You Want to See",
+            "description": "Want a better relationship? Start with yourself. We can't control another person's choices, but we can control our own attitude, words, and actions. Personal growth often inspires relational growth. Share this with someone who's focused on becoming better.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/bVNiH_LHZng/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/bVNiH_LHZng/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/bVNiH_LHZng/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "another",
+              "attitude",
+              "better",
+              "can't",
+              "choices",
+              "control",
+              "example",
+              "person's",
+              "relationship",
+              "start",
+              "want",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Be the Example You Want to See",
+              "description": "Want a better relationship? Start with yourself. We can't control another person's choices, but we can control our own attitude, words, and actions. Personal growth often inspires relational growth. Share this with someone who's focused on becoming better.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:30:53Z",
+      "last_retry_at": "2026-08-24T07:34:23Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -13895,13 +13949,67 @@
           "id": "18134302810642503"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "UG6eCiZz0lT1OSJPG82V-crLSK8",
+          "id": "qj2Q1wEdjVk",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:34:26Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Don't Need to Disappear for Six Months",
+            "description": "You Don't Need to Disappear for Six Months\n\nMonk Mode doesn't mean you have to disappear from the world. People make discipline complicated. Delete everyone. Wake up at 4 a.m. Never have fun. Work sixteen hours. That isn't necessary. Start smaller. One quiet morning. One workout. One hour of deep work. One evening without social media. Small discipline, repeated, becomes a different life. Start with one hour today.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/qj2Q1wEdjVk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/qj2Q1wEdjVk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/qj2Q1wEdjVk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "disappear",
+              "discipline",
+              "doesn't",
+              "don't",
+              "make",
+              "mean",
+              "mode",
+              "monk",
+              "months",
+              "need",
+              "people",
+              "world"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Don't Need to Disappear for Six Months",
+              "description": "You Don't Need to Disappear for Six Months\n\nMonk Mode doesn't mean you have to disappear from the world. People make discipline complicated. Delete everyone. Wake up at 4 a.m. Never have fun. Work sixteen hours. That isn't necessary. Start smaller. One quiet morning. One workout. One hour of deep work. One evening without social media. Small discipline, repeated, becomes a different life. Start with one hour today.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:30:55Z",
+      "last_retry_at": "2026-08-24T07:34:27Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -13939,13 +14047,67 @@
           "id": "18093507182536417"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "9wkoqL1aDCkxQdzdDwarUKCXpZw",
+          "id": "oGHqQG4voPs",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:34:30Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Learn to Be Alone With Your Thoughts",
+            "description": "Learn to Be Alone With Your Thoughts\n\nSome people aren't afraid of being alone. They're afraid of what they hear when everything becomes quiet. So they stay busy. They keep scrolling. They keep talking. They keep running. Anything to avoid themselves. Sit with yourself. Ask: Where am I going? What am I avoiding? What needs to change? Silence sometimes tells the truth that noise helps us escape. Spend ten honest minutes with yourself today.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/oGHqQG4voPs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/oGHqQG4voPs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/oGHqQG4voPs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "afraid",
+              "alone",
+              "aren't",
+              "becomes",
+              "being",
+              "everything",
+              "hear",
+              "learn",
+              "people",
+              "some",
+              "they're",
+              "thoughts"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Learn to Be Alone With Your Thoughts",
+              "description": "Learn to Be Alone With Your Thoughts\n\nSome people aren't afraid of being alone. They're afraid of what they hear when everything becomes quiet. So they stay busy. They keep scrolling. They keep talking. They keep running. Anything to avoid themselves. Sit with yourself. Ask: Where am I going? What am I avoiding? What needs to change? Silence sometimes tells the truth that noise helps us escape. Spend ten honest minutes with yourself today.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:30:57Z",
+      "last_retry_at": "2026-08-24T07:34:31Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -14192,13 +14354,67 @@
           "id": "18095264849379179"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "SXHjD8b58XTqSoxWUW5tMJTDpnA",
+          "id": "KD6tiCf5w2g",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:34:33Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Small Lies",
+            "description": "Small Lies\n\nPeople say, 'It was just a small lie.' But small lies create big questions. Because once one thing becomes untrue, people start wondering what else they should question. That is how trust slowly disappears. Don't trade trust for convenience.\n\n#Trust #Character #Relationships",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/KD6tiCf5w2g/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/KD6tiCf5w2g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/KD6tiCf5w2g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "because",
+              "becomes",
+              "create",
+              "just",
+              "lies",
+              "once",
+              "people",
+              "questions",
+              "small",
+              "start",
+              "thing",
+              "untrue"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Small Lies",
+              "description": "Small Lies\n\nPeople say, 'It was just a small lie.' But small lies create big questions. Because once one thing becomes untrue, people start wondering what else they should question. That is how trust slowly disappears. Don't trade trust for convenience.\n\n#Trust #Character #Relationships"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:30:59Z",
+      "last_retry_at": "2026-08-24T07:34:35Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
