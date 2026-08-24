@@ -6,23 +6,30 @@ All env vars loaded from GitHub Secrets (or local .env).
 import os, time, httpx
 from typing import Optional
 
+# Env vars can pick up a trailing newline/whitespace depending on how they were
+# pasted into Railway/GitHub Secrets -- harmless in form-data params, but an
+# HTTP header value with a newline gets rejected outright ("Illegal header
+# value"). Strip every token at load time so this can't silently break a
+# header-based call again (bit us on the FB Reels transfer phase, 2026-08-23).
+_env = lambda k, d="": os.environ.get(k, d).strip()
+
 # ── Meta: Facebook, Instagram, Threads ───────────────────────────────────────
-META_TOKEN    = os.environ.get("META_PAGE_TOKEN", "")
-FB_PAGE_ID    = os.environ.get("FB_PAGE_ID", "")
-IG_ACCT_ID    = os.environ.get("IG_ACCOUNT_ID", "")
-TH_USER_ID    = os.environ.get("THREADS_USER_ID", "")
-THREADS_TOKEN = os.environ.get("THREADS_TOKEN", META_TOKEN)
+META_TOKEN    = _env("META_PAGE_TOKEN")
+FB_PAGE_ID    = _env("FB_PAGE_ID")
+IG_ACCT_ID    = _env("IG_ACCOUNT_ID")
+TH_USER_ID    = _env("THREADS_USER_ID")
+THREADS_TOKEN = _env("THREADS_TOKEN", META_TOKEN) or META_TOKEN
 
 # ── YouTube ───────────────────────────────────────────────────────────────────
-YT_CLIENT_ID     = os.environ.get("YT_CLIENT_ID", "")
-YT_CLIENT_SECRET = os.environ.get("YT_CLIENT_SECRET", "")
-YT_REFRESH_TOKEN = os.environ.get("YT_REFRESH_TOKEN", "")
+YT_CLIENT_ID     = _env("YT_CLIENT_ID")
+YT_CLIENT_SECRET = _env("YT_CLIENT_SECRET")
+YT_REFRESH_TOKEN = _env("YT_REFRESH_TOKEN")
 
 # ── TikTok ───────────────────────────────────────────────────────────────────
-TK_ACCESS_TOKEN  = os.environ.get("TIKTOK_ACCESS_TOKEN", "")
-TK_REFRESH_TOKEN = os.environ.get("TIKTOK_REFRESH_TOKEN", "")
-TK_CLIENT_KEY    = os.environ.get("TIKTOK_CLIENT_KEY", "")
-TK_CLIENT_SECRET = os.environ.get("TIKTOK_CLIENT_SECRET", "")
+TK_ACCESS_TOKEN  = _env("TIKTOK_ACCESS_TOKEN")
+TK_REFRESH_TOKEN = _env("TIKTOK_REFRESH_TOKEN")
+TK_CLIENT_KEY    = _env("TIKTOK_CLIENT_KEY")
+TK_CLIENT_SECRET = _env("TIKTOK_CLIENT_SECRET")
 
 
 def _is_placeholder(val: str) -> bool:
