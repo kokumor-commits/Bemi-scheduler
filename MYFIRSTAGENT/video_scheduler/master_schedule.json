@@ -10753,8 +10753,9 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T03:11:57Z",
+      "last_retry_at": "2026-08-24T04:26:35Z",
       "retry_platforms": [
+        "facebook",
         "youtube"
       ]
     },
@@ -11649,8 +11650,9 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T03:11:58Z",
+      "last_retry_at": "2026-08-24T04:26:35Z",
       "retry_platforms": [
+        "facebook",
         "youtube"
       ]
     },
@@ -11692,8 +11694,9 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T03:12:00Z",
+      "last_retry_at": "2026-08-24T04:26:36Z",
       "retry_platforms": [
+        "facebook",
         "youtube"
       ]
     },
@@ -11889,8 +11892,9 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T03:12:02Z",
+      "last_retry_at": "2026-08-24T04:26:36Z",
       "retry_platforms": [
+        "facebook",
         "youtube"
       ]
     },
