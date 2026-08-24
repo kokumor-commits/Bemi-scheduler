@@ -8034,13 +8034,65 @@
           "id": "17925547554165771"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "1ZGC2gM9VgCBryVXoq8nJhaKDgM",
+          "id": "Cv5OPkabZQg",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:29Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 2 - ROUND 2 - Day 2, round 2. Save this for your own reset.",
+            "description": "Willpower loses to a pull that's already in your hand.\n\nThe fix isn't more resistance. It's fewer places for the pull to land.\n\nStop white-knuckling the craving. Start emptying the room it walks into.\n\nDay 2, round 2. Save this for your own reset.\n\n#monkmode #dopaminedetox #focus",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Cv5OPkabZQg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Cv5OPkabZQg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Cv5OPkabZQg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "already",
+              "hand",
+              "isn't",
+              "loses",
+              "more",
+              "pull",
+              "reset",
+              "resistance",
+              "round",
+              "save",
+              "that's",
+              "willpower"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 2 - ROUND 2 - Day 2, round 2. Save this for your own reset.",
+              "description": "Willpower loses to a pull that's already in your hand.\n\nThe fix isn't more resistance. It's fewer places for the pull to land.\n\nStop white-knuckling the craving. Start emptying the room it walks into.\n\nDay 2, round 2. Save this for your own reset.\n\n#monkmode #dopaminedetox #focus"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:17Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:31Z"
     },
     {
       "id": "monk_d10",
@@ -8064,13 +8116,65 @@
           "id": "18101943568949462"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "UYZaUdLBiIO-iGAh-QIGBoKkBfI",
+          "id": "GXz2Zwutyw0",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:32Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 3 - ROUND 2 - Day 3, round 2. Comment if you're mid-wall on something too.",
+            "description": "Day 3 always tells you to quit. It lied last time too.\n\nIt's not a warning sign. It's a scheduled wall, and walls end.\n\nStop trusting how day 3 feels. Start trusting what day 7 proved.\n\nDay 3, round 2. Comment if you're mid-wall on something too.\n\n#monkmode #discipline #mindsetshift",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/GXz2Zwutyw0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/GXz2Zwutyw0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/GXz2Zwutyw0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "always",
+              "comment",
+              "it's",
+              "last",
+              "lied",
+              "quit",
+              "round",
+              "something",
+              "tells",
+              "time",
+              "wall",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 3 - ROUND 2 - Day 3, round 2. Comment if you're mid-wall on something too.",
+              "description": "Day 3 always tells you to quit. It lied last time too.\n\nIt's not a warning sign. It's a scheduled wall, and walls end.\n\nStop trusting how day 3 feels. Start trusting what day 7 proved.\n\nDay 3, round 2. Comment if you're mid-wall on something too.\n\n#monkmode #discipline #mindsetshift"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:17Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:33Z"
     },
     {
       "id": "monk_d11",
@@ -8094,13 +8198,65 @@
           "id": "18424221571176540"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "wGA6FsA_SWnfyGr80IUPOZOB_A8",
+          "id": "4rybl8F5QoU",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:33Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 4 - ROUND 2 - Day 4, round 2. Follow for day 5.",
+            "description": "The phone was never the addiction. The pattern under it was.\n\nRemove the object and the pattern just finds a new one.\n\nStop deleting the app. Start counting the reach.\n\nDay 4, round 2. Follow for day 5.\n\n#monkmode #selfgrowth #mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4rybl8F5QoU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4rybl8F5QoU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4rybl8F5QoU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "addiction",
+              "finds",
+              "follow",
+              "just",
+              "never",
+              "object",
+              "pattern",
+              "phone",
+              "remove",
+              "round",
+              "stop",
+              "under"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 4 - ROUND 2 - Day 4, round 2. Follow for day 5.",
+              "description": "The phone was never the addiction. The pattern under it was.\n\nRemove the object and the pattern just finds a new one.\n\nStop deleting the app. Start counting the reach.\n\nDay 4, round 2. Follow for day 5.\n\n#monkmode #selfgrowth #mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:18Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:35Z"
     },
     {
       "id": "monk_d12",
@@ -8124,13 +8280,65 @@
           "id": "18094667504637273"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "BHGDW-lTCUvnj-xNMtJ2cSnd_fI",
+          "id": "tGbBkrZ-T_M",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:35Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 5 - ROUND 2 - Day 5, round 2. Save this.",
+            "description": "Round one, discipline is something you do. Round two, it's who you are.\n\nThe habit isn't finished until it stops feeling like an event.\n\nStop celebrating the reset. Start noticing when it's boring.\n\nDay 5, round 2. Save this.\n\n#monkmode #5amclub #discipline",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/tGbBkrZ-T_M/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/tGbBkrZ-T_M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/tGbBkrZ-T_M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "discipline",
+              "feeling",
+              "finished",
+              "habit",
+              "isn't",
+              "it's",
+              "like",
+              "round",
+              "save",
+              "something",
+              "stops",
+              "until"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 5 - ROUND 2 - Day 5, round 2. Save this.",
+              "description": "Round one, discipline is something you do. Round two, it's who you are.\n\nThe habit isn't finished until it stops feeling like an event.\n\nStop celebrating the reset. Start noticing when it's boring.\n\nDay 5, round 2. Save this.\n\n#monkmode #5amclub #discipline"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:18Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:37Z"
     },
     {
       "id": "monk_d13",
@@ -8224,13 +8432,65 @@
           "id": "18004084349779193"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "XgRB4lxL_wPJh56a6dOMSNjeg80",
+          "id": "vUaQizd5GYg",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:38Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "DAY 7 - ROUND 2 - Round 2, done. Save this - you'll need it on your round 2.",
+            "description": "The goal was never to finish monk mode. It was to stop needing it.\n\nWhen discipline doesn't need a countdown anymore, it's actually yours.\n\nStop measuring in 7-day resets. Start measuring in ordinary Tuesdays.\n\nRound 2, done. Save this - you'll need it on your round 2.\n\n#monkmode #discipline #mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/vUaQizd5GYg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/vUaQizd5GYg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/vUaQizd5GYg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "done",
+              "finish",
+              "goal",
+              "mode",
+              "monk",
+              "need",
+              "needing",
+              "never",
+              "round",
+              "save",
+              "stop",
+              "you'll"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DAY 7 - ROUND 2 - Round 2, done. Save this - you'll need it on your round 2.",
+              "description": "The goal was never to finish monk mode. It was to stop needing it.\n\nWhen discipline doesn't need a countdown anymore, it's actually yours.\n\nStop measuring in 7-day resets. Start measuring in ordinary Tuesdays.\n\nRound 2, done. Save this - you'll need it on your round 2.\n\n#monkmode #discipline #mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:19Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:40Z"
     },
     {
       "id": "discipline_d01",
@@ -8813,13 +9073,65 @@
           "id": "17902222446501584"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "bimhTFFoKZ4__tljnAS1UHn8oTg",
+          "id": "8hIBvoSxc5M",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:40Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop asking for motivation. Ask for one more day of doing it without it.",
+            "description": "Stop asking for motivation. Ask for one more day of doing it without it.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #stoicism #selfdiscipline",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8hIBvoSxc5M/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8hIBvoSxc5M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8hIBvoSxc5M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "asking",
+              "doing",
+              "don't",
+              "feel",
+              "like",
+              "more",
+              "morning",
+              "motivation",
+              "read",
+              "save",
+              "stop",
+              "without"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop asking for motivation. Ask for one more day of doing it without it.",
+              "description": "Stop asking for motivation. Ask for one more day of doing it without it.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #stoicism #selfdiscipline"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:19Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:42Z"
     },
     {
       "id": "discipline_d10",
@@ -8843,13 +9155,65 @@
           "id": "18364718314241326"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "cE3G2bVN9OVAEmcAeymM1MGf7OE",
+          "id": "aFC732wFS_4",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:43Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The version of you that quits at the first excuse and the version that wins were",
+            "description": "The version of you that quits at the first excuse and the version that wins were never that far apart. Discipline is the only bridge.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #growthmindset #mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/aFC732wFS_4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/aFC732wFS_4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/aFC732wFS_4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "apart",
+              "bridge",
+              "discipline",
+              "excuse",
+              "first",
+              "never",
+              "only",
+              "quits",
+              "save",
+              "version",
+              "were",
+              "wins"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The version of you that quits at the first excuse and the version that wins were",
+              "description": "The version of you that quits at the first excuse and the version that wins were never that far apart. Discipline is the only bridge.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #growthmindset #mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:20Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:44Z"
     },
     {
       "id": "discipline_d11",
@@ -8873,13 +9237,65 @@
           "id": "18163733815481368"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "PvWzSL1ErUrOhqFg63gqw2lZ3YY",
+          "id": "cDzLGEJuW4o",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:45Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Nobody claps for the boring repetition. That's exactly why it works.",
+            "description": "Nobody claps for the boring repetition. That's exactly why it works.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #lifeadvice #selfdiscipline",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cDzLGEJuW4o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cDzLGEJuW4o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cDzLGEJuW4o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "boring",
+              "claps",
+              "don't",
+              "exactly",
+              "feel",
+              "morning",
+              "nobody",
+              "read",
+              "repetition",
+              "save",
+              "that's",
+              "works"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Nobody claps for the boring repetition. That's exactly why it works.",
+              "description": "Nobody claps for the boring repetition. That's exactly why it works.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #lifeadvice #selfdiscipline"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:20Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:47Z"
     },
     {
       "id": "discipline_d12",
@@ -8903,13 +9319,65 @@
           "id": "18617614093009590"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "5KZAwNZM91DgWaK5Tg5R7rrrr9k",
+          "id": "1Q35rnhNuaI",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:47Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You're not tired. You're negotiating. Discipline is refusing the meeting.",
+            "description": "You're not tired. You're negotiating. Discipline is refusing the meeting.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindsetmatters #motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1Q35rnhNuaI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1Q35rnhNuaI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1Q35rnhNuaI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "discipline",
+              "don't",
+              "feel",
+              "like",
+              "meeting",
+              "morning",
+              "negotiating",
+              "read",
+              "refusing",
+              "save",
+              "tired",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You're not tired. You're negotiating. Discipline is refusing the meeting.",
+              "description": "You're not tired. You're negotiating. Discipline is refusing the meeting.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindsetmatters #motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:21Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:48Z"
     },
     {
       "id": "discipline_d13",
@@ -8933,13 +9401,65 @@
           "id": "18615355126056255"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "gkEYS7Cocbps1ntieQ6yNtwoAS8",
+          "id": "WQwaMA6GGLI",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:49Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Confidence is built in rooms nobody else ever walks into.",
+            "description": "Confidence is built in rooms nobody else ever walks into.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindset #stoicism",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WQwaMA6GGLI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WQwaMA6GGLI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WQwaMA6GGLI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "built",
+              "confidence",
+              "don't",
+              "else",
+              "ever",
+              "into",
+              "morning",
+              "nobody",
+              "read",
+              "rooms",
+              "save",
+              "walks"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Confidence is built in rooms nobody else ever walks into.",
+              "description": "Confidence is built in rooms nobody else ever walks into.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #mindset #stoicism"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:50Z"
     },
     {
       "id": "discipline_d14",
@@ -8963,13 +9483,65 @@
           "id": "17897626725577107"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "tRIz3hpwm16kzt5lvTyj3-gLzcQ",
+          "id": "cQv-OSQvib8",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:50Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Discipline doesn't ask if you feel ready. It just asks if you showed up anyway.",
+            "description": "Discipline doesn't ask if you feel ready. It just asks if you showed up anyway.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #selfdiscipline #growthmindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cQv-OSQvib8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cQv-OSQvib8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cQv-OSQvib8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "anyway",
+              "asks",
+              "discipline",
+              "doesn't",
+              "don't",
+              "feel",
+              "just",
+              "morning",
+              "read",
+              "ready",
+              "save",
+              "showed"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Discipline doesn't ask if you feel ready. It just asks if you showed up anyway.",
+              "description": "Discipline doesn't ask if you feel ready. It just asks if you showed up anyway.\n\nSave this and read it on the morning you don't feel like it.\n\n#discipline #selfdiscipline #growthmindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:22Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:52Z"
     },
     {
       "id": "faithdoubt_d01",
@@ -9552,13 +10124,65 @@
           "id": "18130536289633577"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "uSl88NroTYM728ByHUXkCvQtuzg",
+          "id": "1rWMV97TGtY",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:53Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Year I Perfected It In Private",
+            "description": "I wish I knew this earlier. I spent a full year perfecting a product in private, telling myself I'd launch once it was ready. But ready never came. Every day I tweaked, polished, waited for certainty. And nothing moved. Here's what I finally understood. Doubt creates anxiety, and anxiety freezes you. You sit there waiting for a sign that never shows up. But faith creates anticipation. And anticipation makes you prepare, build, ship, before you ever see the result. I had it backwards. I was waiting to feel sure instead of moving toward what I believed in. The day I saw that mechanism, I launched. Imperfect. Alive. So learn from my wasted year. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1rWMV97TGtY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1rWMV97TGtY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1rWMV97TGtY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "earlier",
+              "full",
+              "knew",
+              "myself",
+              "perfected",
+              "perfecting",
+              "private",
+              "product",
+              "spent",
+              "telling",
+              "wish",
+              "year"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Year I Perfected It In Private",
+              "description": "I wish I knew this earlier. I spent a full year perfecting a product in private, telling myself I'd launch once it was ready. But ready never came. Every day I tweaked, polished, waited for certainty. And nothing moved. Here's what I finally understood. Doubt creates anxiety, and anxiety freezes you. You sit there waiting for a sign that never shows up. But faith creates anticipation. And anticipation makes you prepare, build, ship, before you ever see the result. I had it backwards. I was waiting to feel sure instead of moving toward what I believed in. The day I saw that mechanism, I launched. Imperfect. Alive. So learn from my wasted year. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:23Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:55Z"
     },
     {
       "id": "faithdoubt_d10",
@@ -9582,13 +10206,65 @@
           "id": "18161737360468953"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "TmdCKrgwTbnT59uw2NUXX9zvWig",
+          "id": "5Kqxpz927Cw",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:55Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "I Waited Years For A Feeling",
+            "description": "I wish I knew this earlier. For three years I sat in cash, waiting to feel like I understood the market. I told myself I was being smart. Really, I was scared. Every dip confirmed my fear. Every rally proved I'd missed it. I called it patience, but it was paralysis. Then it hit me. Doubt made me anxious, and anxiety froze me. I kept waiting for a certainty that was never coming. But faith works differently. Faith creates anticipation. Anticipation makes you prepare, makes you move, before you ever see the result. That's the mechanism. Not a mood. So I started small. Imperfect. Terrified. And I finally began. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/5Kqxpz927Cw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/5Kqxpz927Cw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/5Kqxpz927Cw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "cash",
+              "earlier",
+              "feel",
+              "feeling",
+              "knew",
+              "like",
+              "three",
+              "understood",
+              "waited",
+              "waiting",
+              "wish",
+              "years"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "I Waited Years For A Feeling",
+              "description": "I wish I knew this earlier. For three years I sat in cash, waiting to feel like I understood the market. I told myself I was being smart. Really, I was scared. Every dip confirmed my fear. Every rally proved I'd missed it. I called it patience, but it was paralysis. Then it hit me. Doubt made me anxious, and anxiety froze me. I kept waiting for a certainty that was never coming. But faith works differently. Faith creates anticipation. Anticipation makes you prepare, makes you move, before you ever see the result. That's the mechanism. Not a mood. So I started small. Imperfect. Terrified. And I finally began. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:23Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:01:57Z"
     },
     {
       "id": "faithdoubt_d11",
@@ -9612,13 +10288,65 @@
           "id": "18113729042053115"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "9O--3H6kVS8ipWEPCqftNS3qAg8",
+          "id": "3VAmzYOfJNo",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:01:58Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "I Waited Two Years For A Friendship To Fix Itself",
+            "description": "I wish I knew this earlier. For almost two years I stayed in a friendship that was draining me. Every call left me hollow. But I kept waiting. Waiting for it to fix itself. Waiting for some sign that walking away was okay. That waiting? It was doubt. And doubt made me anxious, so I froze. I told myself I needed certainty before I moved. It never came. Then it hit me. When you have faith in a decision, you feel anticipation. And anticipation makes you prepare. It moves you. That's the mechanism. Doubt freezes you. Faith moves you. The day I trusted myself, I ended it. And I finally breathed. So take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/3VAmzYOfJNo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/3VAmzYOfJNo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/3VAmzYOfJNo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "almost",
+              "call",
+              "draining",
+              "earlier",
+              "every",
+              "friendship",
+              "itself",
+              "knew",
+              "stayed",
+              "waited",
+              "wish",
+              "years"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "I Waited Two Years For A Friendship To Fix Itself",
+              "description": "I wish I knew this earlier. For almost two years I stayed in a friendship that was draining me. Every call left me hollow. But I kept waiting. Waiting for it to fix itself. Waiting for some sign that walking away was okay. That waiting? It was doubt. And doubt made me anxious, so I froze. I told myself I needed certainty before I moved. It never came. Then it hit me. When you have faith in a decision, you feel anticipation. And anticipation makes you prepare. It moves you. That's the mechanism. Doubt freezes you. Faith moves you. The day I trusted myself, I ended it. And I finally breathed. So take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:24Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:00Z"
     },
     {
       "id": "faithdoubt_d12",
@@ -9642,13 +10370,65 @@
           "id": "18076533593700381"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "BtAJGJr5GIUwJhV769fzxeV1ggk",
+          "id": "xX8F1NKF2wo",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:00Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Two Years I Waited to Feel Ready",
+            "description": "I wish I knew this earlier. For two years, I told myself I could handle it on my own. I didn't need therapy. I just needed to be more disciplined. So I waited. I waited to feel ready. I waited for the right moment. I waited for some sign that it was safe to reach out. But that sign never came. Here's what I finally understood. Doubt kept me frozen, waiting for a certainty that doesn't exist. It fed my anxiety, and anxiety keeps you still. But faith works differently. Faith creates anticipation, and anticipation makes you move. You start preparing before you see the result. The day I booked that first session, I wasn't certain. I was just done waiting. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/xX8F1NKF2wo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/xX8F1NKF2wo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/xX8F1NKF2wo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "could",
+              "didn't",
+              "earlier",
+              "feel",
+              "handle",
+              "knew",
+              "myself",
+              "ready",
+              "told",
+              "waited",
+              "wish",
+              "years"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Two Years I Waited to Feel Ready",
+              "description": "I wish I knew this earlier. For two years, I told myself I could handle it on my own. I didn't need therapy. I just needed to be more disciplined. So I waited. I waited to feel ready. I waited for the right moment. I waited for some sign that it was safe to reach out. But that sign never came. Here's what I finally understood. Doubt kept me frozen, waiting for a certainty that doesn't exist. It fed my anxiety, and anxiety keeps you still. But faith works differently. Faith creates anticipation, and anticipation makes you move. You start preparing before you see the result. The day I booked that first session, I wasn't certain. I was just done waiting. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:24Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:02Z"
     },
     {
       "id": "faithdoubt_d13",
@@ -9672,13 +10452,65 @@
           "id": "18369124882212602"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "Wlvhc-uNfNyzEjG0eq9PSxZpLjs",
+          "id": "9Q8_cu3Xm6w",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:02Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "I Bought The Course Three Times",
+            "description": "I wish I knew this earlier. I bought the same course three times before I ever opened lesson one. Every time, I told myself I wasn't ready. I needed the perfect week. The perfect mood. Certainty. So I waited. And the waiting felt safe, but it was quietly killing me. Then it hit me. My doubt wasn't caution. It was anxiety, and anxiety freezes you. You stay stuck waiting for a certainty that never arrives. Faith works differently. Faith creates anticipation, and anticipation makes you move. You start preparing before you see the result. The day I believed I could learn it, I finally opened lesson one. Not because it got easier. Because I stopped waiting. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/9Q8_cu3Xm6w/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/9Q8_cu3Xm6w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/9Q8_cu3Xm6w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "before",
+              "bought",
+              "course",
+              "earlier",
+              "ever",
+              "knew",
+              "lesson",
+              "opened",
+              "same",
+              "three",
+              "times",
+              "wish"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "I Bought The Course Three Times",
+              "description": "I wish I knew this earlier. I bought the same course three times before I ever opened lesson one. Every time, I told myself I wasn't ready. I needed the perfect week. The perfect mood. Certainty. So I waited. And the waiting felt safe, but it was quietly killing me. Then it hit me. My doubt wasn't caution. It was anxiety, and anxiety freezes you. You stay stuck waiting for a certainty that never arrives. Faith works differently. Faith creates anticipation, and anticipation makes you move. You start preparing before you see the result. The day I believed I could learn it, I finally opened lesson one. Not because it got easier. Because I stopped waiting. Take action today. Don't wait. There is no perfect time.\n\n#faith #mindset #takeaction"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:25Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:05Z"
     },
     {
       "id": "faithdoubt_d14",
@@ -10262,13 +11094,65 @@
           "id": "18091168361402555"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "_CxRq4rgs0pqAuciOKszqKqmmyM",
+          "id": "WR18VX0ONVA",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:05Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Cost of Unspoken Expectations",
+            "description": "Unspoken expectations create unnecessary disappointment. Many conflicts begin because one person expected something they never communicated. Clear conversations often prevent resentment before it starts. Share this with someone who needs this reminder.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WR18VX0ONVA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WR18VX0ONVA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WR18VX0ONVA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "because",
+              "begin",
+              "conflicts",
+              "cost",
+              "create",
+              "disappointment",
+              "expectations",
+              "expected",
+              "many",
+              "person",
+              "unnecessary",
+              "unspoken"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Cost of Unspoken Expectations",
+              "description": "Unspoken expectations create unnecessary disappointment. Many conflicts begin because one person expected something they never communicated. Clear conversations often prevent resentment before it starts. Share this with someone who needs this reminder.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:25Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:07Z"
     },
     {
       "id": "lovehabits_d09",
@@ -10292,13 +11176,65 @@
           "id": "18001926641982313"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "ERgcc4Y5w1XULJlpZ3JvR6A-wWo",
+          "id": "jbi0l5xA6GU",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:07Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Comparison Steals Joy",
+            "description": "Social media isn't showing you a real marriage. Comparing your relationship to curated online moments creates unrealistic expectations. Focus on building your relationship instead of measuring it against someone else's highlights. Share this with someone who needs encouragement.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jbi0l5xA6GU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jbi0l5xA6GU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jbi0l5xA6GU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "comparing",
+              "comparison",
+              "curated",
+              "isn't",
+              "marriage",
+              "media",
+              "online",
+              "real",
+              "relationship",
+              "showing",
+              "social",
+              "steals"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Comparison Steals Joy",
+              "description": "Social media isn't showing you a real marriage. Comparing your relationship to curated online moments creates unrealistic expectations. Focus on building your relationship instead of measuring it against someone else's highlights. Share this with someone who needs encouragement.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:26Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:09Z"
     },
     {
       "id": "lovehabits_d10",
@@ -10322,13 +11258,65 @@
           "id": "17896237074570196"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "PYR_KS8D3ClagM0xHwJAItP8U64",
+          "id": "r5QQHD0c57A",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:09Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Choose Peace Over Pride",
+            "description": "Pride has ended more relationships than problems ever did. Apologizing doesn't always mean you're wrong. Sometimes it means the relationship matters more than your ego. Share this with someone who values humility.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/r5QQHD0c57A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/r5QQHD0c57A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/r5QQHD0c57A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "apologizing",
+              "choose",
+              "doesn't",
+              "ended",
+              "ever",
+              "more",
+              "over",
+              "peace",
+              "pride",
+              "problems",
+              "relationships",
+              "than"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Choose Peace Over Pride",
+              "description": "Pride has ended more relationships than problems ever did. Apologizing doesn't always mean you're wrong. Sometimes it means the relationship matters more than your ego. Share this with someone who values humility.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:26Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:11Z"
     },
     {
       "id": "lovehabits_d11",
@@ -10434,13 +11422,65 @@
           "id": "17954005785232778"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "-KQ4-_noajLJeaFEHyxfOy0egWA",
+          "id": "wvPMXeFajG0",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:12Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Speak to Build, Not Break",
+            "description": "Your words can become your partner's inner voice. Encouraging words strengthen confidence. Harsh words often linger long after an argument ends. Speak in ways that build the relationship. Share this with someone who believes words matter.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/wvPMXeFajG0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/wvPMXeFajG0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/wvPMXeFajG0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "become",
+              "break",
+              "build",
+              "confidence",
+              "encouraging",
+              "harsh",
+              "inner",
+              "partner's",
+              "speak",
+              "strengthen",
+              "voice",
+              "words"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Speak to Build, Not Break",
+              "description": "Your words can become your partner's inner voice. Encouraging words strengthen confidence. Harsh words often linger long after an argument ends. Speak in ways that build the relationship. Share this with someone who believes words matter.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:26Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:13Z"
     },
     {
       "id": "lovehabits_d13",
@@ -10534,13 +11574,65 @@
           "id": "18114301150752508"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "-L79JDRmnkO4JtUsXVpbkSb8qGQ",
+          "id": "IKmtRwNUevU",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:14Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Forgiveness Isn't Weakness",
+            "description": "Forgiveness isn't pretending nothing happened. It's choosing not to let resentment control your future. Healthy forgiveness includes accountability, healing, and wise boundaries. Share this with someone on a journey of healing.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/IKmtRwNUevU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/IKmtRwNUevU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/IKmtRwNUevU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "choosing",
+              "control",
+              "forgiveness",
+              "future",
+              "happened",
+              "healthy",
+              "isn't",
+              "it's",
+              "nothing",
+              "pretending",
+              "resentment",
+              "weakness"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Forgiveness Isn't Weakness",
+              "description": "Forgiveness isn't pretending nothing happened. It's choosing not to let resentment control your future. Healthy forgiveness includes accountability, healing, and wise boundaries. Share this with someone on a journey of healing.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:27Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:16Z"
     },
     {
       "id": "lovehabits_d15",
@@ -10904,13 +11996,65 @@
           "id": "18106711936871699"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "B92U2lLDQWIa_GaOPbCCMXhHYBk",
+          "id": "zsLQ375NYAI",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:16Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Don't Need to See the Whole Road.",
+            "description": "You Don't Need to See the Whole Road.\n\nYou only need enough light for the next step. Stop waiting for everything to make sense. Sometimes clarity comes after you move.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zsLQ375NYAI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zsLQ375NYAI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zsLQ375NYAI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "don't",
+              "enough",
+              "everything",
+              "light",
+              "need",
+              "next",
+              "only",
+              "road",
+              "step",
+              "stop",
+              "waiting",
+              "whole"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Don't Need to See the Whole Road.",
+              "description": "You Don't Need to See the Whole Road.\n\nYou only need enough light for the next step. Stop waiting for everything to make sense. Sometimes clarity comes after you move.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:27Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:18Z"
     },
     {
       "id": "mindsetshift_d03",
@@ -10933,13 +12077,65 @@
           "id": "18433229557132425"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "xUTu5W6nXi13uRP4gZ2GwVMr--U",
+          "id": "VRsHz0-U1RQ",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:18Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Comfort Can Become a Beautiful Prison.",
+            "description": "Comfort Can Become a Beautiful Prison.\n\nIt feels safe. It feels familiar. But nothing new grows there. If you want a different life, you must become willing to feel uncomfortable.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/VRsHz0-U1RQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/VRsHz0-U1RQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/VRsHz0-U1RQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "beautiful",
+              "become",
+              "comfort",
+              "different",
+              "familiar",
+              "feels",
+              "grows",
+              "life",
+              "nothing",
+              "prison",
+              "safe",
+              "want"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Comfort Can Become a Beautiful Prison.",
+              "description": "Comfort Can Become a Beautiful Prison.\n\nIt feels safe. It feels familiar. But nothing new grows there. If you want a different life, you must become willing to feel uncomfortable.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:28Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:20Z"
     },
     {
       "id": "mindsetshift_d04",
@@ -10962,13 +12158,65 @@
           "id": "17976416886095505"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "vit88ssSE1AGvVf2Dd04N_lKdao",
+          "id": "SIhRduAmgjw",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:20Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Keep Your Word to Yourself.",
+            "description": "Keep Your Word to Yourself.\n\nEvery promise you keep builds trust within you. Wake up when you said you would. Do the work you promised to do. Confidence grows when you stop disappointing yourself.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/SIhRduAmgjw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/SIhRduAmgjw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/SIhRduAmgjw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "builds",
+              "every",
+              "keep",
+              "promise",
+              "said",
+              "trust",
+              "wake",
+              "within",
+              "word",
+              "work",
+              "would",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Keep Your Word to Yourself.",
+              "description": "Keep Your Word to Yourself.\n\nEvery promise you keep builds trust within you. Wake up when you said you would. Do the work you promised to do. Confidence grows when you stop disappointing yourself.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:28Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:22Z"
     },
     {
       "id": "phoneattention_d01",
@@ -11060,13 +12308,65 @@
           "id": "18154767712449059"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "RJyQB_wJLbmks-uw-4LRY2fHxXc",
+          "id": "ZI_xstGz6DY",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:22Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Are Not Lazy. You Are Distracted.",
+            "description": "You Are Not Lazy. You Are Distracted.\n\nMaybe you're not lazy. Maybe your mind simply never gets quiet. You wake up—phone. You eat—phone. You work—phone. You go to bed—phone. Your brain never gets a moment to breathe. Give yourself thirty minutes every morning before touching your phone. Think. Pray. Write. Plan. Start your day with your own thoughts before consuming everybody else's. Try it tomorrow morning.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ZI_xstGz6DY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ZI_xstGz6DY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ZI_xstGz6DY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "distracted",
+              "gets",
+              "lazy",
+              "maybe",
+              "mind",
+              "never",
+              "phone",
+              "quiet",
+              "simply",
+              "wake",
+              "work",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Are Not Lazy. You Are Distracted.",
+              "description": "You Are Not Lazy. You Are Distracted.\n\nMaybe you're not lazy. Maybe your mind simply never gets quiet. You wake up—phone. You eat—phone. You work—phone. You go to bed—phone. Your brain never gets a moment to breathe. Give yourself thirty minutes every morning before touching your phone. Think. Pray. Write. Plan. Start your day with your own thoughts before consuming everybody else's. Try it tomorrow morning.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:28Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:24Z"
     },
     {
       "id": "phoneattention_d03",
@@ -11089,13 +12389,65 @@
           "id": "18025022420916329"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "nmE3dyjcQpbtliun2b4zIVhg6Tc",
+          "id": "7cIgyirqltM",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:24Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Boredom May Be the Medicine",
+            "description": "Boredom May Be the Medicine\n\nWhen was the last time you did absolutely nothing? No phone. No music. No television. Just silence. We have become so uncomfortable with boredom that every quiet moment must be filled. Sit quietly for ten minutes today. Let your mind wander. Let yourself think. You may discover that the answers you were searching for were buried underneath the noise. Can you survive ten minutes without your phone?\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/7cIgyirqltM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/7cIgyirqltM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/7cIgyirqltM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "absolutely",
+              "become",
+              "boredom",
+              "just",
+              "last",
+              "medicine",
+              "music",
+              "nothing",
+              "phone",
+              "silence",
+              "television",
+              "time"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Boredom May Be the Medicine",
+              "description": "Boredom May Be the Medicine\n\nWhen was the last time you did absolutely nothing? No phone. No music. No television. Just silence. We have become so uncomfortable with boredom that every quiet moment must be filled. Sit quietly for ten minutes today. Let your mind wander. Let yourself think. You may discover that the answers you were searching for were buried underneath the noise. Can you survive ten minutes without your phone?\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:29Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:26Z"
     },
     {
       "id": "phoneattention_d04",
@@ -11118,13 +12470,65 @@
           "id": "18424110946197869"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "Y0cPg9DNPht5Y0n_iOCXaQ1kmLA",
+          "id": "t2WKYjco1HA",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:27Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Giving Your Best Hours Away",
+            "description": "Stop Giving Your Best Hours Away\n\nYour first hour belongs to your future—not Instagram. Many people wake up and immediately give the freshest part of their mind to strangers on the internet. Then they wonder why they cannot focus. Protect your morning. No social media for the first hour. Read. Exercise. Pray. Plan your day. Win the morning before the world enters your mind. Tomorrow morning: phone down, purpose up.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/t2WKYjco1HA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/t2WKYjco1HA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/t2WKYjco1HA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "away",
+              "belongs",
+              "best",
+              "first",
+              "future",
+              "giving",
+              "hour",
+              "hours",
+              "instagram",
+              "many",
+              "people",
+              "stop"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Giving Your Best Hours Away",
+              "description": "Stop Giving Your Best Hours Away\n\nYour first hour belongs to your future—not Instagram. Many people wake up and immediately give the freshest part of their mind to strangers on the internet. Then they wonder why they cannot focus. Protect your morning. No social media for the first hour. Read. Exercise. Pray. Plan your day. Win the morning before the world enters your mind. Tomorrow morning: phone down, purpose up.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:29Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:29Z"
     },
     {
       "id": "mindsetshift_d05",
@@ -11147,13 +12551,65 @@
           "id": "18107592293127785"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "tFmsaqVB-JHzR9FgLC12p_iJfq8",
+          "id": "6DOqzjGczdY",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:29Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Life Is Built by Small Decisions.",
+            "description": "Your Life Is Built by Small Decisions.\n\nNot one giant moment. One choice at a time. What you eat. Who you listen to. What you tolerate. What you do when nobody is watching.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/6DOqzjGczdY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/6DOqzjGczdY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/6DOqzjGczdY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "built",
+              "choice",
+              "decisions",
+              "giant",
+              "life",
+              "listen",
+              "moment",
+              "nobody",
+              "small",
+              "time",
+              "tolerate",
+              "watching"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Life Is Built by Small Decisions.",
+              "description": "Your Life Is Built by Small Decisions.\n\nNot one giant moment. One choice at a time. What you eat. Who you listen to. What you tolerate. What you do when nobody is watching.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:31Z"
     },
     {
       "id": "phoneattention_d05",
@@ -11176,13 +12632,65 @@
           "id": "18021820736698503"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "5IPVlMR9rXt6FUAX4eec4traUdg",
+          "id": "hdiBGFO3Gec",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:32Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Don't Need More Motivation",
+            "description": "You Don't Need More Motivation\n\nYou don't need another motivational video. You need fewer distractions. We keep watching people talk about discipline instead of practicing discipline. One video becomes twenty. Watching success starts feeling like working toward success. It isn't. Close the app. Pick one thing you've been avoiding. Work on it for thirty minutes. Information changes nothing until action begins. After this video, go do the work.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/hdiBGFO3Gec/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/hdiBGFO3Gec/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/hdiBGFO3Gec/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "another",
+              "distractions",
+              "don't",
+              "fewer",
+              "keep",
+              "more",
+              "motivation",
+              "motivational",
+              "need",
+              "people",
+              "video",
+              "watching"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Don't Need More Motivation",
+              "description": "You Don't Need More Motivation\n\nYou don't need another motivational video. You need fewer distractions. We keep watching people talk about discipline instead of practicing discipline. One video becomes twenty. Watching success starts feeling like working toward success. It isn't. Close the app. Pick one thing you've been avoiding. Work on it for thirty minutes. Information changes nothing until action begins. After this video, go do the work.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:30Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:34Z"
     },
     {
       "id": "mindsetshift_d06",
@@ -11205,13 +12713,65 @@
           "id": "18102503951611040"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "lLfQIP_XU1Cjz2OZLeH9D5E-eds",
+          "id": "IFFZp9-u44s",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:34Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Asking, \"What If I Fail?\"",
+            "description": "Stop Asking, \"What If I Fail?\"\n\nAsk yourself, 'What if I never try?' Failure may hurt for a season. Regret can hurt for a lifetime.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/IFFZp9-u44s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/IFFZp9-u44s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/IFFZp9-u44s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "'what",
+              "asking",
+              "fail",
+              "failure",
+              "hurt",
+              "lifetime",
+              "never",
+              "regret",
+              "season",
+              "share",
+              "stop",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Asking, \"What If I Fail?\"",
+              "description": "Stop Asking, \"What If I Fail?\"\n\nAsk yourself, 'What if I never try?' Failure may hurt for a season. Regret can hurt for a lifetime.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:31Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:35Z"
     },
     {
       "id": "phoneattention_d06",
@@ -11234,13 +12794,65 @@
           "id": "17985312047857608"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "Ly_sJC_2sqlJjQXj5duNDkYD1Fo",
+          "id": "V2bCgQY_xU0",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:36Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Every Notification Has a Price",
+            "description": "Every Notification Has a Price\n\nThat notification looked free. It wasn't. Every interruption pulls your mind away from what you were building. A message here. A video there. A quick scroll. Eventually your whole day disappears in tiny pieces. Turn off every notification that does not deserve immediate access to your life. Not everybody deserves to interrupt you. Protect your attention like you protect your money.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/V2bCgQY_xU0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/V2bCgQY_xU0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/V2bCgQY_xU0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "away",
+              "building",
+              "every",
+              "free",
+              "interruption",
+              "looked",
+              "mind",
+              "notification",
+              "price",
+              "pulls",
+              "wasn't",
+              "were"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Every Notification Has a Price",
+              "description": "Every Notification Has a Price\n\nThat notification looked free. It wasn't. Every interruption pulls your mind away from what you were building. A message here. A video there. A quick scroll. Eventually your whole day disappears in tiny pieces. Turn off every notification that does not deserve immediate access to your life. Not everybody deserves to interrupt you. Protect your attention like you protect your money.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:31Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:38Z"
     },
     {
       "id": "mindsetshift_d08",
@@ -11263,13 +12875,65 @@
           "id": "18099771815250585"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "A7Cnw39Gtu1Qt-3fvsNJK63UM5Y",
+          "id": "38VimWK6bkw",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:38Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Success Means Little if Your Heart Is Empty.",
+            "description": "Success Means Little if Your Heart Is Empty.\n\nYou can have money and still have no peace. You can have applause and still feel alone. Do not only build a successful life. Build a life that feels worth living.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/38VimWK6bkw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/38VimWK6bkw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/38VimWK6bkw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "alone",
+              "applause",
+              "empty",
+              "feel",
+              "heart",
+              "little",
+              "means",
+              "money",
+              "only",
+              "peace",
+              "still",
+              "success"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Success Means Little if Your Heart Is Empty.",
+              "description": "Success Means Little if Your Heart Is Empty.\n\nYou can have money and still have no peace. You can have applause and still feel alone. Do not only build a successful life. Build a life that feels worth living.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:32Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:40Z"
     },
     {
       "id": "phoneattention_d07",
@@ -11292,13 +12956,65 @@
           "id": "18440811673192115"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "hQliVAbjtFg0C8CtktkDlE7eQRg",
+          "id": "QeZlzmWEufs",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:40Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The World Is Fighting for Your Attention",
+            "description": "The World Is Fighting for Your Attention\n\nThere is a war happening every day. And the battlefield is your mind. Apps want your eyes. Advertisers want your attention. Entertainment wants your hours. Everyone wants a piece of you. Decide who gets access. Choose when you scroll. Choose what you watch. Choose when your phone goes away. If you don't control your attention, someone else will. Reclaim your mind.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/QeZlzmWEufs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/QeZlzmWEufs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/QeZlzmWEufs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "advertisers",
+              "apps",
+              "attention",
+              "battlefield",
+              "entertainment",
+              "every",
+              "eyes",
+              "fighting",
+              "happening",
+              "mind",
+              "want",
+              "world"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The World Is Fighting for Your Attention",
+              "description": "The World Is Fighting for Your Attention\n\nThere is a war happening every day. And the battlefield is your mind. Apps want your eyes. Advertisers want your attention. Entertainment wants your hours. Everyone wants a piece of you. Decide who gets access. Choose when you scroll. Choose what you watch. Choose when your phone goes away. If you don't control your attention, someone else will. Reclaim your mind.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:32Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:42Z"
     },
     {
       "id": "mindsetshift_d09",
@@ -11321,13 +13037,65 @@
           "id": "18585796783066231"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "Pk-kF8z-rGvP3uWTXM7ndFUp4Vk",
+          "id": "ATICcMsX0is",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:43Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Problems Do Not Mean You Are Losing.",
+            "description": "Problems Do Not Mean You Are Losing.\n\nStorms are part of the journey. Do not pray only for an easier road. Grow into someone strong enough to walk through the rain.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ATICcMsX0is/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ATICcMsX0is/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ATICcMsX0is/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "easier",
+              "grow",
+              "into",
+              "journey",
+              "losing",
+              "mean",
+              "only",
+              "part",
+              "pray",
+              "problems",
+              "road",
+              "storms"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Problems Do Not Mean You Are Losing.",
+              "description": "Problems Do Not Mean You Are Losing.\n\nStorms are part of the journey. Do not pray only for an easier road. Grow into someone strong enough to walk through the rain.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:33Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:44Z"
     },
     {
       "id": "mindsetshift_d10",
@@ -11350,13 +13118,65 @@
           "id": "17965342374170888"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "FFa2v39MroxAo0NUd_iPMkRz4KU",
+          "id": "F_wqwLDC3bE",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:45Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Small Progress Is Still Progress.",
+            "description": "Small Progress Is Still Progress.\n\nOne page. One phone call. One workout. One application. One brave conversation. You do not have to change your whole life today. Just move one inch forward.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/F_wqwLDC3bE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/F_wqwLDC3bE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/F_wqwLDC3bE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "application",
+              "brave",
+              "call",
+              "change",
+              "conversation",
+              "page",
+              "phone",
+              "progress",
+              "small",
+              "still",
+              "whole",
+              "workout"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Small Progress Is Still Progress.",
+              "description": "Small Progress Is Still Progress.\n\nOne page. One phone call. One workout. One application. One brave conversation. You do not have to change your whole life today. Just move one inch forward.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:33Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:47Z"
     },
     {
       "id": "phoneattention_d08",
@@ -11379,13 +13199,65 @@
           "id": "18054494372793946"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "43HIgUKvzNClOkQc2QUV1shiNcQ",
+          "id": "McJJwb3y9GY",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:47Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Dream Needs Boring Days",
+            "description": "Your Dream Needs Boring Days\n\nNobody tells you this about success: most of it is boring. The gym becomes repetitive. Saving money becomes repetitive. Studying becomes repetitive. Building a business becomes repetitive. So people return to entertainment because entertainment always feels new. Learn to love repetition. Great lives are often built during ordinary days when nobody is watching. Don't chase excitement. Chase progress.\n\n#Discipline #Focus #Mindset",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/McJJwb3y9GY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/McJJwb3y9GY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/McJJwb3y9GY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "becomes",
+              "boring",
+              "days",
+              "dream",
+              "money",
+              "most",
+              "needs",
+              "nobody",
+              "repetitive",
+              "saving",
+              "success",
+              "tells"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Dream Needs Boring Days",
+              "description": "Your Dream Needs Boring Days\n\nNobody tells you this about success: most of it is boring. The gym becomes repetitive. Saving money becomes repetitive. Studying becomes repetitive. Building a business becomes repetitive. So people return to entertainment because entertainment always feels new. Learn to love repetition. Great lives are often built during ordinary days when nobody is watching. Don't chase excitement. Chase progress.\n\n#Discipline #Focus #Mindset"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:34Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:49Z"
     },
     {
       "id": "mindsetshift_d11",
@@ -11408,13 +13280,65 @@
           "id": "18125781964683960"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "GyDsH08f1fCeig0zTGC__fGFnx8",
+          "id": "mn3DpZysAhQ",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:50Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Know What Matters to You.",
+            "description": "Know What Matters to You.\n\nWhen you know what you value, decisions become clearer. Not every opportunity is yours. Not every door deserves to be opened. Choose what agrees with the life you truly want.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/mn3DpZysAhQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/mn3DpZysAhQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/mn3DpZysAhQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "become",
+              "clearer",
+              "decisions",
+              "deserves",
+              "door",
+              "every",
+              "know",
+              "matters",
+              "opened",
+              "opportunity",
+              "value",
+              "yours"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Know What Matters to You.",
+              "description": "Know What Matters to You.\n\nWhen you know what you value, decisions become clearer. Not every opportunity is yours. Not every door deserves to be opened. Choose what agrees with the life you truly want.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:34Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:52Z"
     },
     {
       "id": "phoneattention_d09",
@@ -11506,13 +13430,65 @@
           "id": "18621599248009716"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "Vb0HnAFGimzq4lb3UPF9eTzS4Ng",
+          "id": "8vJxpLUuoB0",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:52Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Fear Grows in the Dark.",
+            "description": "Fear Grows in the Dark.\n\nBring it into the light. Write it down. Name it. Look at it closely. Many monsters become smaller when you finally face them.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8vJxpLUuoB0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8vJxpLUuoB0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8vJxpLUuoB0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "bring",
+              "closely",
+              "dark",
+              "down",
+              "fear",
+              "grows",
+              "into",
+              "light",
+              "look",
+              "many",
+              "name",
+              "write"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Fear Grows in the Dark.",
+              "description": "Fear Grows in the Dark.\n\nBring it into the light. Write it down. Name it. Look at it closely. Many monsters become smaller when you finally face them.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:35Z",
-      "retry_platforms": [
-        "youtube"
-      ]
+      "last_retry_at": "2026-08-24T07:02:54Z"
     },
     {
       "id": "phoneattention_d10",
@@ -11604,13 +13580,67 @@
           "id": "18025198658885045"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "venbxWlt7VxBijHy6IV7XRjrKmU",
+          "id": "wWOP5om5r50",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:02:56Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "There Is Always Another Door.",
+            "description": "There Is Always Another Door.\n\nFear tells you, 'This is your only option.' But fear is a poor adviser. Look again. Think again. Ask again. Sometimes the answer is hiding where panic refused to look.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/wWOP5om5r50/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/wWOP5om5r50/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/wWOP5om5r50/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "'this",
+              "adviser",
+              "again",
+              "always",
+              "another",
+              "door",
+              "fear",
+              "look",
+              "only",
+              "option",
+              "poor",
+              "tells"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "There Is Always Another Door.",
+              "description": "There Is Always Another Door.\n\nFear tells you, 'This is your only option.' But fear is a poor adviser. Look again. Think again. Ask again. Sometimes the answer is hiding where panic refused to look.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T05:59:37Z",
+      "last_retry_at": "2026-08-24T07:02:58Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
