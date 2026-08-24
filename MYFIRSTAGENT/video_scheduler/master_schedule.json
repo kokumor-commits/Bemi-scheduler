@@ -4795,7 +4795,62 @@
           "id": "18049390502637144"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "lkZQjwWGTBadN5HxB-78Kw5Zu9w",
+          "id": "s0Fik9ZFqrE",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:18:29Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "That Feeling Like Something Is Missing Is NOT A Flaw — It Is A Signal #RunThePlay",
+            "description": "That feeling like something is missing — not a flaw.\n\nA signal.\n\nSomething in you knows you were built for more than this — and it will not let you forget it.\n\n#RunThePlay #HungerIsAGift #Purpose",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/s0Fik9ZFqrE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/s0Fik9ZFqrE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/s0Fik9ZFqrE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "built",
+              "feeling",
+              "flaw",
+              "knows",
+              "like",
+              "missing",
+              "more",
+              "runtheplay",
+              "signal",
+              "something",
+              "than",
+              "were"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "That Feeling Like Something Is Missing Is NOT A Flaw — It Is A Signal #RunThePlay",
+              "description": "That feeling like something is missing — not a flaw.\n\nA signal.\n\nSomething in you knows you were built for more than this — and it will not let you forget it.\n\n#RunThePlay #HungerIsAGift #Purpose"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4804,10 +4859,9 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-24T06:15:09Z",
+      "last_retry_at": "2026-08-24T07:18:31Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -4833,7 +4887,62 @@
           "id": "18090438368541859"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "QXNvDClWPoAcFXW8swzxFqsUKdw",
+          "id": "6iwjktUwweY",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:18:33Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Nobody Forced The Chain On You — You Put It On Yourself #RunThePlay",
+            "description": "Nobody forced the chain on you.\n\nYou picked it up. Fastened it yourself. Called it responsibility.\n\nOwning that is the first step to putting it down.\n\n#RunThePlay #OwnIt #BreakFree",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/6iwjktUwweY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/6iwjktUwweY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/6iwjktUwweY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "called",
+              "chain",
+              "fastened",
+              "first",
+              "forced",
+              "nobody",
+              "owning",
+              "picked",
+              "responsibility",
+              "runtheplay",
+              "step",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Nobody Forced The Chain On You — You Put It On Yourself #RunThePlay",
+              "description": "Nobody forced the chain on you.\n\nYou picked it up. Fastened it yourself. Called it responsibility.\n\nOwning that is the first step to putting it down.\n\n#RunThePlay #OwnIt #BreakFree"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
@@ -4842,10 +4951,9 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-24T06:15:11Z",
+      "last_retry_at": "2026-08-24T07:18:35Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -11866,13 +11974,67 @@
           "id": "17993462489829110"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "9hxrFWZ6qCADOctg-O_YikXB3wU",
+          "id": "ZhcX5ASjnQY",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:18:38Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Choose Curiosity Before Judgment",
+            "description": "Ask one question before making one accusation. Misunderstandings often grow when we assume motives instead of asking for clarity. Curiosity opens the door to better conversations. Share this with someone who values understanding.\n\n#marriage #relationships #love",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ZhcX5ASjnQY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ZhcX5ASjnQY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ZhcX5ASjnQY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "accusation",
+              "assume",
+              "before",
+              "choose",
+              "curiosity",
+              "grow",
+              "judgment",
+              "making",
+              "misunderstandings",
+              "motives",
+              "often",
+              "question"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Choose Curiosity Before Judgment",
+              "description": "Ask one question before making one accusation. Misunderstandings often grow when we assume motives instead of asking for clarity. Curiosity opens the door to better conversations. Share this with someone who values understanding.\n\n#marriage #relationships #love"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:15:14Z",
+      "last_retry_at": "2026-08-24T07:18:39Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -13946,13 +14108,67 @@
           "id": "18114051859969305"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "7hTXBFnH6-iYfkxRGwkHTohN4AQ",
+          "id": "F9dXPR9-yrU",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:18:41Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Character",
+            "description": "Character\n\nAnybody can look good when people are watching. The real question is: who are you when nobody will ever know? That version of you is probably the most honest one. Work on the person nobody sees.\n\n#Trust #Character #Relationships",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/F9dXPR9-yrU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/F9dXPR9-yrU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/F9dXPR9-yrU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "anybody",
+              "character",
+              "ever",
+              "good",
+              "know",
+              "look",
+              "nobody",
+              "people",
+              "question",
+              "real",
+              "version",
+              "watching"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Character",
+              "description": "Character\n\nAnybody can look good when people are watching. The real question is: who are you when nobody will ever know? That version of you is probably the most honest one. Work on the person nobody sees.\n\n#Trust #Character #Relationships"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:15:16Z",
+      "last_retry_at": "2026-08-24T07:18:43Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -14006,13 +14222,67 @@
           "id": "18122186152861721"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "JeS3iSbthp7z4J5Az_PqB_2r_GE",
+          "id": "0JV-kUWbljc",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:18:45Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Argument, Losing the Person",
+            "description": "Winning the Argument, Losing the Person\n\nListen to me. You can win every single argument with the person you love, and still lose them. Being right doesn't warm an empty bed. Being right doesn't answer the phone when they stop calling. Somebody out there is winning every fight and losing their whole family one 'I told you so' at a time. Don't you dare trade a relationship for a debate you'll forget by next week. Choose the person over the point. Tag someone who needs to hear this.\n\n#Motivation #Mindset #LesBrown",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/0JV-kUWbljc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/0JV-kUWbljc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/0JV-kUWbljc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "argument",
+              "being",
+              "every",
+              "listen",
+              "lose",
+              "losing",
+              "love",
+              "person",
+              "right",
+              "single",
+              "still",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Argument, Losing the Person",
+              "description": "Winning the Argument, Losing the Person\n\nListen to me. You can win every single argument with the person you love, and still lose them. Being right doesn't warm an empty bed. Being right doesn't answer the phone when they stop calling. Somebody out there is winning every fight and losing their whole family one 'I told you so' at a time. Don't you dare trade a relationship for a debate you'll forget by next week. Choose the person over the point. Tag someone who needs to hear this.\n\n#Motivation #Mindset #LesBrown"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:15:18Z",
+      "last_retry_at": "2026-08-24T07:18:47Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
@@ -14036,13 +14306,67 @@
           "id": "17883126396485355"
         },
         "youtube": {
-          "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+          "kind": "youtube#video",
+          "etag": "gD8SPHgylpUtrzGtxJRxZ7rThm8",
+          "id": "DMWFOKd4pas",
+          "snippet": {
+            "publishedAt": "2026-08-24T07:18:49Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning Likes, Losing Friends",
+            "description": "Winning Likes, Losing Friends\n\nYou can win a thousand likes today, and still be lonely tonight. That's the truth nobody wants to say out loud. A screen full of hearts will not sit with you in the hospital waiting room. It will not show up with food when life falls apart. Stop chasing applause from strangers and start investing in the three people who'd drop everything for you. Call a real friend today. Not a follower, a friend.\n\n#Motivation #Mindset #LesBrown",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DMWFOKd4pas/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DMWFOKd4pas/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DMWFOKd4pas/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "friends",
+              "likes",
+              "lonely",
+              "losing",
+              "nobody",
+              "still",
+              "that's",
+              "thousand",
+              "today",
+              "tonight",
+              "truth",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning Likes, Losing Friends",
+              "description": "Winning Likes, Losing Friends\n\nYou can win a thousand likes today, and still be lonely tonight. That's the truth nobody wants to say out loud. A screen full of hearts will not sit with you in the hospital waiting room. It will not show up with food when life falls apart. Stop chasing applause from strangers and start investing in the three people who'd drop everything for you. Call a real friend today. Not a follower, a friend.\n\n#Motivation #Mindset #LesBrown"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
         }
       },
-      "last_retry_at": "2026-08-24T06:15:21Z",
+      "last_retry_at": "2026-08-24T07:18:50Z",
       "retry_platforms": [
-        "facebook",
-        "youtube"
+        "facebook"
       ]
     },
     {
