@@ -12053,7 +12053,7 @@
       "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
       "results": {
         "facebook": {
-          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet3Ymyel6luH7U6urWj52ZQgmRTNr8tydCCLJZ9xmVetf6ki-ieNGo5LuHoF9f2Rd081FZiW-8GLic9lTHtBHmMaKYYnyJke5R7IwHbpMl-9-eMkfmjjZJPRekWdS2J4h5e9R-bqUrCrqgXTVcUC4X5ZDejRWYxiAZgpWZw1sJVO5lWlNKG4-4yaUokbFLqzSIGU-1I68GlBfZ8bJOXGDCDm0EelJVRrdkIrzafbXlY"
         },
         "instagram": {
           "id": "18112546181082524"
@@ -12117,7 +12117,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-24T07:34:23Z",
+      "last_retry_at": "2026-08-24T08:36:21Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -13943,7 +13943,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevQacxakDxAoO4AArcYy710j3oDiI6NrenjE-exI0u_9EJcuZgaIKj5Nj-2oROJWvCVITJ0kEwJ7MkeIUvCOzIkt7-gEl9mYzaGZZjgnX_QWV88A0UqMGRuVuPBm3WQr71pL3YkpZkvkt25f1XKQ3PfA-09NYkc3oKcHyRNN1nZW9p6rmVLrIz5aML2D-5zq80UGj6GgXYlJXrLzIb3-yWAv5rJgUTKegdYN83kiU9S"
         },
         "instagram": {
           "id": "18134302810642503"
@@ -14007,7 +14007,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-24T07:34:27Z",
+      "last_retry_at": "2026-08-24T08:36:21Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -14041,7 +14041,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu3IrKahIMlNy7s0e-Mzwpn87nMN55hywGAD_upV_GPcBbye40rCOVEjokitx0BxaOW3Qz1uTSj1V-89fWuN9JE0Y5ZKk9LO04U96woS5C_FKYopEgKmeWEcWbNXOp03R8LXO4mihsmm9OplKmu7biqNJzzSt7QbGRxWToc0zzRGsUQErnlhdfskHI_2ilNo9hBU-AmxBZxscClowWGH-u637srKzel7FlC_sHgSN4T"
         },
         "instagram": {
           "id": "18093507182536417"
@@ -14105,7 +14105,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-24T07:34:31Z",
+      "last_retry_at": "2026-08-24T08:36:22Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -14348,7 +14348,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevtKb1QgbM2A8bQhG4rI_fThRM84uN0r5dLkdgjhT1hgZgGetqMk9DBKjIz4JYlPMI0QcVrtdj3Z3hIBhgg0WVTfCvkqWfBiG8d2yxAi7NUl9yPPv57DaRYJ4ChVKy78qwpUso59mHN_BFvY9dUMuNOyFyzQG0e3azjdE2PF-iunIAro9fLxmOkKrb-mcbBqobl8VUgcMo4jZ_eixCaqQRV3NwFeycfh4p52w0eXKgj"
         },
         "instagram": {
           "id": "18095264849379179"
@@ -14412,7 +14412,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-24T07:34:35Z",
+      "last_retry_at": "2026-08-24T08:36:22Z",
       "retry_platforms": [
         "facebook"
       ]
