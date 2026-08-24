@@ -4789,7 +4789,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18049390502637144"
@@ -4804,7 +4804,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-24T05:13:04Z",
+      "last_retry_at": "2026-08-24T06:15:09Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -4827,7 +4827,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18090438368541859"
@@ -4842,7 +4842,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-24T05:13:05Z",
+      "last_retry_at": "2026-08-24T06:15:11Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -10768,7 +10768,7 @@
       "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "17993462489829110"
@@ -10777,7 +10777,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T05:13:05Z",
+      "last_retry_at": "2026-08-24T06:15:14Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11910,7 +11910,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18114051859969305"
@@ -11919,7 +11919,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T05:13:06Z",
+      "last_retry_at": "2026-08-24T06:15:16Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11970,7 +11970,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18122186152861721"
@@ -11979,7 +11979,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T05:13:06Z",
+      "last_retry_at": "2026-08-24T06:15:18Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -12000,7 +12000,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "17883126396485355"
@@ -12009,7 +12009,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T05:13:07Z",
+      "last_retry_at": "2026-08-24T06:15:21Z",
       "retry_platforms": [
         "facebook",
         "youtube"
