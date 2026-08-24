@@ -10799,7 +10799,7 @@
       "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18112546181082524"
@@ -10808,7 +10808,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T04:26:35Z",
+      "last_retry_at": "2026-08-24T05:28:39Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11697,7 +11697,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18134302810642503"
@@ -11706,7 +11706,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T04:26:35Z",
+      "last_retry_at": "2026-08-24T05:28:41Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11741,7 +11741,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18093507182536417"
@@ -11750,7 +11750,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T04:26:36Z",
+      "last_retry_at": "2026-08-24T05:28:44Z",
       "retry_platforms": [
         "facebook",
         "youtube"
@@ -11940,7 +11940,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "Illegal header value b'OAuth EAAO13LCobssBSKQgW5ZAchoc8QPUntVwz6khleIGa7T6TIAZCIpAHfNUuJrG16ycCPcZCB4MqO1A4TtVs9ZBmeBn4KobNP5kZBW2dkfKqYr6HRTzPwehvWZCUji7bc3HC1zdxPkAgsLPy5agqjO7beSWqJAxLsRnhxU4QphEozIRnkL57Wm36hBeZCZCnoTyhXIOBzeaptwIBvkAAcc8nAcgOyQZC\\n'"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18095264849379179"
@@ -11949,7 +11949,7 @@
           "error": "Client error '429 Too Many Requests' for url 'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
         }
       },
-      "last_retry_at": "2026-08-24T04:26:36Z",
+      "last_retry_at": "2026-08-24T05:28:46Z",
       "retry_platforms": [
         "facebook",
         "youtube"
