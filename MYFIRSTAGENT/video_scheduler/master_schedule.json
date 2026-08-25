@@ -13790,7 +13790,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes-UolJkv6wqZgoQyKq8c7AEGSLtndXcqmhfa06cnWQivMO3dQlrCREop96kvmJH2bzTPZIyOcGZ3Jb8MBk0Z3JUCBLbZBz8xYKrCav89ryM-_h2MXdgosAqEFwwZQSe0RTv6fDr8OE8rytd00YM25Iwa-qRNU4v_w_hFrOr-OzSQmjgVylg-vcz-HRhrBb7x8x1cp4g-oIE2kROKeFdZaiQkjZTR6bhXmlVDste6S7"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuTOOEPlQEdeRzEdMP2_ckRCsFQYT76Tt1_EwCWziBTKBKlxS9dWrGtYE2GRvRUojKv4uPH_w2ek2vr7DvR3vmc4p6DoxHxnfcGl4gIqOyoeUGRmqjqkL7AHH3jBr4ZEpfWT4U4rhnnd8taDcw15iGTWwkZQID0dHH0k7dgPtO-krWP5ddylkqccV3iLb38QY0g-w29XHUh7FIXiMTu_8yp0snIxofX8-A4nV3w7dt-"
         },
         "instagram": {
           "id": "18025198658885045"
@@ -13854,7 +13854,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-25T18:11:16Z",
+      "last_retry_at": "2026-08-25T19:13:21Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -14024,7 +14024,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevTxneCWcpYKBbsDJVynfDDtOLO4mHa1IYQvn4v4_7I12oExTtgq5jViP76P0YnGqs1FMVyc-NS35eSj6Zv3HTR43F1Hgz2nJSk-rqt0eNbjU2qAEfCLCL6pUM8UG3W1N_1iDv2bF0d1XYKvGv_mc_naJ7VYP7uo7AVTVxjoBWJVgxIL61Hv42K_fdBHyG1RzgPU1jFTC_-EdL9x5Mf2fv1xhSm9gIuyifJuCEJYAgZ"
+        },
+        "instagram": {
+          "id": "18015543674925373"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "4bEFbJ4P-MOT8OaoVKMnRYaVM5s",
+          "id": "57_f_yA_voY",
+          "snippet": {
+            "publishedAt": "2026-08-25T19:14:10Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Were Not Made to Stay the Same.",
+            "description": "You Were Not Made to Stay the Same.\n\nThere is something beautiful about becoming. Learning. Growing. Healing. Trying again. A river that stops moving becomes still. So does a life that stops growing.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/57_f_yA_voY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/57_f_yA_voY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/57_f_yA_voY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "again",
+              "beautiful",
+              "becoming",
+              "growing",
+              "healing",
+              "learning",
+              "made",
+              "same",
+              "something",
+              "stay",
+              "trying",
+              "were"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Were Not Made to Stay the Same.",
+              "description": "You Were Not Made to Stay the Same.\n\nThere is something beautiful about becoming. Learning. Growing. Healing. Trying again. A river that stops moving becomes still. So does a life that stops growing.\n\nShare this with someone you care about.\n\n#Mindset #SelfImprovement #Motivation"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-25T19:14:12Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "phoneattention_d13",
