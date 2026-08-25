@@ -4970,7 +4970,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev_0e37ie12myind-49tXimP8lwgJM3QCNrKwShJ_6mqBXPMvv-k2C34EcnbY71AUCL9iZfafFJcA6dS7uUDKhA_yEMgJbLTvQ7dJkLTKRUnnp6VrQTI7BSdm8gGwwF7rwMBJe8Wr8eU_7nCpUuD_TENIc6u64Xp3W2q9624f67W3zwHmM3c00sB6nxiNYNUXoBiYx8CBnf6omJCclI_NsxEHr4a8Hw-Kzqps1Evn5o"
+        },
+        "instagram": {
+          "id": "18113112563052177"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "_n0lEURGK8HW5CSlwNs7gZp0XeM",
+          "id": "37FuuX9LxvI",
+          "snippet": {
+            "publishedAt": "2026-08-25T22:52:10Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Disappear Build Return Say Nothing — The 4-Word Strategy #RunThePlay",
+            "description": "Disappear. Build. Return. Say nothing.\n\nFour words. That's the whole strategy.\n\nThe results will speak louder than any caption ever could.\n\n#RunThePlay #BuildInSilence #Disappear",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/37FuuX9LxvI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/37FuuX9LxvI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/37FuuX9LxvI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "build",
+              "disappear",
+              "four",
+              "nothing",
+              "results",
+              "return",
+              "runtheplay",
+              "strategy",
+              "that's",
+              "whole",
+              "word",
+              "words"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Disappear Build Return Say Nothing — The 4-Word Strategy #RunThePlay",
+              "description": "Disappear. Build. Return. Say nothing.\n\nFour words. That's the whole strategy.\n\nThe results will speak louder than any caption ever could.\n\n#RunThePlay #BuildInSilence #Disappear"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-25T22:52:12Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "disappear_day2_validationisaleash",
@@ -12053,7 +12129,7 @@
       "affiliate_comment": "If this resonated, The 5 Love Languages goes deeper into this exact idea: https://www.amazon.com/Love-Languages-Secret-That-Lasts/dp/0802473156?tag=onamzransfsla-20\n\nAs an Amazon Associate I earn from qualifying purchases.",
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevuzT9eHmP7r3nL8wj-9SGe-4CG4aA4x-k-0LorvTI1GSnUt6oiyeofZvibI8c3HpxuJIxBRT1g6cCbRkhiE96zTzCHytX0eHr_xUkqd9SaAR_6ikc5SE2RivxNQbWLjeXrTMSbzA2nnSEBK4-O3csSOLwBXHU5J-vQLWSpPs9L-5u3J0ScZoLCH8QkudKL2wJ_A_7sSfsmevu9Izepo5aE0Yfsi8INatEHknCpR0Nx"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuna11Zee5Kk7E8vUYFIZ7bN-id79XHAUmUf3u7Ugs7W1i-UMkEsvsljqOnKB18c-9k5Kx9mUjEKRqSLaS9R1pZlgtYu3v88IIw38Bk1nNxJSPj49kOAYfX-BPuV4IM-fxRwlHrfXdqns1gffHzyFuDBUAyTLjQY-alqt0-8rH9Lsrf38taAm-JtdhF5bwOSeR1xivYfv55pEA8fRoEXVSXvSLZqIVD8a4rXbPwQzPT"
         },
         "instagram": {
           "id": "18112546181082524"
@@ -12117,7 +12193,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-25T21:49:39Z",
+      "last_retry_at": "2026-08-25T22:52:13Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -13943,7 +14019,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev-OBCWxymXT-NKWuUQAuq7adWInpa6oT4OLgSONhzXnjB9ulkzk-_8LuFqDURkN_7JDUhO09XcZpqK-PmQ1cQFzO6p13RjX7RfoqSje430ZLkk7pSi8g6RIbBZBAj6VRzfhb3yoGzjGrMSRiz7WwjeipJeN7_PpLJp0bmIqoa66S-bwLljw2CkKvIEXuzi8d4_PzHnkBuLHBZn5DeoR_gBOSyUxyvDXH-wvW7ZjXW-"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesUYJQFJxhGOtiimMo8sQldGGWDVyc52IUcVunFfd9ChkJss8X34qYnewBe54hxIrqF1fhDvE-DGfUOxxpmTsYTsFi9n6G2uDmY7sKt5NWe331LvKA-OVRjsh7coLhYmTqZWAoKoXSxQ6ZEDGfuq0QG5dm5Ar3l369DZg34eO9KerFwl0I1Y-7INPLkB3xvdVWM0511WbaNl0GvJvZEK0256Bqi_OgA17JM6EAUyhlu"
         },
         "instagram": {
           "id": "18134302810642503"
@@ -14007,7 +14083,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-25T21:49:40Z",
+      "last_retry_at": "2026-08-25T22:52:14Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -14111,7 +14187,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet7jx43ZAdO4_RZNDF5wfOVG4MGBmO-lezS8gLsRT2e6GMhdP9zkh301rBk26YdDQs3pTYis1US4lzHsX46JjfBnfZW0BSKe6P4TkgiB2vzCYr0ylQRCFozl6Abo8zREAJLqilQPxVfVoynL_VtKN91KFAXWFePGC0g7d6t42avf0zlxQusU_EeuQ0iXEMn_7iyJ2IKN-4Up7xI7JSh-Bo8rcVxXCGZ0_LDGyt7cC9j"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuSJGhP6pYcwgy1cfrb9lc832il-iG8ix5i9_qwTOVzre30Zs0554o-KJd6kdCfK4UJNjjQ69duXYQErRi42Peye1RgNzbQhnrKdv16Z3zPC9TbK-uhTEgiBV_XIEVXss4eYK8UvAQ5EmlHqLlz_A6TboAQQaobuKKK98SczW9huCkEpkLW_gReLHBEJbkpK7jP70Q6fd_0PeqFjalskBLadDEL9Qk9nW5uyQTMlWrE"
         },
         "instagram": {
           "id": "18093507182536417"
@@ -14175,7 +14251,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-25T21:49:40Z",
+      "last_retry_at": "2026-08-25T22:52:15Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -14418,7 +14494,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpvdK-_nV4MtVV7wbuw-W4VzHoYADjCV5O39E7JV1a0fR2L9nMgp8Uf6iVqFvZjFDq__lqOhRegLEiLJZtCNB35D7yINiXn1_evfgMUoF31qbUnP8U5ae46ptzTFBzND2VcKBiFEVetbzBI-pOf2kOGLdaJdi8qjbhttFtVRmLA1eNLCakEJnNTElzhqIfTcdj8OkZpoSud0K17kzdrJ7z2SVAeSa36fWuqRGjSBGc"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetT3AndOETinAEd05eD6TzcEBiyDNcNPQXX1FqrYQGMxsZqMDCQXTf8kNMtZJpN4ylKmwBXcKU55fcX4TrSD4QYjc2cV2mHCa6QdEl7_X_xydC6wIsi4gOhAtLnDPwAMGAlmN79-ukiuwJw8OMOE7kMB5MZgpL0ddfg5N2WmhAqz9LStU7XcER_F7Y8SpGVL25Jw25kYO96CzS8YlNvlsbWTJD1mShETM3CEn7a_EDj"
         },
         "instagram": {
           "id": "18095264849379179"
@@ -14482,7 +14558,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-25T21:49:41Z",
+      "last_retry_at": "2026-08-25T22:52:15Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -14668,7 +14744,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuLkneqYnqs_w_iXZqvJkUBDvwEy2OjL3KVQyRdpkI4JTTYHHI4w354H3Kvd-K5YPUzMPOoL3ssCz-SsMltdHr31Ilv8KDgeeifSdq3tSr1WjkYN7-7iVxS7bxI3M_LhLNDCbaNQ_FEhfr70-mWV2MbS6-BUGmH_JjyQauQEfxu2HXKsrdIxIdREM-gmmOEbgKKyUAxLIOVwjXOEKGnJFKKoNWeX7CGKyjxxltYh-DN"
+        },
+        "instagram": {
+          "id": "17916366075452332"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "Xb8Ex7v17B90fBSsM-feV_BITYM",
+          "id": "R7cm4h4At5c",
+          "snippet": {
+            "publishedAt": "2026-08-25T22:53:00Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning at Busy, Losing the Day",
+            "description": "Winning at Busy, Losing the Day\n\nSomebody's out here running around all day, checking boxes, answering messages, and going nowhere. Motion is not progress. You can be exhausted and still be standing in the exact same spot you started. Ask yourself tonight, did I just look productive, or did I actually build something today? Do one thing today that actually moves you forward.\n\n#Motivation #Mindset #LesBrown",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/R7cm4h4At5c/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/R7cm4h4At5c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/R7cm4h4At5c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "answering",
+              "around",
+              "boxes",
+              "busy",
+              "checking",
+              "going",
+              "here",
+              "losing",
+              "messages",
+              "running",
+              "somebody's",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning at Busy, Losing the Day",
+              "description": "Winning at Busy, Losing the Day\n\nSomebody's out here running around all day, checking boxes, answering messages, and going nowhere. Motion is not progress. You can be exhausted and still be standing in the exact same spot you started. Ask yourself tonight, did I just look productive, or did I actually build something today? Do one thing today that actually moves you forward.\n\n#Motivation #Mindset #LesBrown"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-25T22:53:02Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d05",
