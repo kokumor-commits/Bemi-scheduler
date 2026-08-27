@@ -5154,7 +5154,82 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev0XAQCe0GFlyiTmTx8geF10WucZB_D2unoYjSXrSQ_NtzWpO-K3UOSSwZ23NJWQFX5vn-vnRe6oZkprKO10quzUP603DYE0kBeBZmwENRBrQvr27Lsbl5Pr9SjN-aGPiYNQTLqf0M5JO7S9yz65VrYJXu6Zjc-dvAtRAyiciNVYQnWGrNWM8MRxl8XzV1b06F6Nds2kY39wDU53dfSdujuRVMwlKWtubxFsLrlUlEZ"
+        },
+        "instagram": {
+          "id": "17877850812688733"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "omrh7wM0b05WQO-zy91r1M2UTHw",
+          "id": "utOi1hv-q7I",
+          "snippet": {
+            "publishedAt": "2026-08-27T22:49:30Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Most Dangerous Man Disappears And Nobody Knows Why #RunThePlay",
+            "description": "The most dangerous man is the one who disappears and nobody knows why.\n\nThey can't measure you when you're invisible.\n\nThey can't compete with what they can't see.\n\n#Invisible #Dangerous #RunThePlay",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/utOi1hv-q7I/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/utOi1hv-q7I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/utOi1hv-q7I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "can't",
+              "compete",
+              "dangerous",
+              "disappears",
+              "invisible",
+              "knows",
+              "measure",
+              "most",
+              "nobody",
+              "runtheplay",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Most Dangerous Man Disappears And Nobody Knows Why #RunThePlay",
+              "description": "The most dangerous man is the one who disappears and nobody knows why.\n\nThey can't measure you when you're invisible.\n\nThey can't compete with what they can't see.\n\n#Invisible #Dangerous #RunThePlay"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-27T22:49:32Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "disappear_day4_silenceisanxiety",
@@ -15130,7 +15205,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesF2b1EgUcm_FaWNWUBLTr_ziH_K5nLTBreRiPmbAiHaH91eJRaS_VYMZRqkOyjFqlc4QF5ezn3SeMfZ736K1nXry8xL6H0100OE9kw2qX6TD2L4hR-H-BIGIPVC89rTXszVxxHUiWQGWeOOCwcGlBfTwaUaerX1iFjnHqSDQHcEjywHj4_LCTJAgS87mv2etko9IKZYxxYcJH5NMw8KpLrH0OvZlyONZjs6YpxDoAg"
+        },
+        "instagram": {
+          "id": "17908924416465927"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "npjWehdsKw7MYGT4dhZHbc2_5po",
+          "id": "qpl507EK4H8",
+          "snippet": {
+            "publishedAt": "2026-08-27T22:50:14Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Grade, Losing the Lesson",
+            "description": "Winning the Grade, Losing the Lesson\n\nYou can win the grade by copying the answer, and lose the lesson that would've built you. That test in the classroom is nothing compared to the test life is going to give you later, and life doesn't hand out cheat sheets. Do the hard work now. The struggle is not your enemy, it's your training. Do the work. Your future self is counting on it.\n\n#Motivation #Mindset #LesBrown",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/qpl507EK4H8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/qpl507EK4H8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/qpl507EK4H8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "answer",
+              "built",
+              "classroom",
+              "copying",
+              "grade",
+              "lesson",
+              "lose",
+              "losing",
+              "nothing",
+              "test",
+              "winning",
+              "would've"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Grade, Losing the Lesson",
+              "description": "Winning the Grade, Losing the Lesson\n\nYou can win the grade by copying the answer, and lose the lesson that would've built you. That test in the classroom is nothing compared to the test life is going to give you later, and life doesn't hand out cheat sheets. Do the hard work now. The struggle is not your enemy, it's your training. Do the work. Your future self is counting on it.\n\n#Motivation #Mindset #LesBrown"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-27T22:50:16Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d07",
