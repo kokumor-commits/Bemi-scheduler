@@ -5337,7 +5337,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuaLEDZi-EPITmtWe1ROVmYy1mMl51im_KU53tGtjx50nvuqPOTxyKIJ2mnRBjggbqzO2Lj7yVSlYMaYub-EoFSuUp4D6bIwZQht0N52e1AeDId18ESGsouqdlXloa9pttaqjE54RjpTPvmudYEhPlXKTXihEWoWPpIsdXAzB8ew8JX6U_CHuukCqA-znsBpz0OIC2ID6GX4GPLtK_5faWF5Ixa0C-vfS13vLd3Ybjj"
+        },
+        "instagram": {
+          "id": "18029276318907142"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "NwVjB0WRnZB4cq0rmIOtG7OqTNo",
+          "id": "er7brh2XUEQ",
+          "snippet": {
+            "publishedAt": "2026-08-29T22:47:04Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Return With Results Not Announcements — Let The Results Explain Themselves #RunThePlay",
+            "description": "Don't return with an announcement.\nDon't return with a comeback story.\n\nJust return with results that need no explanation.\n\nThe business is open. The body is different. The money moved.\n\n#ReturnHeavier #NoAnnouncement #RunThePlay",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/er7brh2XUEQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/er7brh2XUEQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/er7brh2XUEQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "announcement",
+              "announcements",
+              "comeback",
+              "don't",
+              "explain",
+              "just",
+              "need",
+              "results",
+              "return",
+              "runtheplay",
+              "story",
+              "themselves"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Return With Results Not Announcements — Let The Results Explain Themselves #RunThePlay",
+              "description": "Don't return with an announcement.\nDon't return with a comeback story.\n\nJust return with results that need no explanation.\n\nThe business is open. The body is different. The money moved.\n\n#ReturnHeavier #NoAnnouncement #RunThePlay"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-29T22:47:06Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "disappear_day6_talklessbuildmore",
@@ -15591,7 +15667,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevcmJRk2HxRi4kRKFKMWX73HJX_3lOeCpMKZFU7X6CCaI7yWf9DhrViJnGjZwVC1Ard9u-hdqZAaRhy8I9FVMZXEO52E1Q_JvqIrc7sxC-oOBYiMm37BcGrE30rF7HBTYkVg2cg1Cp4Ho_MwX6KUO9hFrBa848PLRNZMIN8pOabkHvphDDetE_FSbyC9sOw2ODSpXnrD9NDtQ07e4mCZLz4Iuowt3iNjlwFnENsvj6l"
+        },
+        "instagram": {
+          "id": "18117606391943956"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "9GfpRzNb81TnF4yHGZRye4mTqJo",
+          "id": "OGltwIule3M",
+          "snippet": {
+            "publishedAt": "2026-08-29T22:48:12Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Argument With Your Child, Losing Their Trust",
+            "description": "Winning the Argument With Your Child, Losing Their Trust\n\nYou can win the argument with your own child, and lose the one thing you actually needed, their trust. Being louder does not mean you were right. Being the parent does not mean you get to be cruel. That child is watching how you handle power, and they will remember. Choose connection over control. Repair it today if you have to. Trust is worth the humility.\n\n#Motivation #Mindset #LesBrown",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/OGltwIule3M/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/OGltwIule3M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/OGltwIule3M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "actually",
+              "argument",
+              "being",
+              "child",
+              "does",
+              "lose",
+              "losing",
+              "louder",
+              "needed",
+              "thing",
+              "trust",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Argument With Your Child, Losing Their Trust",
+              "description": "Winning the Argument With Your Child, Losing Their Trust\n\nYou can win the argument with your own child, and lose the one thing you actually needed, their trust. Being louder does not mean you were right. Being the parent does not mean you get to be cruel. That child is watching how you handle power, and they will remember. Choose connection over control. Repair it today if you have to. Trust is worth the humility.\n\n#Motivation #Mindset #LesBrown"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-29T22:48:14Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d09",
