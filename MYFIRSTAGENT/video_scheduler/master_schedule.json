@@ -5340,7 +5340,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes-xGNTmuUFH9Ol7ZxecCcimDwfuoIkSo8LxnlbngptHftvVvfrlFLM_9uAEggYCwEBQlRM9V9UnFjpTwIeFTg5xmGrp6XCxkxuc2bYocOZY6ZtHEthA6A9rWt1jzw9jtjrgrljImu2AT8Isplxyu6WcpHR2Gf-hurC6SUiwk6ZkDwWeryITsgeL_0vh1qA5Hz1CzjRPcpWstGUBel2m0VKhs0U-mPCMxcMb_UTvVGi"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeskJoCJoEdo5RyoFx4Sb_Qr3FHsYX04mROPjQOqfFMxsQuCwHgXaIKEdH_bw5v8YzeZXoOWt-6rAIbe4bx-HWZtQDhD6cAu_eEQxcXJX3tn2QmhhOHQazhFRgRT9Zy0-y52mbYfWiOEGCJ-QFakBt9pbZAHMtBXeoq6YPDQkANyZ6fQfub1XoXnhkOKe2E4juoY7SBRQ3_h7jOQ-uUZ9Uqzzrdk5aSGw9chfhFZx1jC"
         },
         "instagram": {
           "id": "18029276318907142"
@@ -5410,7 +5410,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-30T21:44:32Z",
+      "last_retry_at": "2026-08-30T22:47:30Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -5429,7 +5429,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetz-XdBmgp5huq0HMgl9wPQGeO2tBIxY0AgRsScagFkLZZBc69u9ajFOgsmtBs3VAXRS9bRU3iTdu5FzVCKI1uYzNvqC7zx9wB8PxYPNLPqJ317qGiKWMl6qGPhoL-THod-sJNdOffM6beSgwuGY_pFT_EdJtg50459s_4fuhx8erQPmAWY8cPe9NO9tQOxVyAD8jfqP1ROm6zBm5MarJ4FKPtjTa_-sQQYqigSSScX"
+        },
+        "instagram": {
+          "id": "18003447317982093"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "Q8v0CqdGvO11b4JtJ3oy9e8PxHA",
+          "id": "YsAcl4Qp28Y",
+          "snippet": {
+            "publishedAt": "2026-08-30T22:48:35Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Talk Less Build More Return Heavier — The Only Strategy You Need #RunThePlay",
+            "description": "Talk less. Build more. Return heavier.\n\nEvery word you spend explaining is energy you could be building with.\n\nShut up and stack.\n\n#TalkLess #BuildMore #RunThePlay",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/YsAcl4Qp28Y/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/YsAcl4Qp28Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/YsAcl4Qp28Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "build",
+              "every",
+              "heavier",
+              "less",
+              "more",
+              "need",
+              "only",
+              "return",
+              "runtheplay",
+              "strategy",
+              "talk",
+              "word"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Talk Less Build More Return Heavier — The Only Strategy You Need #RunThePlay",
+              "description": "Talk less. Build more. Return heavier.\n\nEvery word you spend explaining is energy you could be building with.\n\nShut up and stack.\n\n#TalkLess #BuildMore #RunThePlay"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-30T22:48:37Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "disappear_day7_neverexplainthedark",
@@ -15740,7 +15816,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevIPenXOppCC5-5Ch4UrC13B0a5x0MiA6yX2MDUlljh9e5aLj8SbqOW5CzvENtR1wyBuga80rfzv09x6nOgKI0EVAEhjwEy1VpSTA-zAlI5wjOwk7kAuPcaCHNLF8CSbYKIouCGCGuTNX7kY43PrdE1jUtZIzxzW7oFbfwkd_kYcHQsMfH161xwBFyYI1oTfTpuXPFvY-ZtZ3oo1QcytmHrJjeyjHKug2qQ937Kxaan"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevctAjs3BczwBQ85nyl47ETE2Mdd91oJsgeY_Z7bn8Nri8oSkC_whr0uZtQwMFSttS9h0-4LPv-oi2CsmiiTnn1FDC6-41HhVNBYSbf_ndIyVYA6eUH9Ob2qv_oqZHXDxNtyuqFTpk8nZxMwUB0pOs_d3rQNqgQnejHJN7veZKnNxR2t63zKBVJwtprGlqHcxKl12f73QuGKx6AAXI0k3yoQM906r8xekTeD30HxjCn"
         },
         "instagram": {
           "id": "18117606391943956"
@@ -15804,7 +15880,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-30T21:44:32Z",
+      "last_retry_at": "2026-08-30T22:48:38Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -15822,7 +15898,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuCstDyGoDZgn5u4a-BZ1RiZHpNVFz-Ul4kRrVA_hoJTcFfN8xGODz1vOtXbZAfpoI4TtmXEkgi5XBRn22piwtUS7CIA4kxbGwdWhxRUnVx7wkRxsKwtqeEpccfcuFOo6IdahY7_8NgW8CHrgj3AN5w6kOfjdgaiOx9LvdyKAlFsnTd-LZBnC-wi3_u6bGtoh_J6zeHhAP06R3N9pFvCVpEFGDlWHdK7BynbrAE6mKq"
+        },
+        "instagram": {
+          "id": "18444712459193592"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "N7Vc6Q4dhEirToZutIHjQGr6n6Q",
+          "id": "IUfnugkjnhQ",
+          "snippet": {
+            "publishedAt": "2026-08-30T22:49:23Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Deal, Losing Your Name",
+            "description": "Winning the Deal, Losing Your Name\n\nYou can win the deal by cutting a corner, and lose your name in the process. And your name, your reputation, that's the one thing that follows you into every room for the rest of your life. People forget the price. They never forget how you made them feel while you took it. Protect your name like it's everything, because it is. Do business the right way. Your name is worth more than the deal.\n\n#Motivation #Mindset #LesBrown",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/IUfnugkjnhQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/IUfnugkjnhQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/IUfnugkjnhQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "corner",
+              "cutting",
+              "deal",
+              "follows",
+              "lose",
+              "losing",
+              "name",
+              "process",
+              "reputation",
+              "that's",
+              "thing",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Deal, Losing Your Name",
+              "description": "Winning the Deal, Losing Your Name\n\nYou can win the deal by cutting a corner, and lose your name in the process. And your name, your reputation, that's the one thing that follows you into every room for the rest of your life. People forget the price. They never forget how you made them feel while you took it. Protect your name like it's everything, because it is. Do business the right way. Your name is worth more than the deal.\n\n#Motivation #Mindset #LesBrown"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-30T22:49:24Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d10",
