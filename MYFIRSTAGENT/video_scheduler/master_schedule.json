@@ -5157,7 +5157,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevMdqdzsd1j7VBAHQng3tHNdcXAbyX4CVrvxd64Grkwf9B77TkXPxFcX-kAXKuieaHBN0XUPsgo2ZqmPd43vfsG1_5xtnDeHz2OqhePI7aeIn9J35pyIlo8f3cLQUNAASpOW9p-auQiKcgPydqD6m5iy_by2c7sqe6fU5EUb8BgtshQoU47sydNSav1D8-N88P5aMyi6y8gP2B27x33Yju34R6stLeVY9VPkDg6NOGW"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesacokYEj2yqTjBwnaKxsYMXl8uS8O_UvjA0LFBkSKGZnL4Nth_-AZY-5ihSn3tiuQ7DMhQKvoX3nKt1_Tur9QJycXxuXEgxNC81RJ-MHCv8tE5ZWts3yalBQ6fr9GIzlyFkALa6PLhWZYkvTIOEH11XZgGo3ZM7F520moatQMV6j0T2ItiE7Fof49efP9BQdoH9aJj4a0_3tdRT-Mu7vWl_MlhUfpTWub9ZnM679xv"
         },
         "instagram": {
           "id": "17877850812688733"
@@ -5226,7 +5226,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-31T21:39:13Z",
+      "last_retry_at": "2026-08-31T22:42:20Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -5248,7 +5248,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeutBzjtx2NlrFaPyeFaqGQngjI9TkY6fg9OAyvjfreelUOMziVZgTdJv075M7_oBP82miT-vAaSZwUsoSPCwU_KZ1aoCSQOtLCW8dMkhctQdomVd06G3zjoi1j4R3rXBvkmfTxts3JuNbXCc_vUFuQQ8gIo9SHBD71i7IcK1yG-UcGoC8R2ixC49waaWfb8luRSXbN2Zw_rIHKeR2AF2CzyNBeQqfbNj8yQS6YwZdxM"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuFoj0mFD1UJhXkjbvAoQXkcW66vK77_LyC1dtb1XVrnD1D8HHLIzRFgKe21ygl2bfO7oGTK7W_G2M2idZn7uS6jsdfh_Nhaa61-TlDGL64aR7tWzJjnBLp3h_hQL7ofApTM2A7fSTTubq_49uzOa3bVjf5BuNXcdf5DnG-59R4f9kWJkR0WWHFERi-_nAZjciKruWRljWHJia00ygDqfc0snV_X0dpAiDjuaWTi-nz"
         },
         "instagram": {
           "id": "18100250579613568"
@@ -5318,7 +5318,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-08-31T21:39:14Z",
+      "last_retry_at": "2026-08-31T22:42:20Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -5521,7 +5521,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes3x6gSNEuPiFvf1MVyDgv6hJkJyk7kNodiDOKkNKFtzhUyVtnBUS7e0uWnUcnr4ZxqNibtpqgpG9FF6xk0w1KPJML52t94fXVsM5qwkHDguM6Y8lJQOrmrjsV5bw_aGivsIikh0VJc5A3ElJbtLE-pvKVWjPYOW5_-sK8KA-sI4Z03e5HvA443xxTVwFoF1-ahey7x0C0PG5d0AVgkQ2sfCZFafp4bc1M0n2zxZwBt"
+        },
+        "instagram": {
+          "id": "18037443701824529"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "UjdmgZqo4sTWRxuzZjRWVOaUhzA",
+          "id": "8pi5Bkvk460",
+          "snippet": {
+            "publishedAt": "2026-08-31T22:43:04Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Never Explain What Happened In The Dark To Those Who Only Show Up For The Light #RunThePlay",
+            "description": "Never explain what happened in the dark to people who only show up for the light.\n\nYour silence was never empty.\n\nIt was full of work they will never understand — because they were never invited in.\n\n#NeverExplain #TheDark #RunThePlay",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8pi5Bkvk460/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8pi5Bkvk460/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8pi5Bkvk460/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "dark",
+              "empty",
+              "explain",
+              "happened",
+              "light",
+              "never",
+              "only",
+              "people",
+              "runtheplay",
+              "show",
+              "silence",
+              "those"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Never Explain What Happened In The Dark To Those Who Only Show Up For The Light #RunThePlay",
+              "description": "Never explain what happened in the dark to people who only show up for the light.\n\nYour silence was never empty.\n\nIt was full of work they will never understand — because they were never invited in.\n\n#NeverExplain #TheDark #RunThePlay"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-08-31T22:43:06Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "truth_day1_discomfortisthesignal",
@@ -14902,7 +14978,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesEBKSxrcrVogY6GoEgqmnWf6VbcEfSTt2D1oOkXel37YiC5-kWn9dCbwzdYRdo2OqeFGJPlgbHr0dz1RbR37n9bcAhBevWhuhjyD1GwYRgV71Mj6_IVH_PWFxZV2_IiNN7YkkFmBsGyd8k-XgAvKjBUcw-J0dIyD-XZZ6_9UrZrWaIBMhw0CH9dWWY8e--fNZ8oBbAyNiYcPH4R0ugMQrNWNbZ5CrIFbgo7_CMoFJs"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu8EafKAoRDIHCzZmMfqLlGX8Goont3QiDLxiuGzzLkLYRpg6dh7wrX1Qro_fUSvOQb1N8PuGf5yxgPClKNQcdBYmDxV31TvSizN8AVOTEZsmXubgpmn1ZVl20iT4WygDIdQbpUJBRV3Y-EAFJF44nYsO6G9-33I3k495MeryO7tm2Gox3poPuD4WeK-NFzXKRPkKLb6uK6MMwvDrJyNjACDea8ZSvntmMtCqQicvQM"
         },
         "instagram": {
           "id": "18105221858522344"
@@ -14966,7 +15042,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-31T21:39:14Z",
+      "last_retry_at": "2026-08-31T22:43:08Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -14986,7 +15062,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesF65otjq0a7g29W5Xqgz_RiAU5xiho2580XiLvxf-sv1uZ0Yglv1o6pDq0TsQiuP27fn-i6ijoYPP_kbu4Gh_R8uUDJgRK5C85s2ve997P0q8FtWRhxzCe-GKf-8aymN5rOCX9TNtYgNXoUvUUGa31U8OhHhWAX4mc26R0pqdGkSta6gDFOkA7SnQ_wEav2-hq4YfqOAyv0IdRDpkOHYKAmUl76ITp3ZIJ3PLPqudH"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet7IvoCIX7HvtekW15YlMaTqHfv-5IpnnuYTqhSPqSL7KBTGSF8DjBbKFeqlebYmMi4i1IKSh_gG82Jt_rRgBm5C77kbQcK1uOYvXo1CWfLAky470xLLge3fgvSvCKyu5ZxY5191Qzemumt0MAoUCI61Heo4AHHr-9TIg1sSRGrXAOtAseLmbsAWM4_UBlHB9iL_0fBD5dvv8h_zV4ZaxVb_l-GxmOp9B3tJ6D8brbf"
         },
         "instagram": {
           "id": "18141409210598845"
@@ -15050,7 +15126,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-31T21:39:15Z",
+      "last_retry_at": "2026-08-31T22:43:08Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -15646,7 +15722,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetsUmL0cmdt4GwuBGASC4bZBXF6dI2hCtOUCABfQxXFhUEaDi3vt4-EJirWtewXu1VXawdDtK1Hc5kNkT4CsKRy_qJ5Tgz_pGQhXRCM8hXKDx97Z1BqRvlAAzLvCz8v2MPRslJ_dQAbQflR1k9qbiErO0x4euij-58jqGugkGvBeZBCzygBOSfW8PrD4XwGsbx93ZRqPCSrXScgXEfbK5d3FNi-fkwjadYsV9MyYsQ3"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes8qwDoivxSAuD88jeEz9vBmmw6e_17QHZgEg91zGYQo0Qb9TbttgWeDQokezYlBT_N7n3zscWqE402hOE_rdH2XLvkcloKgxBg8bQF3b5DvsVsr9YjFaivfDEW0txK-SsSBuaQwHbmxAUN8Wx1eyycvNBve6kYw8QuIFmcJ34Zq4hgTcqiwMr-8ZfwcXsUs2M4prl3kcccibkq4gb6vxqx53JlF8y5eZnllJjdfdke"
         },
         "instagram": {
           "id": "17908924416465927"
@@ -15710,7 +15786,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-31T21:39:16Z",
+      "last_retry_at": "2026-08-31T22:43:09Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -15731,7 +15807,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeujL3qww2hIm3IvYwGL8ZLxG1N4WdLNfDBCAZaeTwHveXriIc-0WRsB4OgeYziR9Gz4_BjHuPnb_s3HkaZ2953i-NDDoRpzIc4ufSOitW2hvMroS1G-Nz8c3JEGiCbPbEXJMwpUpThl5QXW_D-ajw-sAGClE34zIdjcIjZeWiv1y7D635xvO1S6PNOZ_5h1bYpgVkEtYyTYMJGILXi6taxvJ8w0ktTejIjKrYqft6lK"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNjVF1-VJU4UE1BcxoOCqkAEp5R-GrJV66i3BpqyYz8kUX2vxxknwXg6-Xo2C8XbSyH1ktJuK9hixMeN8r1kX_i7v9lpm-QptOFZ5rj6HbnrZaL4xXRBG1CSrtZbUVb9RYcwvkPXYMsx1uZ4qD_FCOzqFwMfG12GTSqyUqAuUF9C4Mgb2Gb-wSWHHEYUownkxmLB0FVaBrb5Yhmzca_ZgOZCaQtEDaEZaixqmbw0MX"
         },
         "instagram": {
           "id": "17888681004612617"
@@ -15795,7 +15871,7 @@
           }
         }
       },
-      "last_retry_at": "2026-08-31T21:39:16Z",
+      "last_retry_at": "2026-08-31T22:43:10Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -15983,7 +16059,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesgEk01TBd032Rp9nc5IvwUvvSbeQmxuSgCu3yymzXCFMCd_xYyrznn5tWA-H--K7zXoZVVYlyZpymiWvcJgF13X7PoqC6T0wLqQ5W8oaExxdXE11le1Dg8pLZ4BLqaaQxEDCW3x0WwIgEhDeAlU_O5TRCQuwJLmqo0hCV03a2Zfer7_nvMlF3eh2OzjLsZLOPURxq3Bv07_5LCTKdyACmPA3a5uEpt5Fnx8jCXXEp6"
+        },
+        "instagram": {
+          "id": "18143861344561784"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "IfWVwmVLyonAjpFf0G2kUeZMJrs",
+          "id": "1c9S8VjrK8E",
+          "snippet": {
+            "publishedAt": "2026-08-31T22:43:54Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Race, Losing Why You Started",
+            "description": "Winning the Race, Losing Why You Started\n\nYou can cross that finish line first, and still lose the reason you started running. Somewhere between the starting gun and the trophy, some of you forgot you used to love this. Winning without joy is just an expensive way of losing. Go back and remember why you started. Reconnect with your why today.\n\n#Motivation #Mindset #LesBrown",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1c9S8VjrK8E/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1c9S8VjrK8E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1c9S8VjrK8E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "cross",
+              "finish",
+              "first",
+              "line",
+              "lose",
+              "losing",
+              "race",
+              "reason",
+              "running",
+              "started",
+              "still",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Race, Losing Why You Started",
+              "description": "Winning the Race, Losing Why You Started\n\nYou can cross that finish line first, and still lose the reason you started running. Somewhere between the starting gun and the trophy, some of you forgot you used to love this. Winning without joy is just an expensive way of losing. Go back and remember why you started. Reconnect with your why today.\n\n#Motivation #Mindset #LesBrown"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-08-31T22:43:56Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d11",
