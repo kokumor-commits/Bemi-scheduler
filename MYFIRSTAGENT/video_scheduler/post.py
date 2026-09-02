@@ -240,6 +240,11 @@ def _yt_tags(title: str, description: str) -> list[str]:
 def post_youtube(video_url: str, title: str, description: str = "", thumbnail_url: str = "") -> dict:
     access_token = _yt_token()
 
+    # #Shorts must appear in the title or description text itself (not just
+    # metadata tags) to reliably trigger Shorts shelf/algorithm treatment.
+    if "#shorts" not in description.lower() and "#shorts" not in title.lower():
+        description = f"{description}\n\n#Shorts" if description else "#Shorts"
+
     # Download video from R2 (videos are ~5-10 MB at 30s)
     print(f"  Downloading video from R2...", flush=True)
     vid = httpx.get(video_url, timeout=300, follow_redirects=True)
