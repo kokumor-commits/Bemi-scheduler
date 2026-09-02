@@ -16340,7 +16340,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17860669692689708"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "BAUeauokFwDQ_W6ORcmkTsSWAwo",
+          "id": "ZHIIU4N1l1o",
+          "snippet": {
+            "publishedAt": "2026-09-02T12:50:37Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Cost of Not Caring",
+            "description": "The Cost of Not Caring\n\nThe most dangerous person in the room isn't angry. It's indifferent. Anger at least means something matters to you. But the shrug, the 'I can't be bothered,' the drifting through your own life, that's the real threat. You cannot drift your way to anything worth having. Nobody accidentally ends up at the top of a mountain. Pick a direction. Care enough to be wrong. A strong wrong opinion beats a lukewarm nothing every time. Care about something today. Loudly.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ZHIIU4N1l1o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ZHIIU4N1l1o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ZHIIU4N1l1o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "anger",
+              "angry",
+              "caring",
+              "cost",
+              "dangerous",
+              "indifferent",
+              "isn't",
+              "it's",
+              "least",
+              "most",
+              "person",
+              "room"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Cost of Not Caring",
+              "description": "The Cost of Not Caring\n\nThe most dangerous person in the room isn't angry. It's indifferent. Anger at least means something matters to you. But the shrug, the 'I can't be bothered,' the drifting through your own life, that's the real threat. You cannot drift your way to anything worth having. Nobody accidentally ends up at the top of a mountain. Pick a direction. Care enough to be wrong. A strong wrong opinion beats a lukewarm nothing every time. Care about something today. Loudly.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-02T12:50:39Z"
     },
     {
       "id": "diseasesofattitude_d02",
