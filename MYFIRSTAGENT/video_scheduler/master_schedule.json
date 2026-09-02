@@ -5675,7 +5675,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUDgpzSBrCG2iO-4IpQWI7uqRDCL6sjr9U1rK1dsI1jX89siHuAC_eKPRrWNoEkrzqYisPu-ow535uEoETIqux9mDE6Qw-DhNyBkJ33Ce2HTd4TdgaNcVWfG75P-m4uA8lk8wGcL8NWSdFVrazWeG836VQOA0kOin4HtuheW4S5gyNCRUQWh3ldn551bItf0n6I-er2L8xWK0ncusyrIFQ0z3Ma37MdHFUH-D5cJyc"
+        },
+        "instagram": {
+          "id": "18369603871214527"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "vxTuPPiaGG7oRWef1XkRHLClwYg",
+          "id": "Bn8o3C29Mvc",
+          "snippet": {
+            "publishedAt": "2026-09-02T22:54:50Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Staying Quiet While They Fall Is NOT Kindness — It's Cowardice #RunThePlay",
+            "description": "Staying quiet while someone you love heads the wrong way isn't peace.\n\nIt's self-preservation.\n\nNiceness keeps YOU comfortable. Honesty keeps THEM safe.\n\n#RunThePlay #HardTruths #RealTalk\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Bn8o3C29Mvc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Bn8o3C29Mvc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Bn8o3C29Mvc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "cowardice",
+              "fall",
+              "heads",
+              "it's",
+              "kindness",
+              "love",
+              "quiet",
+              "runtheplay",
+              "someone",
+              "staying",
+              "while",
+              "wrong"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Staying Quiet While They Fall Is NOT Kindness — It's Cowardice #RunThePlay",
+              "description": "Staying quiet while someone you love heads the wrong way isn't peace.\n\nIt's self-preservation.\n\nNiceness keeps YOU comfortable. Honesty keeps THEM safe.\n\n#RunThePlay #HardTruths #RealTalk\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-02T22:54:52Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "truth_day3_kindnessvsniceness",
@@ -16206,7 +16282,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes1Tlb6pFKVrQRhHLdM2TogOgmJH5TeZxyQswt9OvU4pMKEWbOh_MS7csqNPnWsMSvg8Vk8gElDf0VLlWR_fvdB8IW3f6lp814Bz6AK9rcXDsB4zKFTgqvX6_r3ezqhsHujSnWvjaKs50yogfNuQY-1IUgb-40RTvmzDR-s7nKy7ayaHDCPwO9_H0uKh127ARrHFRBx8jgBe8MHdWXxj3aRm7mFjjsndHx7vmpuqn_M"
+        },
+        "instagram": {
+          "id": "17906740527307865"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "Eb2scL1C1mAbGRIPSqFiIpYosdY",
+          "id": "8oXCjCMGlF0",
+          "snippet": {
+            "publishedAt": "2026-09-02T22:55:26Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning Favor, Losing Your Time",
+            "description": "Winning Favor, Losing Your Time\n\nYou can win everybody's favor by always saying yes, and lose your entire life doing it. Your calendar can be completely full and your purpose completely empty at the same time. Somebody has to guard your time, and if it's not you, it's going to be everybody else. Protect it like the treasure it is. Say no to one thing today so you can say yes to your purpose.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8oXCjCMGlF0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8oXCjCMGlF0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8oXCjCMGlF0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "always",
+              "calendar",
+              "doing",
+              "entire",
+              "everybody's",
+              "favor",
+              "life",
+              "lose",
+              "losing",
+              "saying",
+              "time",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning Favor, Losing Your Time",
+              "description": "Winning Favor, Losing Your Time\n\nYou can win everybody's favor by always saying yes, and lose your entire life doing it. Your calendar can be completely full and your purpose completely empty at the same time. Somebody has to guard your time, and if it's not you, it's going to be everybody else. Protect it like the treasure it is. Say no to one thing today so you can say yes to your purpose.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-02T22:55:28Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d13",
