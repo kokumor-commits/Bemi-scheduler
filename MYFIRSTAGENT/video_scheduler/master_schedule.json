@@ -16418,7 +16418,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18108726422116077"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "AIDo_dhnczJA2fFe9VsRSZfiVOI",
+          "id": "utQ_KX4Gcyo",
+          "snippet": {
+            "publishedAt": "2026-09-02T18:52:21Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Lukewarm Kills",
+            "description": "Lukewarm Kills\n\nCold, you can work with. Hot, you can work with. Lukewarm is where dreams go to die. The most dangerous place to live isn't failure. It's the middle, not committed enough to succeed, not honest enough to quit. Half effort doesn't just slow you down, it wastes the exact years you could've spent finding out you were wrong and correcting course. Being wrong fast beats being lukewarm forever. Stop being lukewarm about your own life.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/utQ_KX4Gcyo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/utQ_KX4Gcyo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/utQ_KX4Gcyo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "cold",
+              "dangerous",
+              "dreams",
+              "failure",
+              "isn't",
+              "kills",
+              "live",
+              "lukewarm",
+              "most",
+              "place",
+              "where",
+              "work"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Lukewarm Kills",
+              "description": "Lukewarm Kills\n\nCold, you can work with. Hot, you can work with. Lukewarm is where dreams go to die. The most dangerous place to live isn't failure. It's the middle, not committed enough to succeed, not honest enough to quit. Half effort doesn't just slow you down, it wastes the exact years you could've spent finding out you were wrong and correcting course. Being wrong fast beats being lukewarm forever. Stop being lukewarm about your own life.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-02T18:52:23Z"
     },
     {
       "id": "diseasesofattitude_d03",
