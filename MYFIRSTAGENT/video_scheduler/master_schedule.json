@@ -5767,7 +5767,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesjVwxbJKBAIZG_N4SurR7Rve3v7yutqE8Onc39N3TQvTeptnRccV-X8cpWynp7XZVHLM2aUblj2cTnTYcf9-LseR-mduMfBiLLL9FWyIGk8xroGUM0FC94pewp-ZhiguGWPhbDIy6W8ptIDA1R2ZcBZYT3fv_FlffzklMeYsYV9LuZ8rGN5ZgNRDA2fKvkhPn1JPbDA7GLgn_NemNyubWrzxhUjsqR3VpQzqjcf6Gs"
+        },
+        "instagram": {
+          "id": "17937459078362512"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "RQ-ss-eX2hwzDo6JA7W7d7_3pIM",
+          "id": "h1-UHDgmb8I",
+          "snippet": {
+            "publishedAt": "2026-09-03T22:50:57Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Kindness And Niceness Are Opposite Things — Most People Get This Wrong #RunThePlay",
+            "description": "Kindness and niceness are NOT the same thing.\n\nNiceness avoids the tension. Kindness walks straight into it — because something matters more than the mood in the room.\n\n#RunThePlay #LeadershipMindset #Standards\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/h1-UHDgmb8I/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/h1-UHDgmb8I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/h1-UHDgmb8I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "avoids",
+              "kindness",
+              "most",
+              "niceness",
+              "opposite",
+              "people",
+              "runtheplay",
+              "same",
+              "tension",
+              "thing",
+              "things",
+              "wrong"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Kindness And Niceness Are Opposite Things — Most People Get This Wrong #RunThePlay",
+              "description": "Kindness and niceness are NOT the same thing.\n\nNiceness avoids the tension. Kindness walks straight into it — because something matters more than the mood in the room.\n\n#RunThePlay #LeadershipMindset #Standards\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-03T22:50:59Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "truth_day4_thefriendwhospeaksup",
@@ -16367,7 +16443,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeskMpC5HFjKIHpBLe17nE6bvMbOqZEWAQyWeV_ZA5MBuC9Pc1_YhY2RHJ5GZ2zLk9jiKUJ7ektAxRq86-_CqA1gG1nq5FfvB-kOq4fdO_scMRD2OBO6EfBrY4C7h0SUGQsEJitRF2xMJ2I3P22iZ_-eWw7ZfwFa6Q8fLmX5zIoCI88tv5L7K66hoes-rWTR0YgNMqWn1RYg6-xJMK8OrGiKbC3mNu6H-LEkGO3LXVp9"
+        },
+        "instagram": {
+          "id": "18095610482151719"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "8HHu0aeh83pxpkOrrWL6WxZwnxE",
+          "id": "C708iKX7pRg",
+          "snippet": {
+            "publishedAt": "2026-09-03T22:51:44Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Promotion, Losing Their Respect",
+            "description": "Winning the Promotion, Losing Their Respect\n\nYou can win that promotion by stepping over people on your way up, and lose their respect on the way there. That title looks powerful on paper. It looks empty in the room once everybody remembers how you got it. Climb, I want you to climb, just don't climb over the people who helped build the ladder. Bring somebody up with you on your way up.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/C708iKX7pRg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/C708iKX7pRg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/C708iKX7pRg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "looks",
+              "lose",
+              "losing",
+              "over",
+              "paper",
+              "people",
+              "powerful",
+              "promotion",
+              "respect",
+              "stepping",
+              "title",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Promotion, Losing Their Respect",
+              "description": "Winning the Promotion, Losing Their Respect\n\nYou can win that promotion by stepping over people on your way up, and lose their respect on the way there. That title looks powerful on paper. It looks empty in the room once everybody remembers how you got it. Climb, I want you to climb, just don't climb over the people who helped build the ladder. Bring somebody up with you on your way up.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-03T22:51:46Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d14",
