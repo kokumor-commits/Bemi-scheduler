@@ -16720,7 +16720,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17865185793660437"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "J5veYKghJ6uaPA4zRtQ97u3JMBs",
+          "id": "aKUIxE96Gj0",
+          "snippet": {
+            "publishedAt": "2026-09-03T18:43:59Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Give Me Someone Who Feels Strongly",
+            "description": "Give Me Someone Who Feels Strongly\n\nI'd rather work with someone who disagrees with me loudly than someone who agrees and means nothing by it. A strong wrong belief can be reasoned with. A shrug can't. Passion is a starting point you can build on. Apathy is a dead end no argument can fix. If you feel strongly about something, even the wrong thing, you're already ahead of most people in the room. Bring your strong opinion. It's worth more than silence.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/aKUIxE96Gj0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/aKUIxE96Gj0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/aKUIxE96Gj0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "agrees",
+              "disagrees",
+              "feels",
+              "give",
+              "loudly",
+              "means",
+              "nothing",
+              "rather",
+              "someone",
+              "strongly",
+              "than",
+              "work"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Give Me Someone Who Feels Strongly",
+              "description": "Give Me Someone Who Feels Strongly\n\nI'd rather work with someone who disagrees with me loudly than someone who agrees and means nothing by it. A strong wrong belief can be reasoned with. A shrug can't. Passion is a starting point you can build on. Apathy is a dead end no argument can fix. If you feel strongly about something, even the wrong thing, you're already ahead of most people in the room. Bring your strong opinion. It's worth more than silence.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-03T18:44:01Z"
     },
     {
       "id": "diseasesofattitude_d05",
