@@ -16642,7 +16642,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18119053946290590"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "1lC1D8XIwmABv0KO29VQ2L1aOow",
+          "id": "n-izQT9nuVc",
+          "snippet": {
+            "publishedAt": "2026-09-03T10:50:02Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Inspiration or Desperation",
+            "description": "Inspiration or Desperation\n\nThere are only two things that ever really move people: inspiration or desperation. If you're not inspired yet, don't be surprised when life hands you the desperation instead. Both work. One just costs a lot more. The people who wait for a crisis to finally get serious are choosing the expensive teacher. Find your reason before life finds one for you. Get moving before you're forced to.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/n-izQT9nuVc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/n-izQT9nuVc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/n-izQT9nuVc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "desperation",
+              "don't",
+              "ever",
+              "inspiration",
+              "inspired",
+              "move",
+              "only",
+              "people",
+              "really",
+              "surprised",
+              "things",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Inspiration or Desperation",
+              "description": "Inspiration or Desperation\n\nThere are only two things that ever really move people: inspiration or desperation. If you're not inspired yet, don't be surprised when life hands you the desperation instead. Both work. One just costs a lot more. The people who wait for a crisis to finally get serious are choosing the expensive teacher. Find your reason before life finds one for you. Get moving before you're forced to.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-03T10:50:04Z"
     },
     {
       "id": "diseasesofattitude_d04",
