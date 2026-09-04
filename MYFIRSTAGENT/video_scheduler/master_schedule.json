@@ -5678,7 +5678,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6lUoetd44GLu-Y3fCSx5jE3DJeXRJWkIW_QLlrFK4LXkNE790xRuNgVAbGIU9je6xzfBvX0RhtFoIGaTGjUTD4MQPkbD805Saedn973qxaDWOSduKoQLl0yH7AyvXvLccj3D9LyNi77dEAN4AXZHDahEeB7f7-dGSZWCEroVitemkChgjQtohlFhcH9OEv2PrYKd6pqIh_C_bySwJqJrFMIoFxw3A5amk9kYbeL2"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuMXxqRrSODx_q3frsq58utE0EJvM3GXUP-HSrBTVmoCLR4XlCIPcyxL1eE-e2USxE3FP2-1ufEJE_5qFssrXQ5tsZPFWijpjyvIwYAqwAFSonBDua3tVrft75EwGqn5ewkf2SimYOheMaku0_TuIZSrys1QGp-TjxquwbCm4wwtN8miLNq7TpWDYDNF0mlGUusTSsolP5xy5KhIZNuq9UB1FQ_buh-Y5uquEX2rumw"
         },
         "instagram": {
           "id": "18369603871214527"
@@ -5748,7 +5748,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-04T17:47:20Z",
+      "last_retry_at": "2026-09-04T18:48:42Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16361,7 +16361,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevsXCf_7zRjo6KnhjmKwnjvfbN5bHvXguCxfisUD-nHPBLdEIFUVTwIVY3erLe-yakq2W2VK-ASZGHtNTq3uZ43VJvTV3Fp7VgRY7GxYZyphrOmWsEtm9ReEdo6_lHMbYUMQxLn5uK1kEImjMMZqQrkl6bvpRgVr2hBguYMx6XXs9bnmkpEUufSbgekoaQRFlI_fs5iB6Ro6DhZRF7l0PgfJsmRQ2JQ7N-5KVnLHRfl"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesbs2LMtg2YsK92-LhVoqFlaKlMM-xDRSkRvdhCMS8r_5MqftgQh5JJY14q7vEOkXSj3gguEaa2YePr8XR8XxMGSd1Km4I5ctE6OB317eHzxYa6Qk6r-dG0n7gsdimD-HxrKmv1A8_atC9wMibmhFNr0S-U0Ty3maBdyUochefqq65QmtAhlpCGKg5sk_-7AsXnH2tVcFkga_erJxYDyF2zT9E4_6raVbeISZ-A27ll"
         },
         "instagram": {
           "id": "17906740527307865"
@@ -16425,7 +16425,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-04T17:47:20Z",
+      "last_retry_at": "2026-09-04T18:48:43Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17022,7 +17022,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18131009977742150"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "iLWDmKf9zD1zS2r6oMbNosI6LyU",
+          "id": "SGe-0QE5trI",
+          "snippet": {
+            "publishedAt": "2026-09-04T18:49:26Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Half-Baked Life",
+            "description": "The Half-Baked Life\n\nNobody ever built anything great half-caring about it. You can pour everything into the wrong job and it'll show you the right one faster than sitting still ever will. But you can't pour half of yourself into anything and expect a whole result. Full effort is information. Half effort is just delay wearing a disguise. Pour it all in. Even here. Even now.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/SGe-0QE5trI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/SGe-0QE5trI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/SGe-0QE5trI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "anything",
+              "baked",
+              "built",
+              "caring",
+              "ever",
+              "everything",
+              "great",
+              "half",
+              "into",
+              "life",
+              "nobody",
+              "pour"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Half-Baked Life",
+              "description": "The Half-Baked Life\n\nNobody ever built anything great half-caring about it. You can pour everything into the wrong job and it'll show you the right one faster than sitting still ever will. But you can't pour half of yourself into anything and expect a whole result. Full effort is information. Half effort is just delay wearing a disguise. Pour it all in. Even here. Even now.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-04T18:49:29Z"
     },
     {
       "id": "diseasesofattitude_d07",
