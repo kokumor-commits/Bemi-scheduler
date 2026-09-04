@@ -16944,7 +16944,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18137516476610975"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "IiiVojCdzpyfs0BGBOAIzjRrwfw",
+          "id": "2Spb64QWH0A",
+          "snippet": {
+            "publishedAt": "2026-09-04T10:52:29Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Can't Drift to the Top",
+            "description": "You Can't Drift to the Top\n\nNobody drifted their way up a mountain. Every summit in history was climbed on purpose. Drifting only takes you one direction: down, toward whatever's easiest, whatever's downstream. If your life feels like it's happening to you instead of being built by you, that's the tell. Pick the mountain. Start climbing on purpose. Choose your direction today, not by accident.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/2Spb64QWH0A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/2Spb64QWH0A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/2Spb64QWH0A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "can't",
+              "climbed",
+              "drift",
+              "drifted",
+              "drifting",
+              "every",
+              "history",
+              "mountain",
+              "nobody",
+              "only",
+              "purpose",
+              "summit"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Can't Drift to the Top",
+              "description": "You Can't Drift to the Top\n\nNobody drifted their way up a mountain. Every summit in history was climbed on purpose. Drifting only takes you one direction: down, toward whatever's easiest, whatever's downstream. If your life feels like it's happening to you instead of being built by you, that's the tell. Pick the mountain. Start climbing on purpose. Choose your direction today, not by accident.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-04T10:52:31Z"
     },
     {
       "id": "diseasesofattitude_d06",
