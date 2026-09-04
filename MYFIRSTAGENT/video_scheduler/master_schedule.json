@@ -5678,7 +5678,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUNjISm95xKQ1HmhFoKpbm40R6E6n66sfsW9Je_pLwUXqN7xgrpn5bHkmefyLlvHzsVnGNRatWHnM-O2cRQ3D1noAsQ1xOi4wQG-A1Ok12Jgh5iur9yLNz0q6fi3I7DcTMdqZAPxlJqlpXc1k-E_BP5-m8y_NzdLqJOHAzAfCheKeC-q3ykTsP76A-T4-cOLUfDTvQBRey9wDitSO-0-EGI81gP0ZzS5gHjGSjnwH8"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesbSRaqEbrfnJK9d1jxy40j2Zy4cgQtNj-vABt-zJUHxCQXv4hvSWguZ3Ms5lySdEu0ppZIf3LAWWWQFUyp2QjXujgNkC1nh0igxefs6pGMCm6cv8hhEmeUHsRvEoogxz5ncZPidLI9khSK9URiyjliTk6wKZpEDmAv83Jb4asLbrLK-sitIP2IWMe8_mnM9vOvnE7fGnF-Rl-f26ZJFhqIwKNGYqcmulJwFBMhDwn7"
         },
         "instagram": {
           "id": "18369603871214527"
@@ -5748,7 +5748,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-04T21:53:11Z",
+      "last_retry_at": "2026-09-04T22:54:54Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -5859,7 +5859,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetC80Vpb-134tUzRenDwBKgJ8jNFar7f182ZPw1YC4X5ueJfc4BHMnQjG0skVoThrS7ZzdmofC4Jc3Cb9huG2mwkyCw6ngDn7UUHv_lHhNYXb2KA1XtjHfTlJo_J0BDptpAFSAxHVTdCXXx91sG8XzvnvUqFq6riMG_vHXJIZwde8CsKhorViR6RjefG3-3MbYPo-FWvTUmxL2q-fcGLbG0m3cUawNz8dT-i3qFfnkr"
+        },
+        "instagram": {
+          "id": "18087878183239099"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "Fr1toZI_IFskbw_GOKLk0zlNNig",
+          "id": "P5dE2UjYd1w",
+          "snippet": {
+            "publishedAt": "2026-09-04T22:55:51Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Person Who Tells You The Hard Truth Is Your Most Valuable Asset #RunThePlay",
+            "description": "The one who tells you the hard thing is not your enemy.\n\nThey're paying a social cost to protect you from a bigger one.\n\nMost people will watch you fall and say nothing. That one spoke up.\n\n#RunThePlay #RealFriends #Loyalty\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/P5dE2UjYd1w/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/P5dE2UjYd1w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/P5dE2UjYd1w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "asset",
+              "enemy",
+              "hard",
+              "most",
+              "paying",
+              "person",
+              "runtheplay",
+              "tells",
+              "they're",
+              "thing",
+              "truth",
+              "valuable"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Person Who Tells You The Hard Truth Is Your Most Valuable Asset #RunThePlay",
+              "description": "The one who tells you the hard thing is not your enemy.\n\nThey're paying a social cost to protect you from a bigger one.\n\nMost people will watch you fall and say nothing. That one spoke up.\n\n#RunThePlay #RealFriends #Loyalty\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-04T22:55:52Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "truth_day5_audiencevstribe",
@@ -16361,7 +16437,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeviDIVlotQmogO2igloz0Pl1pWqFUKUsmW--7R0PKMaAyoybOGUL0TKjFn4NyhVOb1MNSYzzRt_0f40aj_5JfUwJpjcRkX31OMP3iZXPcv336EURMeAhbn6uPk3DP9noxavK7L1-XizDeyIT8PVL9Ibt_MoF-B1_DNFlPpQcLcb9HxiODUsIpTKsW1Wg7cBVoC-veigqfcnkdGasX5bzZbWMrvszgF1b4oFoO7isNbc"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetLScgN9tXiatArxx35oDcZ-iAvEoXmUEeKIa4IGhGuBlouRsy-uv0d3oTFp0SV4XnHj0hqgwjaECNwbESjJCPREYB1MoSr_pYStkm02beI0tTVcf5HFYFtxrn5-EM7yVgg_84ky9FyS_gXA5et8oOgsRwFtCzVVzI72k9wfGseDN7knv4bHZd0RYCvz9J_CsexHbKYoKoWqwgvRrdweViRWk1rgFOopeGrNjMNmXGg"
         },
         "instagram": {
           "id": "17906740527307865"
@@ -16425,7 +16501,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-04T21:53:12Z",
+      "last_retry_at": "2026-09-04T22:55:54Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16528,7 +16604,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevX68sb3nyHELMTyIEy-GoWVZ6mK_ty3Gf5B9cY74B-1fjIi5J8hxy1turDi9NC0YonaaZRAvNH1_b_18eudh2bXXGUlYmQ1J_AuQouiE-u5PnHGToZK7zrf6tM6yaOXXHRokurPPGx-Sgi7ep4jhwiIZeIAKuaDVIDH-DzOW2OdMd_laFC5hDcYfn68noVS6E5IrYcNXcYcC-wSk0-yxp3KBttxRmYhUHuzDY3ylTY"
+        },
+        "instagram": {
+          "id": "17902948584559785"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "va6OuUmWFTOaSS8vPpFRON9BL2s",
+          "id": "czI4Y7a5lBI",
+          "snippet": {
+            "publishedAt": "2026-09-04T22:57:35Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Shortcut, Losing the Skill",
+            "description": "Winning the Shortcut, Losing the Skill\n\nYou can win the shortcut, and lose the skill you would have built walking the long way. A shortcut gets you there fast one time. Skill gets you there fast every time after. Stop trading your ability for convenience. Put in the work now so you never have to depend on luck again. Choose the long way. Build the skill.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/czI4Y7a5lBI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/czI4Y7a5lBI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/czI4Y7a5lBI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "built",
+              "fast",
+              "gets",
+              "long",
+              "lose",
+              "losing",
+              "shortcut",
+              "skill",
+              "time",
+              "walking",
+              "winning",
+              "would"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Shortcut, Losing the Skill",
+              "description": "Winning the Shortcut, Losing the Skill\n\nYou can win the shortcut, and lose the skill you would have built walking the long way. A shortcut gets you there fast one time. Skill gets you there fast every time after. Stop trading your ability for convenience. Put in the work now so you never have to depend on luck again. Choose the long way. Build the skill.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-04T22:57:37Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d15",
