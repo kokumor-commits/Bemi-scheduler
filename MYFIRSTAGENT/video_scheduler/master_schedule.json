@@ -5951,7 +5951,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuATR4jFNSOKE9EDiAy46JPD_zPAsYfRjP5FG0bixSKfH_bo4uvG7s0cbgLHjZ48ou94XOm711AZ-0rP-gkT-9f8U0Rd8FEeAcvcuUrqzUE5ntRCPEED6cpAKJsn9UWpaRFiSdq8WmJcpmwEp12BUVQHDZxvv4rdibq0QlH_QodJg1Od8Kx5nPS7G-0AWDvQF-gD6oZ8Xmwhpzl-8NVOGCbyhkyp_ExMUQlYrAuf-Fv"
+        },
+        "instagram": {
+          "id": "18027514505687418"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "moQgerl5j6H7me23HwlavHvbvo0",
+          "id": "lxr6m0OXrb8",
+          "snippet": {
+            "publishedAt": "2026-09-05T22:43:40Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "A Room Full Of People Who Never Challenged You Is An Audience Not A Tribe #RunThePlay",
+            "description": "A room full of people who never challenged you isn't a tribe.\n\nIt's an audience.\n\nAudiences clap and go home. Real ones intervene.\n\n#RunThePlay #RealTalk #BuildYourCircle\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/lxr6m0OXrb8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/lxr6m0OXrb8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/lxr6m0OXrb8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "audience",
+              "audiences",
+              "challenged",
+              "clap",
+              "full",
+              "isn't",
+              "it's",
+              "never",
+              "people",
+              "room",
+              "runtheplay",
+              "tribe"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "A Room Full Of People Who Never Challenged You Is An Audience Not A Tribe #RunThePlay",
+              "description": "A room full of people who never challenged you isn't a tribe.\n\nIt's an audience.\n\nAudiences clap and go home. Real ones intervene.\n\n#RunThePlay #RealTalk #BuildYourCircle\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-05T22:43:42Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "truth_day6_truthtakescourage",
@@ -16689,7 +16765,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuOHNCFj-L1XUxJ6poSNP9rXL-v0ImYZ8ookk2Hs_crQkNS0QXpzpgjGNpxMTXVz7aT4ExFftJ1RncRhFy6aXcGttB2TQMD0aS4ene6Qb7X7SB8zP8Z4Z3esqyqJF91CGePrtFaAvci4-Z4G4ZaQ_Ypu32wgRqDIfFhf6uS4G0m_wwQeiRxNoocIsS_rqHRbx8G0le7ayaXQW4LEoNZ4ZymjndyxaumcFj-Z-Cwg8mn"
+        },
+        "instagram": {
+          "id": "18109938452022391"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "VnuAY9PJazrJTAtBPcoOMlQfc_k",
+          "id": "euD2tlySv8Y",
+          "snippet": {
+            "publishedAt": "2026-09-05T22:44:29Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning Tonight's Craving, Losing Tomorrow's Strength",
+            "description": "Winning Tonight's Craving, Losing Tomorrow's Strength\n\nYou can win tonight's craving, and lose tomorrow's strength. It's not one meal, it's not one skipped workout, it's the thousand small surrenders nobody sees that quietly write the story of your health. Your future self has to live in the body you're building right now. Choose like they're watching, because they are. Make one healthy choice today. Your body is listening.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/euD2tlySv8Y/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/euD2tlySv8Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/euD2tlySv8Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "craving",
+              "it's",
+              "lose",
+              "losing",
+              "meal",
+              "skipped",
+              "strength",
+              "thousand",
+              "tomorrow's",
+              "tonight's",
+              "winning",
+              "workout"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning Tonight's Craving, Losing Tomorrow's Strength",
+              "description": "Winning Tonight's Craving, Losing Tomorrow's Strength\n\nYou can win tonight's craving, and lose tomorrow's strength. It's not one meal, it's not one skipped workout, it's the thousand small surrenders nobody sees that quietly write the story of your health. Your future self has to live in the body you're building right now. Choose like they're watching, because they are. Make one healthy choice today. Your body is listening.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-05T22:44:31Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d16",
