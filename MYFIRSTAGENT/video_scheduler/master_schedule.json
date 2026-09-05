@@ -5770,7 +5770,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev0RZayi9v-I1-tCX7pAlMfj_NVz14xtpgzFk1fuDtfd28YZ9WpCeH8uNqWPdkV4aKuprhgDyBhehpOgWLAPmAAILjZAdbfqP2jbGd7DH8skrBrl_ooQwymYmdjF24rrfW7OGXMAyp2SMLeKKdWTDXDKNz65OJUr5QBMNtlbfw-4ePE86RXVggy89WYLdl1zI9TEXEAPtkIeJ7yeWmxbWsYrBV1Zu1R21hYa-DKFW3t"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuQBP_slbuAea4uCyWzB0khkEtyLrwqpANzq9nIWd7K69VdqqXP0ziz2z4vwDvKumA2R3dnFm_OMzclz88FhcoebM6ftyw2jHBTS-noUzoVbgdOiHqvp6tlbJdWH7XAUKw7igN35fH9qOGf_zGbvcrsQ2pONoyRuJrFmQQEB_rtHQr22R7jpNmyxj005KoZB-HfBeEUo37fGFMe3ZZ5rpNnWaTJVoMQAqstf-xQHtOM"
         },
         "instagram": {
           "id": "17937459078362512"
@@ -5840,7 +5840,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-05T09:40:25Z",
+      "last_retry_at": "2026-09-05T10:41:37Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16522,7 +16522,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeslxznvmEjcLBi8GD4C2pLUNFwtMyf4UBLeo16YJc8WMHBdEEZLdVO4I2kUnecfDKo_gs68yNXLUmehCGMO3hicMyJg3l5Cf_zLSeyivx4J4f3eCGqZatcsaO55CEioVjYmJKjTPApSAIUEoqgsp4dsv4V2gkX-0WkPS4JdRkww8h7QS2uCdGAyGcxkYbltN9LHQmdP2nw8fR_CW6-bdhyxcb8utP1YeUZA7GiJo0yc"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuesRjRv8xEUWmOh2HHsxT85JnfuZEsTA2kjU1izvTUtNbr2UWyya--sBuxZKv2seurbcj8qT1tW929kdS1dWFAaGvVC8jpMzOWR1a5z_zkrjVCmUlzDIf1n3bUTxgQuoRXK8xXAbn7O3KKEtwUB4ca-s1CwSIhuIPnQB_z6AlAy4RS23Ax7MhkVwatBzt9P0kZ70XQb4Dv-mIhGj94bvKLDI7EVNgXIyxCClXumIHT"
         },
         "instagram": {
           "id": "18095610482151719"
@@ -16586,7 +16586,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-05T09:40:26Z",
+      "last_retry_at": "2026-09-05T10:41:38Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17246,7 +17246,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17954903727015666"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "cEHMLGYyJPOJ3uJj8Sr1jXt3M2k",
+          "id": "pgpYnKj_FoQ",
+          "snippet": {
+            "publishedAt": "2026-09-05T10:42:41Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Any Side Will Do",
+            "description": "Any Side Will Do\n\nThe fence isn't neutral. It's just a slower way of losing. Staying undecided feels safe, but it's actually the most expensive decision you can make, you pay in time you never get back. A decision that turns out wrong still moves you forward, because now you know something you didn't before. Sitting on the fence teaches you nothing except how to sit. Pick a side today. Any side will do.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/pgpYnKj_FoQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/pgpYnKj_FoQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/pgpYnKj_FoQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "feels",
+              "fence",
+              "isn't",
+              "it's",
+              "just",
+              "losing",
+              "neutral",
+              "safe",
+              "side",
+              "slower",
+              "staying",
+              "undecided"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Any Side Will Do",
+              "description": "Any Side Will Do\n\nThe fence isn't neutral. It's just a slower way of losing. Staying undecided feels safe, but it's actually the most expensive decision you can make, you pay in time you never get back. A decision that turns out wrong still moves you forward, because now you know something you didn't before. Sitting on the fence teaches you nothing except how to sit. Pick a side today. Any side will do.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-05T10:42:43Z"
     },
     {
       "id": "diseasesofattitude_d08",
