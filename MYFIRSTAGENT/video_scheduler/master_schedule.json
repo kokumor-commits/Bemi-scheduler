@@ -5770,7 +5770,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevntSwjJcOugvzPKxmC_13S5EmaRIj248gFnc_XjqmTR7CkGbdXxVhJ9AKrcZfqLU4OeJRWrs739PTLJccgSQNdgSWvz6WPGwhBjZBWSd2JErEEygHnc_-XeNohrtOx1rwE6UaNf1dtO0m7i2Ze-x9tO3QUweyQ05Iq7OowQVlwEsXl6oSQEpum__1MazW1evowQW0yUu5cGJjSLQaxZapCeXpb7tk5sCck2uo7f_pL"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu53evMfdP45dDO-EdyytlClKoLFLsxetGuAypgyR4i2RQbqk87sVZdkaLpL7Tb5WFYqJ5C9peHN34BtBWon17OnuFo1f9vLQglDEeLscspwrS_A-NF90ckG_bEOJ8n9-2lZme0xAM_seKlMzZG3Sm1Vj99RYPJCNKSu-Lcki4gBSWYGYsU9fupz09kkfisItYfiy-yDewdgHgY1fQ_U6mJLommHtzIlSlsS3_AZ0ym"
         },
         "instagram": {
           "id": "17937459078362512"
@@ -5840,7 +5840,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-05T17:51:11Z",
+      "last_retry_at": "2026-09-05T18:52:17Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16522,7 +16522,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevKB8Z9eTlW6CgmjVd205ViUtqcUgAB2QXHNtA-30nUjoHBVwmTCB3MjS8HqXq5TJohX_nO3Of9PgcWUhMpYsAjNMKiIwPEQMrGY-7ifHGV2uVZ4hB6Cqk5ld64lHJeY0Rhe2RFzNeOqHrJ2aDhFxLCgZFXf72L7kHHbI4qgO2UNZ_PT3EMODCb2wx5vwlZOIO6zpcj-FV9TfM8T5qPbnDI84RjVsE2V-VLyWCNGSjX"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuepuSzR26uR5M6-hSbwBWVdBTIKfT3X0tfU-Gok7rXuTuNriL7469az23bf1elBJ28Ne5jygZO8JVsG_S3lpVScLTEPYeNuQZRZkjqYoSpr9yQdeF9fT0Kj7s2vfwwDSyRAp9P8e8AM6LaO2Uy8h7m2TUHp6TIieqhxrS4GJKJmrSnIblX2MuXK5R8gT9AgEdQnDP443_Ian_P-rwKRjB6dVN8jcn5EcbTg5TrzaVf"
         },
         "instagram": {
           "id": "18095610482151719"
@@ -16586,7 +16586,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-05T17:51:11Z",
+      "last_retry_at": "2026-09-05T18:52:19Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17324,7 +17324,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18119326528727408"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "dV2oWBBtpdX9hK9oMOJ1d6vJfYM",
+          "id": "Ij1SWfDlgME",
+          "snippet": {
+            "publishedAt": "2026-09-05T18:52:53Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Wrong Decisions Are Still Decisions",
+            "description": "Wrong Decisions Are Still Decisions\n\nThe people who've made the most mistakes are usually the ones furthest ahead. A wrong turn still teaches you the map. Standing still teaches you nothing at all. The adventure isn't in getting every decision right, it's in making enough of them that you finally learn which ones are right for you. Stop trying to avoid bad decisions. Start trying to make more of them, faster. Make the decision you've been avoiding.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Ij1SWfDlgME/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Ij1SWfDlgME/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Ij1SWfDlgME/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "ahead",
+              "decisions",
+              "furthest",
+              "made",
+              "mistakes",
+              "most",
+              "ones",
+              "people",
+              "still",
+              "usually",
+              "who've",
+              "wrong"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Wrong Decisions Are Still Decisions",
+              "description": "Wrong Decisions Are Still Decisions\n\nThe people who've made the most mistakes are usually the ones furthest ahead. A wrong turn still teaches you the map. Standing still teaches you nothing at all. The adventure isn't in getting every decision right, it's in making enough of them that you finally learn which ones are right for you. Stop trying to avoid bad decisions. Start trying to make more of them, faster. Make the decision you've been avoiding.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-05T18:52:56Z"
     },
     {
       "id": "diseasesofattitude_d09",
