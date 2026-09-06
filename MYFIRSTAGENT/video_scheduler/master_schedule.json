@@ -5770,7 +5770,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuWop6N_STPlT49E8Yp_-6Tbo24Jk4JtfqZAVY2GBoWY6VeCdrEH9IX-Zb_j_Z5pmY_t6irxiBmdH83hCmY7SQk28JPWDUlp_sEUBn-4n0fF4tqyskrOqGSbqMAJzpJwnVCaF-N1iX9x8VHpIGLcvTKp2di4DF89uPnpjCukyxPqD527tNqfm3Qlts3EhfWt27ivzZQ4mibj62HFIANsvGal9DXRpvUw_q3ucsu2UnU"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetcRkBU_BDFloWxlLU6JLSEMNTk4XiinpvD3qDm3zDba3BPjOArZROg0CLarlsBBDzFoC1pJIpITNSRPin_X5X4PKSyZeS9oK_3nJhDP4tIucleV0uJVAXnjcccwo_Ymce--tAZVGaxYJLvb_lhe4R4Xr2Cn2Gpss5-LbNoRk9uDuFdT5vhPRqlelnSMUuesC6KHkQ-qxpu4s06wleDKX83jkaFa_iNhzlMnUuT5TZf"
         },
         "instagram": {
           "id": "17937459078362512"
@@ -5840,7 +5840,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-06T21:40:54Z",
+      "last_retry_at": "2026-09-06T22:42:42Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -6043,7 +6043,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesK202_pZgMKJel3Tk8XAXMAVajRCiVBTLB1WdRvRgqfVYsXRWsxdiK4Yk7MGhHMeoPxVa_Fksbs_TMrmHqLflIpILM71svn_gM33eCkBOufk46Jd97tlA_4bWKQ7JfnQairmgRGp-CY6CEGbObA3PjMHNZLdCfLgQ6DMpbFegZWV6uA-PxRis5DtizuEPKtcA7J64fASoJWw-bEXoNh56KKPgScEcqzWA_H1exV1xS"
+        },
+        "instagram": {
+          "id": "18108673945869876"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "r27bJBzFI_UBbUWai3Xxo55c0bM",
+          "id": "_gUyOh80ru0",
+          "snippet": {
+            "publishedAt": "2026-09-06T22:43:26Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Telling The Truth Costs Something — Staying Silent Costs Even More #Courage #RunThePlay",
+            "description": "Speaking the honest thing costs something real.\n\nIt risks the relationship. It risks the room. It risks them getting defensive.\n\nBut watching someone walk into a wall in silence? That costs them everything.\n\n#RunThePlay #Courage #HardConversations\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_gUyOh80ru0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_gUyOh80ru0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_gUyOh80ru0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "costs",
+              "courage",
+              "even",
+              "honest",
+              "more",
+              "runtheplay",
+              "silent",
+              "something",
+              "speaking",
+              "staying",
+              "telling",
+              "truth"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Telling The Truth Costs Something — Staying Silent Costs Even More #Courage #RunThePlay",
+              "description": "Speaking the honest thing costs something real.\n\nIt risks the relationship. It risks the room. It risks them getting defensive.\n\nBut watching someone walk into a wall in silence? That costs them everything.\n\n#RunThePlay #Courage #HardConversations\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-06T22:43:28Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "truth_day7_raiseyourstandard",
@@ -16598,7 +16674,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetd9nJRn3HnqhCVaDOzrFrVfyEPq6h3_WgxluUjVgUpV-Qu2bXDQh2ZtmMLipFFH7tFEG0LhFfLItzV0C5fseaMtZ89uRVhLKtG1L3_ZppFHmwdVvisp37SlyMNYDWeAIn_GgEPU2hHCx7C9eQoiZgiwJ7cOwQwiYG8aY6Loi77zLJNVAhKq17EAlLET4qJF2LZ2LINZnXUyRQ0dlq_imlvvcrk78kD2-8E5s-V8xeI"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevZInotK3zNMlO6hC13hJ-L-IUlJL_D3WKui-51z4hobr0QZC4_mpitwvmVEXbdprCKVIhoHyaCZhND_W98cBRoOKYsu_9-23AttAYBSfLBvmoQBeNmjWeTGc1TSyaCR3O8cqmUf5ezZGsOHDBzYEuQBChWRVD9dvaLo-5uwq-oSvbG0nhEtdpOGvJF3q7EdK6WEiZ7jZX5tOAuDUYPP_E3aNBl6qqgmJHrdibB_Iv8"
         },
         "instagram": {
           "id": "18095610482151719"
@@ -16662,7 +16738,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-06T21:40:55Z",
+      "last_retry_at": "2026-09-06T22:43:28Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16850,7 +16926,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetvdul7FeafpoNjEIFapJ5HoOKxreNh4oj_uXzUTk8P-oSzHoze-D_BECsO7JmTN_0l3ksnU3BzS01vSI0krsM_f_2JluXASBYoEhs97PE3WSpcRprLC2iisYNzB5JMuDeaObT4EzCV49-aiciNGEtr6d675hrDpkds2jHML8wSLFeDPV-6HYqE8LAtuWn4mZGCwUSmLnwonmo1hcbw47BkTqPzUY_Jg9r5XzpjK9QO"
+        },
+        "instagram": {
+          "id": "17886629271615048"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "2lh9KxMgMzlc5AMzuJn4k8lVNls",
+          "id": "F3aNhi6lN8w",
+          "snippet": {
+            "publishedAt": "2026-09-06T22:44:12Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Last Word, Losing the Friendship",
+            "description": "Winning the Last Word, Losing the Friendship\n\nYou can win the last word in that argument, and lose the friendship completely. Somewhere along the way people forgot that being understood matters more than being finished talking. Let it go. A real friendship is worth more than any point you'll forget you even made. Let the last word go. Keep the friend.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/F3aNhi6lN8w/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/F3aNhi6lN8w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/F3aNhi6lN8w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "along",
+              "argument",
+              "completely",
+              "forgot",
+              "friendship",
+              "last",
+              "lose",
+              "losing",
+              "people",
+              "somewhere",
+              "winning",
+              "word"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Last Word, Losing the Friendship",
+              "description": "Winning the Last Word, Losing the Friendship\n\nYou can win the last word in that argument, and lose the friendship completely. Somewhere along the way people forgot that being understood matters more than being finished talking. Let it go. A real friendship is worth more than any point you'll forget you even made. Let the last word go. Keep the friend.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-06T22:44:14Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d17",
