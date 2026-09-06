@@ -17626,7 +17626,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18096196250637448"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "dundl0XlF45agqGg6JxrsAtY-Oc",
+          "id": "CZ3w5C8EHM4",
+          "snippet": {
+            "publishedAt": "2026-09-06T18:50:26Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Adventure Is in the Decisions",
+            "description": "The Adventure Is in the Decisions\n\nA safe life and a full life are rarely the same life. Every decision you're afraid to make is a door to an experience you're afraid to have. The people who look back on a rich life aren't the ones who avoided every wrong turn, they're the ones who took enough turns to find the right one. Decide more. Regret less. Take the turn you've been circling.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/CZ3w5C8EHM4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/CZ3w5C8EHM4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/CZ3w5C8EHM4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "adventure",
+              "afraid",
+              "decision",
+              "decisions",
+              "every",
+              "full",
+              "life",
+              "make",
+              "rarely",
+              "safe",
+              "same",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Adventure Is in the Decisions",
+              "description": "The Adventure Is in the Decisions\n\nA safe life and a full life are rarely the same life. Every decision you're afraid to make is a door to an experience you're afraid to have. The people who look back on a rich life aren't the ones who avoided every wrong turn, they're the ones who took enough turns to find the right one. Decide more. Regret less. Take the turn you've been circling.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-06T18:50:28Z"
     },
     {
       "id": "diseasesofattitude_d11",
