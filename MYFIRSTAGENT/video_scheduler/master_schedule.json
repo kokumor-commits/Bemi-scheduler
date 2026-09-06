@@ -5678,7 +5678,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes7ZwgZUnnwCBmofzzAXMkwZ7E2UcafmB9f2Dfv3umHNO6ttCM9qIvmElhI8A6-p6LavKBf1JYPaZYcAZAhZ2GZZePuFXV2_hYYYaoIORLONbKybV4WIw_dEzP43OehtYK7TpUZpBv1f7YyK9TEcrR3CotOh8TJUn1ZDJ5qPSaJFd8JjE5QwPEOl7rbC1TqNWqxzEQfjOjTN3oXMh0Zk_GvA7yarXy2Q57BJO2uekVO"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetIvgSy27cn79hNil1cDT8hTnp3I7ZjPriU1Ej5yxLNvfn_cHmwH_yiS-1BrHV-vTsdBz0Vfna7AEP-fkVCifTPBRIAzrPmJDHAgeF86l4BFJVjBaBmlXKUcfW1iFJ2A9BnpTot4LSzEZppa4b00jIKds4ddMSzfAxCvZQd70FLqjzysfFR3ZdLnbGQHfM3Shwrz8ZG1_gvrDMrpqc9HBTZ3bf9je2ZEHsA9l1ych_a"
         },
         "instagram": {
           "id": "18369603871214527"
@@ -5748,7 +5748,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-06T09:47:56Z",
+      "last_retry_at": "2026-09-06T10:49:35Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -5862,7 +5862,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuTeLzkCgheU7oDKtYb5JcwejjC1NQsWGxG3iTF3ulOR0FxkJbIP5H-PDlZEkFd5giS9nEY2HQCAsz3CK14Kubn6a31fXM814wbrGRjl2qRtt-kpSwL7fuIzTbocbZVo7JWdaTc6b0sM0Njcph2Mqlj1a9_jaCVpZ-Con4oqAzzqQRtlxsLSKEvkrVSy4Yzk8bDIG7-QzzpfJVy36oV6A3McIupD87qXkGRNU6okY36"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetLif00hhZfOLJPiVJXnwNlPhvzw5F11JyMMRCgNRZZXCrYUkbc9d6DwkP4p0y2ferO-0Ao1T1RXkzKkclD4iIGV6zPDbRGXvCSHnjkeZ9xNJqYica685hRfknAryr412GKkqCuVdX2J6tfJ-P-JVuu6FNzaS7LeHmKbUepc8Ec_YUkg6goJqI0vieFhpSTTju5E3vHsu2XO7Bw2ryWUkYnSg9q61mSfIOFk-Kr2dqR"
         },
         "instagram": {
           "id": "18087878183239099"
@@ -5932,7 +5932,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-06T09:47:57Z",
+      "last_retry_at": "2026-09-06T10:49:36Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16513,7 +16513,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetmirlygJRn_Rg3OSQXvtSOX52c-2GRsu7bIAG_RXGtzv1-M5IPQLxpdxB_eqM-cL-H1_DHwmtQRpv3BUCmXOPU2T6ODwH2T8xX8qHG6MVE2PRP0P92uL6KVdjrSDDy_rTbgo80Sodr0tej7diuqIH3VKAAnUieqWGsLcO7_ShsScyvz-2NSKqdqV67Lu-7ZX96bL0Xpsj9OjY0Ap0-boJj01TyIUcyji7UROImyo04"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevITOPz-cCJo2g8NHR6PTbhr12FAsaEl68YBTrJoDcYUy4AVnT9-o5l6Fridn6X8PGfs9wAgyCJim3pKNl6ORZN8Q3ccwCswAi1vFYFaExX4yy0peYlXsQEKZluc0YGNSONCcBmj3qrNwPnnZr8uo9q8qf7rHdcjTGIoEl34XOmRIjCxy9ToTVVOBDBtdY0zQ44OmWVvIkHKlxbLhg77Ug-fBn0qpYeaB5FAfzrjV63"
         },
         "instagram": {
           "id": "17906740527307865"
@@ -16577,7 +16577,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-06T09:47:58Z",
+      "last_retry_at": "2026-09-06T10:49:38Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16683,7 +16683,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYW6WouN1-dRlwMwtQzZGb_YK45YSrCcCuo3Zx5_nNpYbMHYeKFnslMToIdOY4n6wdx4stOEj6Qz30PlmQkNg-JVGICABTd8ATwpHqoFmj4FLc9UMRwIG3gH5Z1e6BquDlUHh8oUy7vkkGFdpBlDdMQeGaJtbAOg_QY-w7jXIxW6IiIAtgB2_YaAFJh1XVwYPGqO5VetoQ7JXJpCvAUG5ckkxK_eI2DgT8EOqxtjUo"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetT17WW54hOJrI_EDCrOY0QrmS5lxY231Tfo2vYnkvN8W3rGnt0HlEhBoIDEdqQf_v-b9YfYXJiTHdwrhvHmwbGMqsstG0UjsWDSKzyJyuNXJ5gZjAIbGV4XnrszLfBDlTARPAvoKIVANXAnwoRAAASyDcnJC9uuIzfmr6Q57K8yoVYaM5lSw7yaY2LqcqmETlrrTLpxTgDjzcXJWAl4H-N_ZEQhyqD4tU1tVWkFKcP"
         },
         "instagram": {
           "id": "17902948584559785"
@@ -16747,7 +16747,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-06T09:48:00Z",
+      "last_retry_at": "2026-09-06T10:49:40Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17548,7 +17548,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18117596809938034"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "sDvVUPo52oPqOWW6MKG5ztI9XE8",
+          "id": "GLV055TkJIc",
+          "snippet": {
+            "publishedAt": "2026-09-06T10:50:25Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Mental Paralysis",
+            "description": "Mental Paralysis\n\nIndecision doesn't feel like a disease. It feels like being careful. But careful and paralyzed aren't the same thing. One protects you. The other quietly steals your twenties, your thirties, your best years, one unmade decision at a time. If you've been thinking about it for longer than it would take to just try it, you already know the answer. You're just avoiding it. Stop thinking about it. Do it.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/GLV055TkJIc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/GLV055TkJIc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/GLV055TkJIc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "aren't",
+              "being",
+              "careful",
+              "disease",
+              "doesn't",
+              "feel",
+              "feels",
+              "indecision",
+              "like",
+              "mental",
+              "paralysis",
+              "paralyzed"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Mental Paralysis",
+              "description": "Mental Paralysis\n\nIndecision doesn't feel like a disease. It feels like being careful. But careful and paralyzed aren't the same thing. One protects you. The other quietly steals your twenties, your thirties, your best years, one unmade decision at a time. If you've been thinking about it for longer than it would take to just try it, you already know the answer. You're just avoiding it. Stop thinking about it. Do it.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-06T10:50:27Z"
     },
     {
       "id": "diseasesofattitude_d10",
