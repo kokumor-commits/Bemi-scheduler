@@ -6135,7 +6135,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevKRebxLHHQ-m5Z_9mxFj_XtpVy8rz4qQjw9F0U9DLmUGfcmpTrgoRIoD5j4tWYOhzGY7hiOM34-9KXr2_PBfF5G_j0FAd_QXH70T-E9Siay8yZ3Y47eoe1ZXkQ-dll2Sl3f_nFIpZ-bfpwBjbN8JqN4vmhVn4veCB_h9YRBIcuo0lnmJVeV6u9e-VH1T9cNowa4qjCOiO0PNixg5fTW0Pb-uiZ7Yl8_DSV77MyVLcH"
+        },
+        "instagram": {
+          "id": "18163555591484995"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "uSuEetEmZoYCZPy8JboBm210xlk",
+          "id": "0RRoXJgwGUA",
+          "snippet": {
+            "publishedAt": "2026-09-07T22:46:55Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Calling It Love If It Never Challenges You — Raise Your Standard #RunThePlay",
+            "description": "Stop calling it love if it never once challenges you.\n\nReal love has backbone. It speaks when speaking is harder. It stays when staying is uncomfortable.\n\nLove without standards is just preference.\n\n#RunThePlay #LoveWithStandards #GrowthMindset\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/0RRoXJgwGUA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/0RRoXJgwGUA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/0RRoXJgwGUA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "backbone",
+              "calling",
+              "challenges",
+              "love",
+              "never",
+              "once",
+              "raise",
+              "real",
+              "runtheplay",
+              "speaks",
+              "standard",
+              "stop"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Calling It Love If It Never Challenges You — Raise Your Standard #RunThePlay",
+              "description": "Stop calling it love if it never once challenges you.\n\nReal love has backbone. It speaks when speaking is harder. It stays when staying is uncomfortable.\n\nLove without standards is just preference.\n\n#RunThePlay #LoveWithStandards #GrowthMindset\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-07T22:46:57Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "unseen_day1_carriesthehouse",
@@ -17011,7 +17087,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetCF_OkWZU4hN78_a05lV-AA1NJnJ8K1QJKtXsBrdIVzc4IyKtpZGIES0dU3f4Pfke5F65ydSPOB-jNm0dwN0FXrzHGURhad1nPI7L_AP86KcSORffdtUvrYY3QRhNK-WzCZGf0iTwOMZY5KeJLSuffbCMBa7GYM5DjxZjhmSb_yA5Sjv_2FrtqmoVGNggQoMUpARSxasYqZTjV4JLCDkNzOHsvX_-wIrl0aqfIPfcY"
+        },
+        "instagram": {
+          "id": "17894770965600882"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "IK_bN_viLCFz2FmvsF_1T-ERfec",
+          "id": "4Hs-CGkcmZs",
+          "snippet": {
+            "publishedAt": "2026-09-07T22:47:40Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning by Holding On, Losing What Giving Brings Back",
+            "description": "Winning by Holding On, Losing What Giving Brings Back\n\nYou can win by holding on to everything you have, and lose everything generosity was going to bring back to you. A closed fist cannot receive a single new thing. I have watched the most generous people I know end up with the most, because what you pour out always finds a way back. Open your hand. Give something away today. Watch what comes back.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4Hs-CGkcmZs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4Hs-CGkcmZs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4Hs-CGkcmZs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "back",
+              "bring",
+              "brings",
+              "closed",
+              "everything",
+              "generosity",
+              "giving",
+              "going",
+              "holding",
+              "lose",
+              "losing",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning by Holding On, Losing What Giving Brings Back",
+              "description": "Winning by Holding On, Losing What Giving Brings Back\n\nYou can win by holding on to everything you have, and lose everything generosity was going to bring back to you. A closed fist cannot receive a single new thing. I have watched the most generous people I know end up with the most, because what you pour out always finds a way back. Open your hand. Give something away today. Watch what comes back.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-07T22:47:43Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d18",
