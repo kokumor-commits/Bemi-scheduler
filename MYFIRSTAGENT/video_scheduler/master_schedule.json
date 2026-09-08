@@ -5954,7 +5954,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeslmCockssrHrQAdTnU-tcbu-hcrBOyhEjJKSwLGmR8L6zaO4mK0MWNE8ttPH-RfBOQ3apjPqCE37ILGJAyunG-DRa_4n-RkqZZbN7ai_tuEVPiHEiEyP5x7rvli0FIbQCePCs3ds54VljI1LgLjsgwVI2m-vck07LYhWXGwny4IcBIM7JsShFAxAZcld6nGebnIHkTOn1cX5P-3iWtvcGCovtvUX0iLWAlt6YZe1YW"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet3VG4EGTbePphv0xkK20PaVqFhTH5egi87Ar9RqB1d6CFR6SW1XdUAJZCmh0tr2OSZLq5zaTo1Iv_L2ZkCeRHwS_MoaYn9znx-Pa2OcR_IWXyWIRckBWbJlJ_T8HzargumujxyE7H5foULaestTeikYi4aoAPiE1nz1-iCxkazQmdJrr1n1BNRoD9HTOedMfNEeIG8kxIsLEth5aKZw8Y0W666gwBigoSp-vfwjvmP"
         },
         "instagram": {
           "id": "18027514505687418"
@@ -6024,7 +6024,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-08T21:39:11Z",
+      "last_retry_at": "2026-09-08T22:44:11Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -6227,7 +6227,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevpcTvUAOkT87xMrdECixWyo0La1LwtkBm4jZVWiPq2xYnpygCPS8tKIquXomTXrXikwR1AafOVZZcSwdBYzcP30vKvDWik_QI3874jEIon-edujH0eMkFDmxsMkUBD_izJCShceRz42_qWC457X2z8V964PfSVanL810R6QfBIhE7fRDMEodLkTGaBHbhBtAwtQyq1ONwCl2QX1bmt7TDrgXXkfOLBklj-TwJ4fkZ7"
+        },
+        "instagram": {
+          "id": "18129956185663489"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "rN8Lzo0BdB5e_MoQSNzgyrxg0i4",
+          "id": "vG42qAhV3zs",
+          "snippet": {
+            "publishedAt": "2026-09-08T22:44:55Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "He Carries The Whole House And Still Hears It's Not Enough #RunThePlay",
+            "description": "He carries the whole house and still hears he's not doing enough.\n\nNo parade for that. No trophy. Just another quiet morning where he shows up anyway.\n\nThat's the job nobody claps for.\n\n#RunThePlay #UnseenProvider #ShowUp\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/vG42qAhV3zs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/vG42qAhV3zs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/vG42qAhV3zs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "carries",
+              "doing",
+              "enough",
+              "he's",
+              "hears",
+              "house",
+              "it's",
+              "parade",
+              "runtheplay",
+              "still",
+              "trophy",
+              "whole"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "He Carries The Whole House And Still Hears It's Not Enough #RunThePlay",
+              "description": "He carries the whole house and still hears he's not doing enough.\n\nNo parade for that. No trophy. Just another quiet morning where he shows up anyway.\n\nThat's the job nobody claps for.\n\n#RunThePlay #UnseenProvider #ShowUp\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-08T22:44:59Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "unseen_day2_the364days",
@@ -16920,7 +16996,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetu291U8HvVCC_uHHsxM7jTrCdXaqXdUofJhVtUZQBWwb1N7BdA2q1MBqUE4wuw2P-12h-kRAPB2QAyim30WpfwL90Fl-9cMrwbwunm0gvjpa1_DORwy-HpXI3O2GPii5x4ZbWR1Q5C2BkSstfazuNvvEak0VjD3jWkQu4XVqMoBnL1FjH4O_Z-7N4dL00VUZkuHni4w5htRQG_nBHTJCse-1bM3u1rsT7KnTMh00-8"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu5OoLqyulPs7pOSNUj_UF7QT3HNzxZlU7iE4w_YHYCFt5gsOktCjjnq0zHYMekdwCq9d_vUHHpTfEcJxcn1kXpbFU187y946Y9Fb-RbCt3I3ddNBkDn8elHmvQpXhJFrWZBgon-I1t4XyIqLvyPZ4jo6lGx5VzOhl8n9nlxmkicvosLIlnxhcVe-87yek1lWl4sEBnx5csxBix7t4SxeFx4DadNHt7LlGhpvWnYMd5"
         },
         "instagram": {
           "id": "18109938452022391"
@@ -16984,7 +17060,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-08T21:39:13Z",
+      "last_retry_at": "2026-09-08T22:44:59Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17172,7 +17248,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesgeSt6ZASEmfXiI6KA57l9jrCvf4ctKYvD8IlXI4Sdnid_NArwBJhkfpdCq2oL81DdIDBMcA__FbIGARceUDluAai5T1ESBb-yh1Hb6NZE4MNVWpFnc8glA92zy8KjfXGw3csQYZ4k5lcJsjcF5vxMaYssxuduUCazw1DVKZxwvbAnIyh27GNZoRg980kvDxlSzP8tut9MtL0Aizq8dV8ZVhsRDVF6GgoY7Phby1lv"
+        },
+        "instagram": {
+          "id": "18035107145846839"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "33krImW9qblsT2fomY9nxNJm7C4",
+          "id": "4nYtztdmG4o",
+          "snippet": {
+            "publishedAt": "2026-09-08T22:45:46Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning the Trophy, Losing the Love",
+            "description": "Winning the Trophy, Losing the Love\n\nYou can win the trophy, and lose the reason you picked up the ball in the first place. Somewhere between practice and the podium, some of you forgot you used to play just because you loved it. Hold the trophy up high. But don't you dare let it replace the love that got you there. Reconnect with why you started playing.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4nYtztdmG4o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4nYtztdmG4o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4nYtztdmG4o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "ball",
+              "between",
+              "first",
+              "lose",
+              "losing",
+              "love",
+              "picked",
+              "place",
+              "reason",
+              "somewhere",
+              "trophy",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning the Trophy, Losing the Love",
+              "description": "Winning the Trophy, Losing the Love\n\nYou can win the trophy, and lose the reason you picked up the ball in the first place. Somewhere between practice and the podium, some of you forgot you used to play just because you loved it. Hold the trophy up high. But don't you dare let it replace the love that got you there. Reconnect with why you started playing.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-08T22:45:48Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d19",
