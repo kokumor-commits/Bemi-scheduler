@@ -18230,7 +18230,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18113734447800920"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "H9ue3VZzp-GF1ZA5DPtiVN_qjxk",
+          "id": "wfl9lZilQqA",
+          "snippet": {
+            "publishedAt": "2026-09-08T18:41:26Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Self-Worth Is Where Progress Starts",
+            "description": "Self-Worth Is Where Progress Starts\n\nNothing you build will outlast what you believe about yourself. You can have the plan, the opportunity, the timing, none of it holds if you secretly doubt you deserve it. Understanding your own worth isn't arrogance. It's the foundation everything else gets built on. Fix the foundation before you blame the blueprint. Settle your worth. Then build.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/wfl9lZilQqA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/wfl9lZilQqA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/wfl9lZilQqA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "believe",
+              "build",
+              "nothing",
+              "opportunity",
+              "outlast",
+              "plan",
+              "progress",
+              "self",
+              "starts",
+              "where",
+              "worth",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Self-Worth Is Where Progress Starts",
+              "description": "Self-Worth Is Where Progress Starts\n\nNothing you build will outlast what you believe about yourself. You can have the plan, the opportunity, the timing, none of it holds if you secretly doubt you deserve it. Understanding your own worth isn't arrogance. It's the foundation everything else gets built on. Fix the foundation before you blame the blueprint. Settle your worth. Then build.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-08T18:41:28Z"
     },
     {
       "id": "diseasesofattitude_d15",
