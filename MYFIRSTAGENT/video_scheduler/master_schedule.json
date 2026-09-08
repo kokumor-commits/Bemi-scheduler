@@ -5954,7 +5954,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4QC_Yr8yPHCTLwrZTjAsTChhGBfvQma-XOA1D59Qr1S7CcArlSqCcHZX2dCTpK1wAZTZmIsfNvMHuKT998OxbsfqrKfgJTrliPHO_ptWavbq77BjHl24Iz3alioHjAq_FRGHHLKfbguco0QFQcuexozYhlRzBA102elnl5nXNBSAfjwcXva6HPSUDIgWbyopAG3-FG9rvTg4yQ4XD75XOiy0_LfrbIeSL4deGeBWs"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesf6LjG-trEqGqUldR7H0lSys1AtftAUKerqkJWCaHVv9y35mLLZ_wQWirYbyei26ceuouLV99RzkqKpIu40L7PiUhZ7dQQrJ30TNgZQW0XljinyYf64SKlccDa-k3cIVgMO4UPFSnimj35rR7o9kc6yjaK-VdZr7V35Msuc9Nn1RdbhKC1qbGMEXZ0a43sdqsKDIoSKVsIpEsRBnnsiR3TgxfThTkZMjaJT2ALkdE1"
         },
         "instagram": {
           "id": "18027514505687418"
@@ -6024,7 +6024,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-08T09:47:19Z",
+      "last_retry_at": "2026-09-08T10:51:58Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -16920,7 +16920,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevRtq4YU_YcRZ6E3MlWqPFtJ3k3GwyA_qF05c7FLoetVUxGBdeP8b7v4YqvEaSTmjRX1lEhIvtKNs6t5NamQCj2uR11EjiO6ercPPiZLQpLzYEeZA9kNfQlkcNjB-6Jw-0COvp6BDV60nkyNATQeoav14EFH7YrLJM3a6M4VCs4JtVJkL4PT9YiKmKgyzkySoYBRG8HjfMCLIWFVubvo4ASiF7N-_lBrZH8F48HBdqL"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeutomgrQCUf3OWBPL7Bef13LV2CIQufSBJ3Z0EeKmF-gwp_FG_PADyhRDFEjLxtSeTopJJOq5YI81qdhWVwPtO5GURbbp6xjqkmUbZTHwZ44AhdMNt0eB2vXGjbjMVkZ3jNS0Ik3kJrnlWTW7GKJqoToJ0lyypXdQImwe9nBQS47S2WuGNk7WDm29YkDwKJVvftZYyasGwEU82NaxDNy1MhNAkGTyMQCD-qrFucgJl5"
         },
         "instagram": {
           "id": "18109938452022391"
@@ -16984,7 +16984,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-08T09:47:20Z",
+      "last_retry_at": "2026-09-08T10:51:59Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -18152,7 +18152,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18128065273771891"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "VAoVL-J_SOQnZiRgAFDBrT_2MFQ",
+          "id": "SXew_JepXFA",
+          "snippet": {
+            "publishedAt": "2026-09-08T10:52:42Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Believe Before You See Proof",
+            "description": "Believe Before You See Proof\n\nYou don't get the proof and then believe. You believe, and then the proof shows up. Waiting for evidence before you'll believe in yourself gets it backwards. Confidence isn't the reward for succeeding, it's the fuel that gets you there in the first place. The people who made it didn't wait to feel ready. They acted like it was already decided. Believe it before you can prove it.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/SXew_JepXFA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/SXew_JepXFA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/SXew_JepXFA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "backwards",
+              "before",
+              "believe",
+              "don't",
+              "evidence",
+              "gets",
+              "proof",
+              "shows",
+              "then",
+              "waiting",
+              "you'll",
+              "yourself"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Believe Before You See Proof",
+              "description": "Believe Before You See Proof\n\nYou don't get the proof and then believe. You believe, and then the proof shows up. Waiting for evidence before you'll believe in yourself gets it backwards. Confidence isn't the reward for succeeding, it's the fuel that gets you there in the first place. The people who made it didn't wait to feel ready. They acted like it was already decided. Believe it before you can prove it.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-08T10:52:45Z"
     },
     {
       "id": "diseasesofattitude_d14",
