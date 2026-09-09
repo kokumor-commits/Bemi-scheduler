@@ -6319,7 +6319,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesMOl2wrHD6F2ZnIbtYbPEMg1-nXP8supc2VRHa1mLJUP0-DhV16tp6tnF-QZhz_tE7UDd5BR_a9sO0RQmdoznL6VjKK7moZy_VIkUl8Edk_EJKtQw9LIGvTK3Cf7yCeQOtVkQdv-hOzyZjurs6xEMTQBa5hT0jjW0m6N0gO_5ILMSdy-eUxPlJS8uQ193_BSmxrqkWE-aAZLO57o9JALjvxveaPtMIaTq_Gcj8AkhI"
+        },
+        "instagram": {
+          "id": "18098097389124155"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "omfOEDBKgf3PO8e_mofEqclVPSc",
+          "id": "uieRV1E-IyI",
+          "snippet": {
+            "publishedAt": "2026-09-09T22:40:47Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "One Bad Day Gets Remembered — 364 Ordinary Ones Get Ignored #RunThePlay",
+            "description": "One bad day gets remembered. Three hundred sixty four ordinary ones get ignored.\n\nBut showing up on the boring days is the whole assignment.\n\nConsistency is the loudest kind of love.\n\n#RunThePlay #Consistency #ShowUpDaily\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/uieRV1E-IyI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/uieRV1E-IyI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/uieRV1E-IyI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "boring",
+              "four",
+              "gets",
+              "hundred",
+              "ignored",
+              "ones",
+              "ordinary",
+              "remembered",
+              "runtheplay",
+              "showing",
+              "sixty",
+              "three"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "One Bad Day Gets Remembered — 364 Ordinary Ones Get Ignored #RunThePlay",
+              "description": "One bad day gets remembered. Three hundred sixty four ordinary ones get ignored.\n\nBut showing up on the boring days is the whole assignment.\n\nConsistency is the loudest kind of love.\n\n#RunThePlay #Consistency #ShowUpDaily\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-09T22:40:48Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "unseen_day3_nocreditrequired",
@@ -17333,7 +17409,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesl1lhLeKb1-doFYfz3th_r0bI5VQBexdSpvXzlmJFSy9PzxT_4g7xVnPhaotsCP2UWuM9PxDqrKj4v38UI9xYaic6EqWwjRJ_rcnjTDZJ7seW9BNqrKrrpwsbiFhhulvgBeSrjgCUMtZ3GYY1B4i6WhoRhlISuQOogrMUeUr4aqrn9KMrK5laiHVppyKB-vdTosax1yOy82bNdU9_pZCmHznWeGbB7Le7Cd330UaVm"
+        },
+        "instagram": {
+          "id": "17986043271103244"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "jsFEhT_OUFDfSly7c9-49U-fCVk",
+          "id": "kUKi5vKYswM",
+          "snippet": {
+            "publishedAt": "2026-09-09T22:41:31Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Winning Control, Losing Trust",
+            "description": "Winning Control, Losing Trust\n\nYou can win control over every single detail around you, and lose everyone's trust in the process. People do not stay because you managed their every move. People stay because you gave them room to breathe. Let go of the grip. Trust is the only thing that actually keeps people close. Loosen the grip today. Let trust do the work.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/kUKi5vKYswM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/kUKi5vKYswM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/kUKi5vKYswM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "around",
+              "control",
+              "detail",
+              "every",
+              "everyone's",
+              "lose",
+              "losing",
+              "over",
+              "process",
+              "single",
+              "trust",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Winning Control, Losing Trust",
+              "description": "Winning Control, Losing Trust\n\nYou can win control over every single detail around you, and lose everyone's trust in the process. People do not stay because you managed their every move. People stay because you gave them room to breathe. Let go of the grip. Trust is the only thing that actually keeps people close. Loosen the grip today. Let trust do the work.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-09T22:41:34Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "lesbrown_d20",
