@@ -6411,7 +6411,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu_JNtlwdUpQmnvg-exGyob21niAUfIfj1UC0c-bIZPkq-XMN_gTwMZxAjalGQqz4lVARcVXkFy2QNOAEJ5K4uy4KECXqhbn_pasvDcvEay9ZQQ_P3YDq1WllBbR9mFqKRkHGv48Mc5ni535swCcWcmEaM7o9pJkULMo2AJ9XGsfO2_env1rVOddrIHosPC6cMLCHDPiOdRhabOKZQ3bBs1eBTnlCv1HhXCHag5s35p"
+        },
+        "instagram": {
+          "id": "18140664241594326"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "7C5CJf1HF9bvmt1xnFSsGVzcsfI",
+          "id": "BCrKtGTiRrg",
+          "snippet": {
+            "publishedAt": "2026-09-10T22:49:41Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Real Strength Doesn't Wait For Credit #RunThePlay",
+            "description": "Real strength doesn't wait for credit.\n\nHe's not doing it for the applause — he's doing it because the people in that house need him steady.\n\nThat's a different kind of discipline.\n\n#RunThePlay #SilentStrength #NoApplause\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/BCrKtGTiRrg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/BCrKtGTiRrg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/BCrKtGTiRrg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "applause",
+              "because",
+              "credit",
+              "doesn't",
+              "doing",
+              "he's",
+              "house",
+              "people",
+              "real",
+              "runtheplay",
+              "strength",
+              "wait"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Real Strength Doesn't Wait For Credit #RunThePlay",
+              "description": "Real strength doesn't wait for credit.\n\nHe's not doing it for the applause — he's doing it because the people in that house need him steady.\n\nThat's a different kind of discipline.\n\n#RunThePlay #SilentStrength #NoApplause\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-10T22:49:43Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "unseen_day4_nobodyaskshowheisdoing",
@@ -17494,7 +17570,77 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesCLZYgeETVIXi7d9ogfaT-HnokN9p8H-e3W8DcP-lolbgTxAMblRGt5__9zSPDZE6A2e46TjY4w5GFiXad8wX3T_RyliD59a0mt9vgU6WYFduoAMn2wdsAVeD_I76pS3tk-Ujz9nQeDC3DlX48kBxJUX-aOEAybZgikZEktG06lME2gf9mEpaau-xdFmQVDHnUIiveUYcBR1dmAcU6t-aC9W1yGeZRFlYGTbW7bMbh"
+        },
+        "instagram": {
+          "id": "18187757458408411"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "g7StAIW_D5LThn75GTb6QR-jLbg",
+          "id": "0K39hE_D0_I",
+          "snippet": {
+            "publishedAt": "2026-09-10T22:50:28Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Real Question",
+            "description": "The Real Question\n\nYou can spend your entire life winning, and still lose. Because a win never asks if it was the right goal, it only asks if you got there first. So I need you to ask yourself the real question tonight, what am I willing to lose to get this? Choose a goal worth losing something for. Choose a goal worth your whole life. Choose the goal that's actually worth chasing.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/0K39hE_D0_I/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/0K39hE_D0_I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/0K39hE_D0_I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "asks",
+              "because",
+              "entire",
+              "life",
+              "lose",
+              "never",
+              "question",
+              "real",
+              "right",
+              "spend",
+              "still",
+              "winning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Real Question",
+              "description": "The Real Question\n\nYou can spend your entire life winning, and still lose. Because a win never asks if it was the right goal, it only asks if you got there first. So I need you to ask yourself the real question tonight, what am I willing to lose to get this? Choose a goal worth losing something for. Choose a goal worth your whole life. Choose the goal that's actually worth chasing.\n\n#Motivation #Mindset #LesBrown\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-10T22:50:31Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "diseasesofattitude_d01",
