@@ -6414,7 +6414,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesN64bHd7NfPISPTsZFSOTtc14V0MClBGB9ZT319HeyeTl54Rps_GRxFfgWHfE-o6EXpJ71nuBpIAHOPVn2Xfzdf-FBxv1N_CZ_GmauUFDdXZnILdx2F0SGdYLGMnnTfl1xZN-gBiWAdY3DaaIyL74S-6gatyjC4QFSU14efLYfq0hCct-Ex5yDpeRB_jyzdCvpjBKjD6_zHJDLYNosCfnWl3MrDOq_ztkoM0D3t5xB"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu815J0IKDOK6qOxqdsDZrMyDr9tHLkixh6MJto86nZVACLtQ5s9wrXffC-CQe2w7i8woNuK7PMkIKr6y91aa-MTGNpESmESO4q_LiB0AVBdN_lkWn1Rzesy4Izsj9VDeFAWEcPmZ-3WMqk_TEBudc-oQvq58g2B2RCcaqoRzy-cdYYMOuku3XtZ8Oh1UCAAtBIYdFhYJa0etgnviQjXUh-jKTq41RiWMcH1diDGKA3"
         },
         "instagram": {
           "id": "18140664241594326"
@@ -6484,7 +6484,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-11T17:43:43Z",
+      "last_retry_at": "2026-09-11T18:46:58Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17573,7 +17573,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetApbzKYKL922DViLLSvnYZoW3eIbMzMGYLTtbFXjLQA6SPM5SKLJXqQiHA1CMQtWug99TQah08Zw_jvQhHUKSBIZ8VGqmb2a-0O4887-ZBx0MJTtTic-Rn_BIQOBIz5pOH6EPz16RggxOoMjcavt3Zv-g7nqXI9Hi1KIeFswsdF5JaNv4zWZhS8eiLmvagTMtyjpyvqjy5Ib-fC_qAi8zZpS_vnda15wao7pVxxU9I"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes8gGgDDhctKEaxZhOt5uw8qakWozCg7K5L-oO48RjhOlErcHTriDIDKQ8RuYNma-pFbiJliqHcsdZwa5kmtfdwqCKXnuallQ69s5A6fqJNvDgwtRr-A99WZFlTiohBtny5IrM6bdFxS9tiudXWupujRhcPE__HutZKFLpaAm0ATa19oGi4cxzcLOibtn2QTuZHMxcjbxEDA4ok5cA53x85hxiYpHU5qroCmsWugSyY"
         },
         "instagram": {
           "id": "18187757458408411"
@@ -17637,7 +17637,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-11T17:43:43Z",
+      "last_retry_at": "2026-09-11T18:46:59Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -19136,7 +19136,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18108621269598302"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "r1muYqYlUonX-DuM5dCt9MvMvxE",
+          "id": "MgsUWaNVgPI",
+          "snippet": {
+            "publishedAt": "2026-09-11T18:47:45Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Habit Nobody Warns You About",
+            "description": "The Habit Nobody Warns You About\n\nWorry doesn't feel like a habit. It feels like responsibility. That's exactly why it's so hard to quit, it disguises itself as caring, as being on top of things. But there's a difference between preparing for a problem and marinating in it. One moves you forward. The other just keeps you up at 2am accomplishing nothing. Prepare. Don't marinate.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/MgsUWaNVgPI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/MgsUWaNVgPI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/MgsUWaNVgPI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "doesn't",
+              "exactly",
+              "feel",
+              "feels",
+              "habit",
+              "it's",
+              "like",
+              "nobody",
+              "responsibility",
+              "that's",
+              "warns",
+              "worry"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Habit Nobody Warns You About",
+              "description": "The Habit Nobody Warns You About\n\nWorry doesn't feel like a habit. It feels like responsibility. That's exactly why it's so hard to quit, it disguises itself as caring, as being on top of things. But there's a difference between preparing for a problem and marinating in it. One moves you forward. The other just keeps you up at 2am accomplishing nothing. Prepare. Don't marinate.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-11T18:47:48Z"
     },
     {
       "id": "diseasesofattitude_d21",
