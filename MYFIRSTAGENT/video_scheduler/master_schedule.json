@@ -6414,7 +6414,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevm96a9R6hYNSm8FIknpf29W5QLcOokPFn2okIaMtUAJh9Pp66FXVTDiZZtlxPvhk5H4XESDDxQZRN4tfO0Q_ryJUlojrzeGlIHyd3kmA834Z7lwgh4YBeNTBHVTaSdxlXdme_dM03UeVfCLuJThaVtxagmu_9_nXBNnSnZGkLD6BdC-vZVbQN2r98CWqk8bn3DG4c8ga4lKlw6BgLUeLzDkEqA9o5C88aCUkE1D--w"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesceLqSj4twOTHuu7ZFaDZ_ta48iDAWog3ScpOi4j89Hw5gJgYuS0V0pV9nrrLnl6i41g4wGQ88jaFd0-8cU50KBeaMEAAYPH9-ayFrV_2kyw7eaZtjKhUeqjqq5EekzewQ0sNjm-WrVB6-8YLg-PMmXfNdfNAAG-gfgwWvudzSlRhUcmtKEqjpmkPh66lqUaDRwncPo2uhuz1-3FJ8t8p7lHU-dcNdLG3W7glVl1Cb"
         },
         "instagram": {
           "id": "18140664241594326"
@@ -6484,7 +6484,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-12T17:50:16Z",
+      "last_retry_at": "2026-09-12T18:53:07Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17649,7 +17649,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesK4nKwFRaHvQXyY8Tu325IBCYGN5JgEaho93F1sxKAi87GZqDBiaYEREPM0QMuwWFHd4jHxz2VwtS2N3M84X-jZv9_M1oPHtrWo_7_1waxpLFC9bk_mbEvof8qixEcT86TqakyztsHKPXIuU1al27s3d3EeJkihPDHQo_wMBfUv3HE4sbDZy9gUCxgL3pnyf2djUDLCcHckAruYUy8jmO5nRFn-eZU_wHdmI6IOVBH"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev2qGKzPiEyvJXTdKUzm96U8wF1eeMDRisHL-CPvb_4hGH0x4IeA9nl89cRYQe9UvaGoORLrZIVHTzL0PmsKAiu-mSFHm8h2KpUQv9SxyP0EQQeoIMkA30VNaUC6NfiBv05YLUgmjUlHBdg323CU11icoJsDld3OiPrJAQYfZIQ7QN2hk33LxlwZhBFbZO00yqfGLN03RYxwknxf12NsnLTzDp1og_DlmUeuOpRQQbJ"
         },
         "instagram": {
           "id": "18187757458408411"
@@ -17713,7 +17713,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-12T17:50:17Z",
+      "last_retry_at": "2026-09-12T18:53:08Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -19368,7 +19368,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18095728727380460"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "6jNesjWL4yR5cbFNTez0xSeWREY",
+          "id": "eCgLgrZSSZ0",
+          "snippet": {
+            "publishedAt": "2026-09-12T18:53:41Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Worry Steals From Every Area of Your Life",
+            "description": "Worry Steals From Every Area of Your Life\n\nWorry doesn't stay in its lane. It touches your health, your family, your work, all of it. There's no corner of your life worry can't reach once you let it in, it shows up in your sleep, your patience, your relationships, your decisions. That's exactly why it deserves to be treated like the serious problem it is, not a personality quirk you just live with. Treat your worry like the problem it actually is.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/eCgLgrZSSZ0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/eCgLgrZSSZ0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/eCgLgrZSSZ0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "area",
+              "doesn't",
+              "every",
+              "family",
+              "health",
+              "lane",
+              "life",
+              "stay",
+              "steals",
+              "touches",
+              "work",
+              "worry"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Worry Steals From Every Area of Your Life",
+              "description": "Worry Steals From Every Area of Your Life\n\nWorry doesn't stay in its lane. It touches your health, your family, your work, all of it. There's no corner of your life worry can't reach once you let it in, it shows up in your sleep, your patience, your relationships, your decisions. That's exactly why it deserves to be treated like the serious problem it is, not a personality quirk you just live with. Treat your worry like the problem it actually is.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-12T18:53:43Z"
     },
     {
       "id": "diseasesofattitude_d23",
