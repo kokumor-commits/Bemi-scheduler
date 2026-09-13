@@ -6687,7 +6687,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuLSgM_mkJXxKbI5OAhXEJhpVKbYd-J3rxo5CSyhlwR2MwOATV8y4MHA6Ae8YR0lxfT6AXhH0YQ7zhXSAJeGsJ4bqA_UjHP6_1WzeCf-DDbZYLCYIAq85Ymy7lerKJsDH84RIEYSWbm3Ra2yWfaI8qWeDuvoNPhPrl0ugJshpQP9NTEWti5ONGIRh5v3s-7aRY1z5jCpNEEthWp0K24cWQzUNB9785oAM9sXIagrpGL"
+        },
+        "instagram": {
+          "id": "18104127659350352"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "V53MAWPjszb_kfaZ7Rw32vQeBD4",
+          "id": "zntyP-x3VdY",
+          "snippet": {
+            "publishedAt": "2026-09-13T22:46:01Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "What He Gave Up To Keep That House Standing — Nobody Saw It #RunThePlay",
+            "description": "What he gave up to keep that house standing — nobody saw it.\n\nThe sleep. The dreams on pause. The version of himself he never got to chase.\n\nThat silence is the real sacrifice.\n\n#RunThePlay #TheSacrifice #SilentProvider\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zntyP-x3VdY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zntyP-x3VdY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zntyP-x3VdY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "dreams",
+              "gave",
+              "himself",
+              "house",
+              "keep",
+              "never",
+              "nobody",
+              "pause",
+              "runtheplay",
+              "sleep",
+              "standing",
+              "version"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "What He Gave Up To Keep That House Standing — Nobody Saw It #RunThePlay",
+              "description": "What he gave up to keep that house standing — nobody saw it.\n\nThe sleep. The dreams on pause. The version of himself he never got to chase.\n\nThat silence is the real sacrifice.\n\n#RunThePlay #TheSacrifice #SilentProvider\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-13T22:46:03Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "unseen_day7_somebodyfinallysaysthankyou",
