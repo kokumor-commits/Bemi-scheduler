@@ -5954,7 +5954,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevHEcpRoE2n03o_5POi2RkgDItcMYCFP_NG51oR4LIrM8Df8If4KSwWvUXjMVG67Lk_uQoX4OtgSktT8Hl3pMhG0cshqs4dWPCehxf_46TB8PD9EciB1DdWqGjraD3RFFh6E2uNe9Uz3UV4HkFeS5RhOWWDEP75c7XPSBsvQKsAZ_AZJrzLWrgfh1b_vxstQlRiTdCx8Lp06oJ76jxwCtoAXndGWlElgN9b92bDKsk_"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesNZYZICkWg9X58reZpOy9f146hTI1a9BGF1iBjCCZCfGLSzR8ibjjenAQFF1joQLOh_ux0ChB4vnsr6Dt8LbR8ZWdTLlP71U6p-wANAx44V_ts3sBdQkJGS5-sEndCvKs53g9TIridpxgXzWxvaGLvfgKG52UYs6hM06SbIflj7dwnFdeoK_ezLn6wh6xBWD8dQFgkcX-ORC20GA0CnmmLoKNlp5j8qZ-y7tE-6TIK"
         },
         "instagram": {
           "id": "18027514505687418"
@@ -6024,7 +6024,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-13T01:41:40Z",
+      "last_retry_at": "2026-09-13T02:44:15Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -6230,7 +6230,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUE-yeZKocrACVXPcmflBEhZ6cmAPdIv6D9lOXSvIZUx9bP8b5ho1K5CkeznfkZzchZv3YiPbwvDhsCzl4S0O_xWayVjzuYHSSBoSzjD55nWMqQTfDwYXuIe6prMzeadDlzPaS07wxJLlbdUy2UcsP7s0xABHOqahDTNYhyzGbGrXCTE9rMO1pcy-dPmheU7SlXZrMgsPS7Rsfi3aD2JGs-xPNuGD378moaJgUJ-uy"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aest6B5wbsNRm6ezkbFMwlM6087DN-gBlLCbsylFAX9xYsmvK5hkD88rO6oAsyhIuXVpcHmeW5hdzdWkHNC8_x51rwckWHE7IJWxrRl_AlwqJD-cQQBa7V1BgYgWfRYAeP0p5rq-ea0jYz2cHjp7L0QIX-K62Aa99d7agXzIkOImDAAL6awtvpvTzzbp-BL9da-3kGcWILSWxpzABUiSo-YZJ7heWKsaL0kmEo68mwtZ"
         },
         "instagram": {
           "id": "18129956185663489"
@@ -6300,7 +6300,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-13T01:41:41Z",
+      "last_retry_at": "2026-09-13T02:44:16Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17300,7 +17300,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevRn2SLPA99fiSC-3RU1MOc_TjjW9mRDvHT-bvIVRfBnr002pYi2jtVCmmN7pqPy_CPZO392qx8YQ8M6XLfl9YfSNAFkSJnVoDvMLzbQ9m42xChWVDH_Cur21q4FvDst-gDc03sh3aYfiQojFSj-1z9d_50RNWGIcsWYnkm0u550bzO85grfv8s0J6dxeuAS5hTundj71FZE1LHeFbOw4v78MeV9HCbXSs2_zHxwoE6"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetn1opPhQ2a48KY38Tj0834jKGdG2N1pbiRxswXSYFz4ADymWxUTciNejfpKzb7wh4xGP_m_yAWEOy436TnbmwFR1-NqhSp8wkhs-OIqYW63s8q-wt3eO2rMl2Vbw3tjr0PzO8p6pEjvIfrpUX4DHT2nSTXaQLDm9wEednGLxoGDMB_WRJN1PvMS-qJGrtB0erzVdWFN0YfSzk5VD_FERgIcyq2_h9VMd8UiFC822xN"
         },
         "instagram": {
           "id": "18109938452022391"
@@ -17364,7 +17364,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-13T01:41:41Z",
+      "last_retry_at": "2026-09-13T02:44:17Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -17555,7 +17555,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuH86IL5g1AhUjnWqwxOHzkhqzR91XUzU7TW5k9XuOD9Xauw-muTVlG0ho1xfxi3yKEqCu3K07-QllbMq84eSmSicH4vft5vRAsqKRa360eTH6EWYQTIfEB15QPjOKJfvrkUow4on586l6qi8hSf5pHZFOu9XFt9dQesUdbgXkqtGhfbrpZpi7kJ-5itSrQooTUenRRvJtsPZjMmUHtMMw_rWAY3sOeLvD5ykm-9r5q"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeurJsISTsD1jdTHpu-dPczT9ullDctxMEp6EfXyhAv4DAGc9wD4ELr_ZGmgsu0-Yu-F3arAER64Cs9pk2UdvwtoPNLqsReBxk5TK4fAP_P2jcMm7q3D4uxJdniYDsB4vYe1YUTLg-vJMSJC3aIY70My9I_wb5mjZ7Ua_DI4hEdE8tHzSnVohmL13lErIVKYUZ6LG_mZysPXAPks8OoBD-iDPWNBarxnSkH2SqVDK0YD"
         },
         "instagram": {
           "id": "18035107145846839"
@@ -17619,7 +17619,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-13T01:41:42Z",
+      "last_retry_at": "2026-09-13T02:44:18Z",
       "retry_platforms": [
         "facebook"
       ]
