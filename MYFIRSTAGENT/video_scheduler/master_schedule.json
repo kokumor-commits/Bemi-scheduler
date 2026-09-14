@@ -6690,7 +6690,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetwT8FZFAIfqENlk1IO6BFuBdYFVOWziHF8SdXp4ITWNbQUodFdMFFGlSv3SciDuYEIF1cmwhSCcq9TOiSKqXk_RE_RDqsgLMlELjZDXN7ULd9JOEeIMf5i1HhHz9_4tv1_s3vnl7Ju3jGBWmmiV_3fLOyK4R9fElPTaxftkAU9YY1fRm5etI5AxOjIcmXflgHPj9BYpHearwAeKABJ54cM77g4NsJVysouW-F8683c"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu41BJkpQJcnRlnWEqurRWl2bK6X2ry_PQX1d5D81uC7u8g0Ia5hImIf9D5Yb4dr8_tFRtSzt4C65oLQIvKskmcasobOvExrvLIZh0bEFe1dGwtYZKV1T_oTiaKC0mlnoz216UCtVwFDE5yCyXmFrGt73ZjHE-U0pGEcx5_mBcp0GQB3fbB5B5aI2E9hFQffQRiTnEJwzE576aauIyhnpqMcRJuXGHw2R0UmNuVSlGZ"
         },
         "instagram": {
           "id": "18104127659350352"
@@ -6760,7 +6760,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-14T17:49:05Z",
+      "last_retry_at": "2026-09-14T18:52:38Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -19832,7 +19832,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17907105648491225"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "PpFFC_Bx6MstEzqMMJsdK5IAoTs",
+          "id": "8zdR_s58-Vw",
+          "snippet": {
+            "publishedAt": "2026-09-14T18:53:21Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Bill for Not Trying",
+            "description": "The Bill for Not Trying\n\nYou think trying is expensive? Check the price of never trying. Everyone worries about the cost of taking the shot. Almost nobody calculates the cost of the decade spent not taking it, the compounding loss of every version of your life you never got to live. Overcaution feels free in the moment. It's the most expensive decision most people ever make, paid slowly, in regret. Do the math on staying still.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8zdR_s58-Vw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8zdR_s58-Vw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8zdR_s58-Vw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "bill",
+              "check",
+              "cost",
+              "everyone",
+              "expensive",
+              "never",
+              "price",
+              "shot",
+              "taking",
+              "think",
+              "trying",
+              "worries"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Bill for Not Trying",
+              "description": "The Bill for Not Trying\n\nYou think trying is expensive? Check the price of never trying. Everyone worries about the cost of taking the shot. Almost nobody calculates the cost of the decade spent not taking it, the compounding loss of every version of your life you never got to live. Overcaution feels free in the moment. It's the most expensive decision most people ever make, paid slowly, in regret. Do the math on staying still.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-14T18:53:24Z"
     },
     {
       "id": "diseasesofattitude_d27",
