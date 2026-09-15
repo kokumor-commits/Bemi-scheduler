@@ -6871,7 +6871,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevfZlqSTLZh2nL2mO0mpevjHOm_l1FrvxoUdSFWX8map3HFaIxRF259jv5onqUF7KSCsKz12k6cDq_ISPEuM9I5KZsLxpjx1NCiS9L8iZw1p4EVWnsvEphm7ZTEdUXy1D1vFUQtcTlOFYTfvqpRaE-9GA7u5dFMSJ8aKF7670AEyvMF4LkPFvI9EmG3nJx_721ZFV4Z0YQXfpzkkTCDWs5g1-9oXvV9c5edq7YLvjTV"
+        },
+        "instagram": {
+          "id": "18009344573975946"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "h7yAvs9nxUSK4tYId0bN-O9wGAc",
+          "id": "Xj9736JtIng",
+          "snippet": {
+            "publishedAt": "2026-09-15T22:47:59Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Day1_RunThePlay",
+            "description": "Stop chasing people who chose to leave.\n\nJesus had 12. One walked. He didn't send the other 11 to go get him.\n\nHe went to work.\n\nThat's your playbook.\n\n#RunThePlay #StayFocused #Mindset\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Xj9736JtIng/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Xj9736JtIng/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Xj9736JtIng/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "chasing",
+              "chose",
+              "didn't",
+              "jesus",
+              "leave",
+              "other",
+              "people",
+              "runtheplay",
+              "send",
+              "stop",
+              "walked",
+              "went"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Day1_RunThePlay",
+              "description": "Stop chasing people who chose to leave.\n\nJesus had 12. One walked. He didn't send the other 11 to go get him.\n\nHe went to work.\n\nThat's your playbook.\n\n#RunThePlay #StayFocused #Mindset\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-15T22:48:01Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "video_day2_stealfromfuture",
@@ -20595,10 +20671,10 @@
           }
         },
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuihtd1Sye_HKyi1B3Ty3v-8feEKaQPTCNDID4uu8RZVemAO_9PMCDu-UGmuwFA97zULloYvQboohP8SGYQU4yHSY-oOKgWgPhFhaA58uTuEDGW7sGM85CC3NrPSP8sqT_LFgBad6761cLlBFDDGaQc-EAlqXTqhZKwAx456LK8lmbn0UEgkRpB6reWtcoVfm2OqKzq8PEy1HTyE4r2OLMZcm3BXR_r3FIZnIJcGk00"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuXfuPqq9Cs6hMz5p5QZctEbQK8AABPjpiEe6dogxHK8jyE0b7VMZqFCjxUy2D_uRnpvOuxaKeSvRfABHk3agDtdzLFJXx6LpmahsV00fOvpcChyq_NLrN6L_5Uz03NLRIeRmIwcQWfRanoaJVD-Baj5b-XWEWgsfFCpea5FnKaoDeIXNtz1n-VpM4xktSRhxKWyiIJL-b1ks8UQVmhROB_mFF3aONFxUFYYT-6jCSi"
         }
       },
-      "last_retry_at": "2026-09-15T21:44:22Z",
+      "last_retry_at": "2026-09-15T22:48:02Z",
       "retry_platforms": [
         "facebook"
       ]
