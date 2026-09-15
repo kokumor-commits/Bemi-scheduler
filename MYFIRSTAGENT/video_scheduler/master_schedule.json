@@ -20531,7 +20531,77 @@
         "youtube",
         "facebook"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18120848419917767"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "ppqxC0IEwGu3l9JTPGBL49uNUj4",
+          "id": "90HjreNgkIM",
+          "snippet": {
+            "publishedAt": "2026-09-15T21:44:18Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Dust You Noticed",
+            "description": "The Dust You Noticed\n\nYou walk into someone's house and the first thing you notice is the dust on the chandelier. Someone opened their door to you. They gave you their time, their food, their laughter, their space. And the first thing your eyes went looking for was what was wrong. That's not an accident. That's a habit. And it says far more about the state of your heart than it says about the state of their home. Check what you reach for first. It'll tell you everything.\n\n#Gratitude #Hospitality #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/90HjreNgkIM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/90HjreNgkIM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/90HjreNgkIM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "chandelier",
+              "dust",
+              "first",
+              "house",
+              "into",
+              "notice",
+              "noticed",
+              "opened",
+              "someone",
+              "someone's",
+              "thing",
+              "walk"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Dust You Noticed",
+              "description": "The Dust You Noticed\n\nYou walk into someone's house and the first thing you notice is the dust on the chandelier. Someone opened their door to you. They gave you their time, their food, their laughter, their space. And the first thing your eyes went looking for was what was wrong. That's not an accident. That's a habit. And it says far more about the state of your heart than it says about the state of their home. Check what you reach for first. It'll tell you everything.\n\n#Gratitude #Hospitality #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuihtd1Sye_HKyi1B3Ty3v-8feEKaQPTCNDID4uu8RZVemAO_9PMCDu-UGmuwFA97zULloYvQboohP8SGYQU4yHSY-oOKgWgPhFhaA58uTuEDGW7sGM85CC3NrPSP8sqT_LFgBad6761cLlBFDDGaQc-EAlqXTqhZKwAx456LK8lmbn0UEgkRpB6reWtcoVfm2OqKzq8PEy1HTyE4r2OLMZcm3BXR_r3FIZnIJcGk00"
+        }
+      },
+      "last_retry_at": "2026-09-15T21:44:22Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "dustchandelier_d02",
