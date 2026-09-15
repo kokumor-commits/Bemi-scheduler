@@ -19986,7 +19986,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18373664863235262"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "f3IlVcbIf1q7922X2YYY2H996Ac",
+          "id": "T72IiukB3jg",
+          "snippet": {
+            "publishedAt": "2026-09-15T10:49:30Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "30 Years Full vs 100 Years Safe",
+            "description": "30 Years Full vs 100 Years Safe\n\nNobody on their deathbed brags about how careful they were. Length of life and quality of life get confused constantly. Playing it safe can absolutely get you more years, but more years spent avoiding everything worth doing isn't a win, it's a slow version of the same loss. It was never about how long you live. It's about what you actually did with the time. Choose full over merely long.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/T72IiukB3jg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/T72IiukB3jg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/T72IiukB3jg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "brags",
+              "careful",
+              "confused",
+              "deathbed",
+              "full",
+              "length",
+              "life",
+              "nobody",
+              "quality",
+              "safe",
+              "were",
+              "years"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "30 Years Full vs 100 Years Safe",
+              "description": "30 Years Full vs 100 Years Safe\n\nNobody on their deathbed brags about how careful they were. Length of life and quality of life get confused constantly. Playing it safe can absolutely get you more years, but more years spent avoiding everything worth doing isn't a win, it's a slow version of the same loss. It was never about how long you live. It's about what you actually did with the time. Choose full over merely long.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-15T10:49:33Z"
     },
     {
       "id": "diseasesofattitude_d28",
