@@ -6690,7 +6690,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevxKci7qbwBiGLs1iW7WKf6pDf9AN9UPqk5MEdlG_H5aLqYj-nks-jGtiWwdWPkbJHVOcoTH6Xr8jSRAYCNotttvf3uWtWmYbyke5DI-lUgzVLQmSZbxWAGvZoBnoITqstxb88XJnfj7o8JWFDvzEwM1w-GCTlwXoUnFPGKbqLSCT0QXUNye-XAX2Mp3GkUt3j3nJ0UUwykd8zw4jI-0_m5EiAaFpRWO22WIxd7Nlnd"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev807h7ea7YGE9DZ_IRlSsHd5dfMh6ek_CxLNdS8UUqBK5s1q3Vq4xzYjqSnhdwDXM3Mwu-y3Sx4NHzvauJa97q3uSGZo699edlTsAmuoBuZvyE0nXPJu13DH1WkO-uNFh9oJjnP9yRTdeRkI26p5jQUe4irU_PZNyeHUcZHG1MrEDfjGFxW0DuI_br22UuK0rR3kVcBtn-o2z_i4NGAooU5JNh3BX2iJttXpOgA71i"
         },
         "instagram": {
           "id": "18104127659350352"
@@ -6760,7 +6760,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured â€” skipping"
         }
       },
-      "last_retry_at": "2026-09-16T17:43:31Z",
+      "last_retry_at": "2026-09-16T18:47:46Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -20296,7 +20296,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18463391929136289"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "9yJZEcepifJRUygA4QZyF7oN-kY",
+          "id": "9aw0vJFpNfE",
+          "snippet": {
+            "publishedAt": "2026-09-16T18:48:51Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Half Empty vs Half Full",
+            "description": "Half Empty vs Half Full\n\nSame glass. Same amount of water. Completely different life depending on which one you see. The facts of your situation rarely change based on your outlook, but your outlook changes almost everything you do next. The person who sees the glass half full reaches for more. The person who sees it half empty stops reaching altogether. Same water. Different future. Choose the version that reaches for more.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/9aw0vJFpNfE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/9aw0vJFpNfE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/9aw0vJFpNfE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "amount",
+              "completely",
+              "depending",
+              "different",
+              "empty",
+              "facts",
+              "full",
+              "glass",
+              "half",
+              "life",
+              "same",
+              "water"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Half Empty vs Half Full",
+              "description": "Half Empty vs Half Full\n\nSame glass. Same amount of water. Completely different life depending on which one you see. The facts of your situation rarely change based on your outlook, but your outlook changes almost everything you do next. The person who sees the glass half full reaches for more. The person who sees it half empty stops reaching altogether. Same water. Different future. Choose the version that reaches for more.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-16T18:48:54Z"
     },
     {
       "id": "diseasesofattitude_d31",
@@ -20532,7 +20596,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18149305507532208"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "ijMamrt6Zff2rnueT5wmjuWb5N0",
+          "id": "T81HwqxvvlQ",
+          "snippet": {
+            "publishedAt": "2026-09-16T18:49:37Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Not Everyone Can Carry Your Next Season",
+            "description": "Not Everyone Can Carry Your Next Season\n\nSome people were only built for your old season, not your next one. Not everyone can handle the weight of who you're becoming. Some connections were assigned to carry you through a chapter, not into the next one. When they start fading, it's not always betrayal. Sometimes it's just the story doing what stories do, changing casts as the plot moves forward. Loyalty to the past can quietly block the future. Let the wrong-season people go. Make room for the right one.\n\n#Faith #Purpose #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/T81HwqxvvlQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/T81HwqxvvlQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/T81HwqxvvlQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "built",
+              "carry",
+              "everyone",
+              "handle",
+              "next",
+              "only",
+              "people",
+              "season",
+              "some",
+              "weight",
+              "were",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Not Everyone Can Carry Your Next Season",
+              "description": "Not Everyone Can Carry Your Next Season\n\nSome people were only built for your old season, not your next one. Not everyone can handle the weight of who you're becoming. Some connections were assigned to carry you through a chapter, not into the next one. When they start fading, it's not always betrayal. Sometimes it's just the story doing what stories do, changing casts as the plot moves forward. Loyalty to the past can quietly block the future. Let the wrong-season people go. Make room for the right one.\n\n#Faith #Purpose #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-16T18:49:41Z"
     },
     {
       "id": "shrinkingcircle_d03",
