@@ -6690,7 +6690,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuAUiIPEIXKj5ltZ_6qq0tmPs6DEet8wdIiiGstdbxJU1eMwfqfCtVyuKQ6LTz65vqNoL8X7-OXMW96uLdnv3HD3ZTmZbxJvLnw_X7LcuOt-0tP-0XSj_pz0AL1x9GUedzHHi4GAoU7kxHMxwXzUR-nZnLY53wnWQ3Wdr_PV6w_otsZh3xMHKKpcLLefPZQba80eXSwfPIS2n0aYhioyJAaGKAlzn9tEBHhOK3Y7hbG"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetyOXEvr-D9gOYsqYX063Xl0qc-dFojVtNp-H4Kps1n1pu21R91u_7sYArvtfk8_RR6VB0qF8-qTs_zWemtvgEgUnVLvqxw26F9KQPEZnU1q2S1-F5SkADeudFHydXEUxs0pcnIE1f7fCYtccQ-aMOTwKvKR0NojHGeNZUdluIfYtGGJXmj8BTSuDDwCy5I3jZHz0msnBBN8XAujiCLu3VCatd14UCKhek4kDu6p-4n"
         },
         "instagram": {
           "id": "18104127659350352"
@@ -6760,7 +6760,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured â€” skipping"
         }
       },
-      "last_retry_at": "2026-09-17T09:41:39Z",
+      "last_retry_at": "2026-09-17T10:45:10Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -20450,7 +20450,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17911539156280882"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "WFgrIX7T9zwkz4_BqCNAdkMPIxs",
+          "id": "r6nBNtn8M2U",
+          "snippet": {
+            "publishedAt": "2026-09-17T10:45:54Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Only Need One Reason",
+            "description": "You Only Need One Reason\n\nThe pessimist collects five reasons why it won't work. The realist only needed one reason why it might. Piling up reasons to quit isn't wisdom, it's a habit dressed up as caution. Meanwhile it only takes a single real reason to move, one good angle, one honest opportunity. Stop auditioning reasons to stay stuck and start looking for the one reason to start. Find your one reason. That's enough.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/r6nBNtn8M2U/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/r6nBNtn8M2U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/r6nBNtn8M2U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "collects",
+              "five",
+              "might",
+              "need",
+              "needed",
+              "only",
+              "pessimist",
+              "realist",
+              "reason",
+              "reasons",
+              "won't",
+              "work"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Only Need One Reason",
+              "description": "You Only Need One Reason\n\nThe pessimist collects five reasons why it won't work. The realist only needed one reason why it might. Piling up reasons to quit isn't wisdom, it's a habit dressed up as caution. Meanwhile it only takes a single real reason to move, one good angle, one honest opportunity. Stop auditioning reasons to stay stuck and start looking for the one reason to start. Find your one reason. That's enough.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-17T10:45:56Z"
     },
     {
       "id": "diseasesofattitude_d32",
