@@ -6690,7 +6690,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes7LnKKeFDxexR-Ivc-EmxH92IA_sTe2uBRlk9d9BoGBh_ofGautC5OCQ1bd3Da74r0sS9VtnbdoCaEkgr3W3iPx7U_MBvxmyu3PizPuhAQuboiHpq0roxI4sEleSpRAszjTeU97-OiF89YjVQz5Vz5_VlQ53bopJzyi95kVP2cgPusuJldvtM3G4q6RalOWUoduvEDtZrQ2JkolFdCPhk39VNpZh8muGD8XrbmkXr_"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetPk0zKzYS_htmAqX6FjvoVmmUb_tmj_pyoEibnTyJhdJrTeVab8KEeTGOC_BLnRucu4WWJcZYfngGodHC-2D8Qa7BE_hlfdEdqvRQEENuZxTr1sauVQ_dK3SirfcewZNeaSl7e2o2rSTjN1aDd0w9XbxP_ffVN_bQLZq2Ot4NqUWqcTRiJY788BKyVxZ6cQI3UMLHLRMVh6yEdHoo1O1h_MvOqTnOD3Sk5wv_IPDgi"
         },
         "instagram": {
           "id": "18104127659350352"
@@ -6760,7 +6760,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured â€” skipping"
         }
       },
-      "last_retry_at": "2026-09-18T17:42:49Z",
+      "last_retry_at": "2026-09-18T18:46:57Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -20760,7 +20760,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18463583893137947"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "a8qDuQDv-KePWPPhqaYxgsn7CcM",
+          "id": "Fw66nDwU_qc",
+          "snippet": {
+            "publishedAt": "2026-09-18T18:47:51Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "It's Not the Situation, It's the Lens",
+            "description": "It's Not the Situation, It's the Lens\n\nTwo people can live the exact same circumstance and walk away with two completely different lives. The difference was never the circumstance. It was the lens they looked at it through. One saw an obstacle and stopped. The other saw the same obstacle and found the opening. You don't always get to choose your situation. You always get to choose your lens. Check your lens before you check your circumstances.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Fw66nDwU_qc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Fw66nDwU_qc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Fw66nDwU_qc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "away",
+              "circumstance",
+              "completely",
+              "different",
+              "exact",
+              "it's",
+              "lens",
+              "live",
+              "people",
+              "same",
+              "situation",
+              "walk"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "It's Not the Situation, It's the Lens",
+              "description": "It's Not the Situation, It's the Lens\n\nTwo people can live the exact same circumstance and walk away with two completely different lives. The difference was never the circumstance. It was the lens they looked at it through. One saw an obstacle and stopped. The other saw the same obstacle and found the opening. You don't always get to choose your situation. You always get to choose your lens. Check your lens before you check your circumstances.\n\n#Mindset #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-18T18:47:54Z"
     },
     {
       "id": "diseasesofattitude_d35",
@@ -21096,7 +21160,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18444808429134312"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "5oolryxfFfrQlMAd56HZBtVoyAQ",
+          "id": "oHQzbYjz6B8",
+          "snippet": {
+            "publishedAt": "2026-09-18T18:48:58Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Joseph Lost His Brothers Before His Position",
+            "description": "Joseph Lost His Brothers Before His Position\n\nJoseph didn't step into his purpose with his brothers standing beside him. Joseph's own brothers turned on him before he ever reached the position he was destined for. The betrayal felt like the end of the story, but it was actually the door. Sometimes the very people who let you down are the ones who unknowingly push you toward what you were always meant to become. Loss and purpose aren't always opposites. Sometimes one delivers the other. The people missing from your rise aren't always the ones you lose.\n\n#Faith #Purpose #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/oHQzbYjz6B8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/oHQzbYjz6B8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/oHQzbYjz6B8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "before",
+              "beside",
+              "brothers",
+              "didn't",
+              "into",
+              "joseph",
+              "joseph's",
+              "lost",
+              "position",
+              "purpose",
+              "standing",
+              "step"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Joseph Lost His Brothers Before His Position",
+              "description": "Joseph Lost His Brothers Before His Position\n\nJoseph didn't step into his purpose with his brothers standing beside him. Joseph's own brothers turned on him before he ever reached the position he was destined for. The betrayal felt like the end of the story, but it was actually the door. Sometimes the very people who let you down are the ones who unknowingly push you toward what you were always meant to become. Loss and purpose aren't always opposites. Sometimes one delivers the other. The people missing from your rise aren't always the ones you lose.\n\n#Faith #Purpose #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-18T18:49:00Z"
     },
     {
       "id": "shrinkingcircle_d05",
