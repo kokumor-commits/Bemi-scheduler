@@ -43,7 +43,14 @@ def read_schedule():
     )
     r.raise_for_status()
     meta = r.json()
-    content = base64.b64decode(meta["content"]).decode("utf-8")
+    if meta.get("content"):
+        content = base64.b64decode(meta["content"]).decode("utf-8")
+    else:
+        # GitHub Contents API omits inline content for files over ~1MB --
+        # fall back to the raw download URL instead.
+        raw = httpx.get(meta["download_url"], timeout=30)
+        raw.raise_for_status()
+        content = raw.text
     return json.loads(content), meta["sha"]
 
 
