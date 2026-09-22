@@ -7146,7 +7146,77 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18463490728142759"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "l09Bik53CT_cznNlb8_ThAALttw",
+          "id": "ev1B5QkGj88",
+          "snippet": {
+            "publishedAt": "2026-09-22T22:47:30Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Day7_WeekCloser",
+            "description": "This week's theme: Stop chasing. Start building.\n\nThe person who chose to leave already answered the question you keep asking.\n\nNow ask a better one:\n\n\"What am I building while they're watching?\"\n\nGo build that.\n\n#WeekInReview #RunThePlay #StayFocused\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ev1B5QkGj88/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ev1B5QkGj88/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ev1B5QkGj88/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "already",
+              "answered",
+              "building",
+              "chasing",
+              "chose",
+              "leave",
+              "person",
+              "start",
+              "stop",
+              "theme",
+              "week's",
+              "weekcloser"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Day7_WeekCloser",
+              "description": "This week's theme: Stop chasing. Start building.\n\nThe person who chose to leave already answered the question you keep asking.\n\nNow ask a better one:\n\n\"What am I building while they're watching?\"\n\nGo build that.\n\n#WeekInReview #RunThePlay #StayFocused\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-22T22:47:32Z"
     },
     {
       "id": "runtheplay_day1_skillvsliking",
@@ -7162,7 +7232,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet1Z_oJ_aCDv_WCc90jAas8un8t8YC59UQhEKtlZIxgw-3UuisVI5ppJTte5jj-D3F98aA5t3yLKcpOvBXr-2qYC9l-1k25GaboNtfNRpSlwPJ1GhcHvR-VsQN677DzHF2mT-w3K5g1tnAnM4VYAXKuix8_5GeAigVdNn6A8BOjyuC21akwhG0Ck_OuCfAgK3JoO19DSng1WDh7ZN5XndXzpW7fW4CwjUMMCcWS55yF"
+        },
+        "instagram": {
+          "id": "17881680231522643"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "QWt6UnAiP56GnaxBvmgifeB1xgI",
+          "id": "92m9mbln8KQ",
+          "snippet": {
+            "publishedAt": "2026-09-22T22:48:14Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Being Great With People Is A Skill â€” Liking Everyone Is A Choice #RunThePlay",
+            "description": "Being great with people is a skill. Liking every room you walk into is a choice.\n\nMaster the skill. Guard the choice.\n\nNot every door deserves your best energy.\n\n#RunThePlay #ProtectYourEnergy #Boundaries\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/92m9mbln8KQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/92m9mbln8KQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/92m9mbln8KQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "being",
+              "choice",
+              "every",
+              "everyone",
+              "great",
+              "into",
+              "liking",
+              "people",
+              "room",
+              "runtheplay",
+              "skill",
+              "walk"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Being Great With People Is A Skill â€” Liking Everyone Is A Choice #RunThePlay",
+              "description": "Being great with people is a skill. Liking every room you walk into is a choice.\n\nMaster the skill. Guard the choice.\n\nNot every door deserves your best energy.\n\n#RunThePlay #ProtectYourEnergy #Boundaries\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-22T22:48:16Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "runtheplay_day2_youseeagendas",
@@ -21204,7 +21350,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17905561011557656"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "dP2Ytvs9xPXPS_vlUOZygRPZv9g",
+          "id": "-6riA53k6bE",
+          "snippet": {
+            "publishedAt": "2026-09-22T22:48:58Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Chasing People Who Are Choosing to Leave",
+            "description": "Stop Chasing People Who Are Choosing to Leave\n\nChasing someone who's already decided to leave will cost you the door in front of you. It's tempting to beg people to stay, to try to force yesterday's relationships to fit into tomorrow's assignment. But energy spent chasing an exit is energy stolen from your next entrance. Not every closed door was a loss. Some doors close because you were never meant to walk through them again. Let the leaving be as easy as it wants to be. Stop chasing. Start walking toward what's next.\n\n#Faith #Purpose #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/-6riA53k6bE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/-6riA53k6bE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/-6riA53k6bE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "already",
+              "chasing",
+              "choosing",
+              "cost",
+              "decided",
+              "door",
+              "front",
+              "leave",
+              "people",
+              "someone",
+              "stop",
+              "who's"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Chasing People Who Are Choosing to Leave",
+              "description": "Stop Chasing People Who Are Choosing to Leave\n\nChasing someone who's already decided to leave will cost you the door in front of you. It's tempting to beg people to stay, to try to force yesterday's relationships to fit into tomorrow's assignment. But energy spent chasing an exit is energy stolen from your next entrance. Not every closed door was a loss. Some doors close because you were never meant to walk through them again. Let the leaving be as easy as it wants to be. Stop chasing. Start walking toward what's next.\n\n#Faith #Purpose #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-22T22:49:00Z"
     },
     {
       "id": "shrinkingcircle_d09",
@@ -21540,7 +21750,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17991358347050640"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "3YKrO7PeYY0YcZbLR6kBGxNbbGg",
+          "id": "X-Qnz8JfiNE",
+          "snippet": {
+            "publishedAt": "2026-09-22T22:49:41Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Maybe It's Not Their House That Needs Cleaning",
+            "description": "Maybe It's Not Their House That Needs Cleaning\n\nMaybe the place that needs cleaning isn't their house. It's your heart. You can spend your whole life pointing at other people's mess and never once check your own. But a heart that's always hunting for what's wrong with everyone else is usually the one that needs the most attention. The dust you keep finding out there might just be showing you where to look in here. Clean the part that's actually dusty.\n\n#Gratitude #Hospitality #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/X-Qnz8JfiNE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/X-Qnz8JfiNE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/X-Qnz8JfiNE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "cleaning",
+              "heart",
+              "house",
+              "isn't",
+              "it's",
+              "life",
+              "maybe",
+              "needs",
+              "place",
+              "pointing",
+              "spend",
+              "whole"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Maybe It's Not Their House That Needs Cleaning",
+              "description": "Maybe It's Not Their House That Needs Cleaning\n\nMaybe the place that needs cleaning isn't their house. It's your heart. You can spend your whole life pointing at other people's mess and never once check your own. But a heart that's always hunting for what's wrong with everyone else is usually the one that needs the most attention. The dust you keep finding out there might just be showing you where to look in here. Clean the part that's actually dusty.\n\n#Gratitude #Hospitality #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-22T22:49:43Z"
     },
     {
       "id": "dustchandelier_d09",
@@ -21582,7 +21856,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18102205136011709"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "qOLfldtxgsfjMBjdn4j31b2-egk",
+          "id": "5LGjIZiIxbA",
+          "snippet": {
+            "publishedAt": "2026-09-22T22:51:18Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Nobody Taught You. Now What?",
+            "description": "Nobody Taught You. Now What?\n\nNobody taught you? Here's what the world does next. It expects you to know it anyway. Maybe nobody sat you down. Maybe no one showed you how any of this works. That's real, and it's hard. But the world isn't going to slow down and wait for you to catch up. Bills, cars, health, relationships, they all show up whether you were prepared or not. The people who win aren't the ones who got the best start. They're the ones who decided to learn it anyway. Stop waiting to be taught. Go learn it today.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/5LGjIZiIxbA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/5LGjIZiIxbA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/5LGjIZiIxbA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "anyway",
+              "does",
+              "down",
+              "expects",
+              "here's",
+              "know",
+              "maybe",
+              "next",
+              "nobody",
+              "showed",
+              "taught",
+              "world"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Nobody Taught You. Now What?",
+              "description": "Nobody Taught You. Now What?\n\nNobody taught you? Here's what the world does next. It expects you to know it anyway. Maybe nobody sat you down. Maybe no one showed you how any of this works. That's real, and it's hard. But the world isn't going to slow down and wait for you to catch up. Bills, cars, health, relationships, they all show up whether you were prepared or not. The people who win aren't the ones who got the best start. They're the ones who decided to learn it anyway. Stop waiting to be taught. Go learn it today.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-22T22:51:20Z"
     },
     {
       "id": "competence_d02",
