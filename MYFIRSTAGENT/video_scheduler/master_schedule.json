@@ -7305,7 +7305,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-23T17:46:35Z",
+      "last_retry_at": "2026-09-23T18:52:03Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -21428,7 +21428,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "17918548452440305"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "vRwXEC2AlMZm6PxszSPmkrQGSkI",
+          "id": "DtwiCPykjBs",
+          "snippet": {
+            "publishedAt": "2026-09-23T18:52:45Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "God Doesn't Need a Crowd, He Needs a Clear Path",
+            "description": "God Doesn't Need a Crowd, He Needs a Clear Path\n\nA crowded room and a clear path have never been the same thing. Sometimes what looks like people abandoning you is actually the room being cleared for what's coming next. It's rarely about how many people surround you. It's about whether there's enough space for the next thing to actually arrive. A packed circle can quietly block the exact door you've been praying would open. Clearing isn't always loss. Sometimes it's preparation with no announcement. Let the room clear. The path needs the space.\n\n#Faith #Purpose #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DtwiCPykjBs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DtwiCPykjBs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DtwiCPykjBs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "been",
+              "clear",
+              "crowd",
+              "crowded",
+              "doesn't",
+              "need",
+              "needs",
+              "never",
+              "path",
+              "room",
+              "same",
+              "thing"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "God Doesn't Need a Crowd, He Needs a Clear Path",
+              "description": "God Doesn't Need a Crowd, He Needs a Clear Path\n\nA crowded room and a clear path have never been the same thing. Sometimes what looks like people abandoning you is actually the room being cleared for what's coming next. It's rarely about how many people surround you. It's about whether there's enough space for the next thing to actually arrive. A packed circle can quietly block the exact door you've been praying would open. Clearing isn't always loss. Sometimes it's preparation with no announcement. Let the room clear. The path needs the space.\n\n#Faith #Purpose #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-23T18:52:48Z"
     },
     {
       "id": "shrinkingcircle_d10",
