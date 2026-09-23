@@ -21892,7 +21892,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18155747548445604"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "4rI5G7BlKZ7kkwn20htg9eAY7UM",
+          "id": "T3Di_cjsGk0",
+          "snippet": {
+            "publishedAt": "2026-09-23T21:54:32Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Notice the Effort, Not Just the Imperfection",
+            "description": "Notice the Effort, Not Just the Imperfection\n\nBehind every imperfect room is somebody who still tried to make space for you. Nobody's home is perfect. Nobody's life is either. But behind the dust, the clutter, the thing slightly out of place, there's usually a person who cleaned what they could, cooked what they had, and opened the door anyway. That effort deserves to be seen before the imperfection does. Most people just need someone to notice they tried. Notice the effort before you notice the imperfection.\n\n#Gratitude #Hospitality #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/T3Di_cjsGk0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/T3Di_cjsGk0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/T3Di_cjsGk0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "behind",
+              "effort",
+              "every",
+              "imperfect",
+              "imperfection",
+              "just",
+              "make",
+              "notice",
+              "room",
+              "somebody",
+              "still",
+              "tried"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Notice the Effort, Not Just the Imperfection",
+              "description": "Notice the Effort, Not Just the Imperfection\n\nBehind every imperfect room is somebody who still tried to make space for you. Nobody's home is perfect. Nobody's life is either. But behind the dust, the clutter, the thing slightly out of place, there's usually a person who cleaned what they could, cooked what they had, and opened the door anyway. That effort deserves to be seen before the imperfection does. Most people just need someone to notice they tried. Notice the effort before you notice the imperfection.\n\n#Gratitude #Hospitality #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-23T21:54:35Z"
     },
     {
       "id": "dustchandelier_d10",
