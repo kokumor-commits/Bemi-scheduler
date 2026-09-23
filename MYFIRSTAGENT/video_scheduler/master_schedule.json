@@ -7324,7 +7324,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
+        },
+        "instagram": {
+          "id": "18637175680061694"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "gDREhT5s2joCw5avtwgrEkjBNN0",
+          "id": "LTOWNHJje3o",
+          "snippet": {
+            "publishedAt": "2026-09-23T22:44:49Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The More You Understand People The More You See #Wisdom #RunThePlay",
+            "description": "The more you understand people, the more you see.\n\nCompliments hiding agendas. Curiosity masking jealousy.\n\nThis is not paranoia â€” this is clarity.\n\nAnd clarity changes everything.\n\n#SeeThrough #Wisdom #RunThePlay\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/LTOWNHJje3o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/LTOWNHJje3o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/LTOWNHJje3o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "agendas",
+              "compliments",
+              "curiosity",
+              "hiding",
+              "jealousy",
+              "masking",
+              "more",
+              "paranoia",
+              "people",
+              "runtheplay",
+              "understand",
+              "wisdom"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The More You Understand People The More You See #Wisdom #RunThePlay",
+              "description": "The more you understand people, the more you see.\n\nCompliments hiding agendas. Curiosity masking jealousy.\n\nThis is not paranoia â€” this is clarity.\n\nAnd clarity changes everything.\n\n#SeeThrough #Wisdom #RunThePlay\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-23T22:44:50Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "runtheplay_day3_conversationhasprice",
