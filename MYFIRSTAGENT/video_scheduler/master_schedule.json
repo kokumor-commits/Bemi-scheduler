@@ -7305,7 +7305,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-24T21:38:14Z",
+      "last_retry_at": "2026-09-24T22:51:39Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -7416,7 +7416,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
+        },
+        "instagram": {
+          "id": "18131691967680433"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "38WLtNnSek9ZQCQ1QkoLlDZBu_A",
+          "id": "5TCd2hij7SM",
+          "snippet": {
+            "publishedAt": "2026-09-24T22:52:24Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Every Conversation Has A Price â€” Stop Walking In Rich And Leaving Broke #RunThePlay",
+            "description": "Every conversation has a price. Every room has a bill.\n\nStop walking in rich and leaving broke.\n\nKnow your worth. Know your rate.\n\n#KnowYourWorth #EnergyIsACurrency #RunThePlay\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/5TCd2hij7SM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/5TCd2hij7SM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/5TCd2hij7SM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "bill",
+              "broke",
+              "conversation",
+              "every",
+              "know",
+              "leaving",
+              "price",
+              "rich",
+              "room",
+              "runtheplay",
+              "stop",
+              "walking"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Every Conversation Has A Price â€” Stop Walking In Rich And Leaving Broke #RunThePlay",
+              "description": "Every conversation has a price. Every room has a bill.\n\nStop walking in rich and leaving broke.\n\nKnow your worth. Know your rate.\n\n#KnowYourWorth #EnergyIsACurrency #RunThePlay\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-24T22:52:26Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "runtheplay_day4_stopoperatingdeficit",
