@@ -7397,7 +7397,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-24T17:35:39Z",
+      "last_retry_at": "2026-09-24T18:42:43Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -21582,7 +21582,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18122969668883618"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "s31PNilhQDw40VGEP7bxab4Dc5w",
+          "id": "f_-x4DSwmpI",
+          "snippet": {
+            "publishedAt": "2026-09-24T18:43:39Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Shrinking Might Be the Setup",
+            "description": "The Shrinking Might Be the Setup\n\nWhat looks like the setback might actually be the setup. When the circle shrinks, it's easy to read it as loss, rejection, or being forgotten. But shrinking and ending are not the same word. Don't become bitter watching people walk away. Don't become desperate trying to keep the room full. Become ready instead, because what feels like the room emptying out today might be exactly how space gets made for the next level tomorrow. Get ready, not bitter. This shrinking has a purpose.\n\n#Faith #Purpose #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/f_-x4DSwmpI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/f_-x4DSwmpI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/f_-x4DSwmpI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "actually",
+              "circle",
+              "easy",
+              "it's",
+              "like",
+              "looks",
+              "might",
+              "read",
+              "setback",
+              "setup",
+              "shrinking",
+              "shrinks"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Shrinking Might Be the Setup",
+              "description": "The Shrinking Might Be the Setup\n\nWhat looks like the setback might actually be the setup. When the circle shrinks, it's easy to read it as loss, rejection, or being forgotten. But shrinking and ending are not the same word. Don't become bitter watching people walk away. Don't become desperate trying to keep the room full. Become ready instead, because what feels like the room emptying out today might be exactly how space gets made for the next level tomorrow. Get ready, not bitter. This shrinking has a purpose.\n\n#Faith #Purpose #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-24T18:43:41Z"
     },
     {
       "id": "dustchandelier_d01",
