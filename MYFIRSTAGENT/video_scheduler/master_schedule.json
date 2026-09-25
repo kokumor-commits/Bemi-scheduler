@@ -7508,7 +7508,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuEf1bXWym4EVgCZ2LXHgpD4EgJgc2fBStHhV0AJxvMp5WOEUMQnjNvtPUrFPIaErt7V3jvawGPFC8-LB_9m6JmwI_GImTdZiASu6w_KRbCLJJ3rbKjf1rCrWPQVL6LMLQan7lIcp3Mr5NNuJBSlAOm1CLZk24VJ9tHTmslfyNWGVeF0hVeAbDDIT1ues-6QWBH71xwrSU7GnW15hVlSAc8PvMPW-P7eCRhCAb9CVpU"
+        },
+        "instagram": {
+          "id": "17968095836961816"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "KDF2tD4FDFKXvnoG7ouKjB7AG-c",
+          "id": "Otmb7YB2wpg",
+          "snippet": {
+            "publishedAt": "2026-09-25T22:47:09Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Stop Operating At A Deficit â€” A Builder Cannot Build On Empty #RunThePlay",
+            "description": "You gave what you didn't have to people who were never worth the investment.\n\nFocus. Creativity. Fire â€” all drained.\n\nA builder cannot build on empty.\n\nRefill before you pour.\n\n#BuildDifferent #StopTheBleeding #RunThePlay\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Otmb7YB2wpg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Otmb7YB2wpg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Otmb7YB2wpg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "build",
+              "builder",
+              "cannot",
+              "deficit",
+              "didn't",
+              "empty",
+              "gave",
+              "operating",
+              "people",
+              "runtheplay",
+              "stop",
+              "were"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Stop Operating At A Deficit â€” A Builder Cannot Build On Empty #RunThePlay",
+              "description": "You gave what you didn't have to people who were never worth the investment.\n\nFocus. Creativity. Fire â€” all drained.\n\nA builder cannot build on empty.\n\nRefill before you pour.\n\n#BuildDifferent #StopTheBleeding #RunThePlay\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-25T22:47:11Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "runtheplay_day5_energyisresource",
