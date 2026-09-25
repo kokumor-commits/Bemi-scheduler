@@ -22498,7 +22498,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18088601852292129"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "v1_W1sqTYOYkEp8izM0K2L3x2oc",
+          "id": "_QXzsQS7o-U",
+          "snippet": {
+            "publishedAt": "2026-09-25T10:47:31Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Put Your Money Where Your Goals Are",
+            "description": "Put Your Money Where Your Goals Are\n\nPeople who pay a coach never skip, and it has nothing to do with the coach. It's the money on the line. Free plans are easy to skip. Nobody's watching, nothing's lost. But when you've invested real money in your growth, something changes. You show up because it matters now. Investing in a coach, a trainer, a mentor isn't spending. It's buying your own follow-through. And follow-through is the whole game. Invest in one thing that makes you show up.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_QXzsQS7o-U/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_QXzsQS7o-U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_QXzsQS7o-U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "coach",
+              "free",
+              "goals",
+              "it's",
+              "line",
+              "money",
+              "never",
+              "nothing",
+              "people",
+              "plans",
+              "skip",
+              "where"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Put Your Money Where Your Goals Are",
+              "description": "Put Your Money Where Your Goals Are\n\nPeople who pay a coach never skip, and it has nothing to do with the coach. It's the money on the line. Free plans are easy to skip. Nobody's watching, nothing's lost. But when you've invested real money in your growth, something changes. You show up because it matters now. Investing in a coach, a trainer, a mentor isn't spending. It's buying your own follow-through. And follow-through is the whole game. Invest in one thing that makes you show up.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-25T10:47:34Z"
     },
     {
       "id": "competence_d05",
