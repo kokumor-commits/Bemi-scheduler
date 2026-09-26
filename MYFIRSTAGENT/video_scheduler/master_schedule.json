@@ -7327,7 +7327,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesayUqH0B8xPfADwy8hIXHEB1qNeKdMoE3rtHrXUGtW-pTJrq6zH8VOJqqlfNbv_COxHozMnqEUeqPB89P1xWW6a53QXPd8LPXEmwyZaCcR5ujIWJH3amYzmFyoTf0jQETILI_-mqRFoW8rofO89FNN92N11QeYvAr4-Kk1XjlYu1949CXQ2-dsh8PzPeBQeTfPr-wemElv-appqRGuqEQLi_cWb1DKjceU90-4yTuZ"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18637175680061694"
@@ -7397,7 +7397,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-25T23:36:40Z",
+      "last_retry_at": "2026-09-26T00:41:26Z",
       "retry_platforms": [
         "facebook"
       ]
