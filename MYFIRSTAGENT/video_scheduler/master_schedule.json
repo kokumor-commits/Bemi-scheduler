@@ -7235,7 +7235,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesNxlaZW2RqOdFKjF8CCcFQGbAriJArM7pgNIMQwwhoGwF-sePqMtBm4NY2U4kJFy4EY_mG23ygfyl5DTeFCVXlZPwodbrC_wLxpX4ipse_vcxT1CNngKJ-2enNiA1MHth2QEMpnIn1m5sG-e5AqRxk7kL7RtXqqZ3QXJfZ4kfSxaRiEMBr0WJiLMvs6p7tdOzOJ8LCB7jtxNh_nrwEndXcWsWlF2Y5M6FXou7yTs2D"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "17881680231522643"
@@ -7305,7 +7305,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-26T05:45:25Z",
+      "last_retry_at": "2026-09-26T06:49:58Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -7419,7 +7419,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevdfHussNbZiGHjCRYhray1UvYUsEEUCY1vpAfV5jfu_f1IrDilAo8rZNw6ZZ_KKDRaNa5SpLG425n37XG1CIJ41vZ0GwvZhdqGRDdREMqifMsa3oRYhrox7jTESLddJRkGV4NpJ1GMP2Xv9UpbZZwMBvUUiV6hWyNym9n9t28f-NrhVVnkkWm-JXG-9MVmn5s_TspmyDJqUgSjBbZdrYdYIrgP9ua5HUM7IIn3lKzg"
+          "error": "FB reels transfer 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ParameterValidationError\",\"message\":\"HeaderValuePredicate: Header Offset not convertable to unsigned long\"}}"
         },
         "instagram": {
           "id": "18131691967680433"
@@ -7489,7 +7489,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-26T05:45:25Z",
+      "last_retry_at": "2026-09-26T06:50:00Z",
       "retry_platforms": [
         "facebook"
       ]
