@@ -7235,7 +7235,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesPkTv-4BvZI20h98xIO8TxpDkSFW-r3M5kWQSfkvtrrEaeueXubBJoHtw1UdB12VRDQ2N0eouV0hJB-l9D6EjrsTPL5wOnRoZTcBczpfJzahfvrJtv0SJmuBX_ioNn8j0v8fyrRS42ctZNARRgq32F34KgNggCfZ3YOrUiDujQ8ux1CgHQgt2wdPMNcazZxM-j2qYAPgkTps374Fjr48CNxW0wSlj8MZO0R34kF8pX"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeskU6_OEnCtzDqD-C4Q4HTff3h20rjW8cRUGlcy4VKpQciktEPBdM6gfo3dfgV9A8F52onXLdzdf885BL6-4XuHCTQYs5IhKAakXgKy4d_cNuspUcKu74lubAc0Yr1pUHLJ0fgBuNnnjbuRUziJzQaaYPqXAvhJXy7_AcBeNQ6009pLlVpk5oXZz1WZ322ri0z_xptWdbNAETbPw50bY2iNc6_GOWSlTzwDxcr_QHic"
         },
         "instagram": {
           "id": "17881680231522643"
@@ -7305,7 +7305,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-26T21:40:19Z",
+      "last_retry_at": "2026-09-26T22:44:50Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -7419,7 +7419,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevjawMpCeTgufLol2Hx13gNS1k2vETG0wk0lEQ1xPITdGOxK6VdSAbeKRpw_QUW9Jd7v5keMb0_K-qWCYd7H2tsQs__ZgHdXZNBLHr7VKPD3iKSxptK27bq2fb2bPvwWB1QtZB68Nj1_ipRMtHnIld9_YmFL9WywP9OQn_ThMAuqc4BNkXWwr11ifDNNnaJY6S8OPD5JQGNcQEu7ektuQrzM4ojpFlKzIS_2_i0uLP3"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetdPax_I1ZWlR9KnmJxDde-8GL91eQWpq86OMIKPXrLs5dgv-U4EP8mVbYl5lHEcbKxFlSCayM3MQ2tWtdFbGIj85oGQ150Tg-p2nuSbkKU9ZLsiTB0khIYrMqX9CloUklHPjP7g7gS_-4ymwyQcUlpH4rgNZ7QDo3RfbwuD5NiDnQ968yJffZe8DdUShxemw5fIzF_sQGmifY14sTvPzn-YZOANAb2qVn6fWa0LEEG"
         },
         "instagram": {
           "id": "18131691967680433"
@@ -7489,7 +7489,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-26T21:40:20Z",
+      "last_retry_at": "2026-09-26T22:44:51Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -7600,7 +7600,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu0BU3Ys23Rdxd20BJkLZNl7QGSqTKIvQzOUC980TWRNF03tb4fQr81hN3z2KlBjR2wf-nS2Ja4DDSK05iO21hfPA-l62PqFFkow3-HmhfP1jPXb0wL_v0TO_ZG7vIOvaiLnjTQsSWGg2J-pfy0if-bwvWs83KtdaKVIHvXJvOCkg_AXJcIxqSpiZFZOtRE8xF_1ojcbpzTJamA1DIPmf8EenGepmS9Psqi0dFaEDnt"
+        },
+        "instagram": {
+          "id": "17984243277076072"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "t95-bTwNwEmn0sNnfSgW5EIu6u0",
+          "id": "ck0EBGjjyzI",
+          "snippet": {
+            "publishedAt": "2026-09-26T22:46:04Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Energy Is A Resource â€” Deploy It Only Where It Multiplies #RunThePlay",
+            "description": "Your energy is a resource.\n\nEvery resource has a highest and best use.\n\nStop burning your finest fuel on dead ends.\n\nDeploy it only where it multiplies.\n\n#EnergyIsEverything #HighestBestUse #RunThePlay\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ck0EBGjjyzI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ck0EBGjjyzI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ck0EBGjjyzI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "best",
+              "burning",
+              "deploy",
+              "energy",
+              "every",
+              "highest",
+              "multiplies",
+              "only",
+              "resource",
+              "runtheplay",
+              "stop",
+              "where"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Energy Is A Resource â€” Deploy It Only Where It Multiplies #RunThePlay",
+              "description": "Your energy is a resource.\n\nEvery resource has a highest and best use.\n\nStop burning your finest fuel on dead ends.\n\nDeploy it only where it multiplies.\n\n#EnergyIsEverything #HighestBestUse #RunThePlay\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-26T22:46:06Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "runtheplay_day6_jesusfedthousands",
