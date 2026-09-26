@@ -7327,7 +7327,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetRTCLUvLXq9P5ilnLQM48qXDtlf_rkaFqjAo6o-MZVCeBAQ-gpwDIP9Psb5IExr84-hUWwMtDjPO4NlVk6okP7U4Cy2EpN3G-YYIuKs-LjSN6cSpijVRuUMNed2NbdZgyHf8kXnQ2QL-3dAt34EVMYruL-32p3pQH9QZazm4vpi9kFPRvtfAS54g-Nf6qxTYeojrFm6Kx99k_8LjJsHMZADO7jkzLLAWhlX6fA1yt4"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeslpAhTd9X5Kh7FDx8tCvpwJJmSYV2jXSqiVVPn8kgiJNLdi-B781akvFJoPE2FNQIxp49IFmoaz6c_ANzGAAQR0zw3amY5bz-W7nOVMRoN4llWBhpeuMEqU97HkC-pmwhBlIhBc0DTFgwjEB1GK06Zojhu_12CBKKqQmPazl2-FQlnWgFjtKAjZfPccjGMfq8BD1TxFvBOSxF5m0f8P0RY74eYfWEoneIOKAM-0b2H"
         },
         "instagram": {
           "id": "18637175680061694"
@@ -7397,7 +7397,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-26T10:48:59Z",
+      "last_retry_at": "2026-09-26T10:51:19Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -22655,30 +22655,30 @@
       "done": true,
       "results": {
         "instagram": {
-          "id": "18111293999125787"
+          "id": "17960227638233532"
         },
         "youtube": {
           "kind": "youtube#video",
-          "etag": "KdkEZU5xcrUxvAcDAhFC0XIpJKU",
-          "id": "Sa5LdHM67PE",
+          "etag": "k1pYkn85NfISLlGZsM5C3Aw6t_Y",
+          "id": "wL5IRFlWpqY",
           "snippet": {
-            "publishedAt": "2026-09-26T10:50:24Z",
+            "publishedAt": "2026-09-26T10:52:02Z",
             "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
             "title": "Find Your Room",
             "description": "Find Your Room\n\nYour closest friends might be the reason you're stuck, and you've never met them. They live on a screen. Podcasts and videos are great. But they can't show up when life falls apart. Real growth happens around real people, in a gym, a class, a group, a team. Being near people who are working on themselves quietly raises your standard. You start to become who you're around. Choose the room carefully. Go be around people who are building something.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/Sa5LdHM67PE/default.jpg",
+                "url": "https://i.ytimg.com/vi/wL5IRFlWpqY/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/Sa5LdHM67PE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/wL5IRFlWpqY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/Sa5LdHM67PE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/wL5IRFlWpqY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               }
@@ -22716,7 +22716,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-26T10:50:26Z"
+      "last_retry_at": "2026-09-26T10:52:04Z"
     },
     {
       "id": "competence_d06",
