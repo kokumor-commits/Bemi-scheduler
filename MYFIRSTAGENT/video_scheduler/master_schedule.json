@@ -7327,7 +7327,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuZy0lt1gyvRvU0fWB-3q4QOElQ06B5Qy9Al6b0OBFmrNoUarSC1yNx_-oUZXOyqn2sJioYR18NcOg99_T09sPejpCUbZFsRdXlP7hCW_K5IuLjZ576hVvca2QSWpw55G_taz_jz7UigoPGbUmmc3BnEhT3uku2yrkMpyW8lcjWnBMkT7lWWzgarM5d6GchW_d3w3xQOlxbqLk5CYhtZ8CNAX6TkZe0kfgSISmMspxb"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet32ghWEhhuar2TiVMq2SfPs9Szavcegk2M1sjeKwRLtBtrXyHA9iXFQPvG7QRKUiEkA9wGwYQHRA6gDwRpn-pRPDLS8MW5CTGJyVKmac7KQ7joiBqDu7TKHPBHuqQ8Qm45TH0-roWLTi-eIU4_eLMyvYv_k0wLcrWF2kYQjUflttvijBk33o4AvrrSYWut_-p25Y8bB1ZJbseCFji5R4oPw-c1_Qek6cd__MrJsPX1"
         },
         "instagram": {
           "id": "18637175680061694"
@@ -7397,7 +7397,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-27T10:54:19Z",
+      "last_retry_at": "2026-09-27T10:55:38Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -22809,30 +22809,30 @@
       "done": true,
       "results": {
         "instagram": {
-          "id": "18104706209205341"
+          "id": "18148918816557992"
         },
         "youtube": {
           "kind": "youtube#video",
-          "etag": "u23c6rjhvYkQP28qta3DoPFajuI",
-          "id": "U1iMOzCKiuo",
+          "etag": "0ybqTuiPr5YQJQ3ZzBLUInQXxZw",
+          "id": "oc6J9-aJ-OY",
           "snippet": {
-            "publishedAt": "2026-09-27T10:55:04Z",
+            "publishedAt": "2026-09-27T10:56:23Z",
             "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
             "title": "Quiet Competence",
             "description": "Quiet Competence\n\nThe most respected person in any room rarely says a word. Here's why. They simply handle it. Talkers are everywhere. People notice the one who is calm, prepared, and makes no announcement. When something breaks, they don't panic and they don't perform. They fix it and move on. That kind of respect can't be faked, and it can't be bought. It's built one skill at a time, mostly when nobody's watching. Build the skill. Skip the speech.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/U1iMOzCKiuo/default.jpg",
+                "url": "https://i.ytimg.com/vi/oc6J9-aJ-OY/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/U1iMOzCKiuo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/oc6J9-aJ-OY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/U1iMOzCKiuo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/oc6J9-aJ-OY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               }
@@ -22870,7 +22870,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-27T10:55:06Z"
+      "last_retry_at": "2026-09-27T10:56:25Z"
     },
     {
       "id": "competence_d07",
