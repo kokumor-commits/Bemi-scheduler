@@ -7327,7 +7327,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9hX71pNOlQhCOq1aBqhbSn9ds5jddm0CHXHRjSsJt9yI3tUfRDehjDnCP9ME9QbCqveaFmYnQDA2KkSUIJI4Ew44b_gutAQs2C0yonHlijqzkd2jsEWlewmmUqZ3RFmArVro5XOkUu7a8-0uDJQLCYavv604UaCSBK13uN4UE0nJ3FfHXO4hJaU3E0PSJBKAmqOnvrnAZtjAdDuzKsHP3B-hr_e4xp4FHZ2BIrVN9"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevbdLMlrToWI9F7mI-D94V0UGa1pygwW8K3KPbWvtLKjwYtdJrXcWmijYv8lbzdj-W67WDvly99coYP0Ve_faTDcTCciunfY6vGtf6SbAyval75FwLuq4VZYR2SKwAj3soW3RrdGzHxO60Q02jVSWCIQmYOrfOPNkzyjDwxQ69U4P2EyxjuKZid_Wvoo8V4BJT-6o996M6SHph3LVp10tAYbBsZAw7fNkjH-lgjJ1bf"
         },
         "instagram": {
           "id": "18637175680061694"
@@ -7397,7 +7397,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-27T09:49:24Z",
+      "last_retry_at": "2026-09-27T10:52:57Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -22806,7 +22806,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18030926543893232"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "coSeeyDrazRjvYq_ADlhpEW1JSg",
+          "id": "4tt-fWAWCLk",
+          "snippet": {
+            "publishedAt": "2026-09-27T10:53:43Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Quiet Competence",
+            "description": "Quiet Competence\n\nThe most respected person in any room rarely says a word. Here's why. They simply handle it. Talkers are everywhere. People notice the one who is calm, prepared, and makes no announcement. When something breaks, they don't panic and they don't perform. They fix it and move on. That kind of respect can't be faked, and it can't be bought. It's built one skill at a time, mostly when nobody's watching. Build the skill. Skip the speech.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4tt-fWAWCLk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4tt-fWAWCLk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4tt-fWAWCLk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "competence",
+              "handle",
+              "here's",
+              "most",
+              "person",
+              "quiet",
+              "rarely",
+              "respected",
+              "room",
+              "says",
+              "simply",
+              "word"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Quiet Competence",
+              "description": "Quiet Competence\n\nThe most respected person in any room rarely says a word. Here's why. They simply handle it. Talkers are everywhere. People notice the one who is calm, prepared, and makes no announcement. When something breaks, they don't panic and they don't perform. They fix it and move on. That kind of respect can't be faked, and it can't be bought. It's built one skill at a time, mostly when nobody's watching. Build the skill. Skip the speech.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-27T10:53:45Z"
     },
     {
       "id": "competence_d07",
