@@ -7511,7 +7511,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevEz6nB0oEshzjFItcS_CLbc3pBe_4s9N5KnbpkH4dz7lIfPpr_oEI8qjZ77Ngcjn7ri8EvVs2lOZ8ROuB0w7HeB_8_C6at5mfW4zJqfnumxW27N7K7GRAlSueYx_3o9M_UrKkqwEgHqP24l29TAxpDjtKvOKsTGe_ZZyzYLz6msgTaJGDPZBRBeWQSxuDy1KhQb4BanBU4yJwVDfThQghW_lgSHxec1IAak542keBI"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetrOLmtHKtBoeEM-_nR6EZBHVJ7uP-lowPCmcNAfStR6yA77DNnHkBf7_n0KvIlu11bwd2mXFhzGSR44J5wkCoMacFxIsulBCusYkScXSZbm9PfErC5KV5ko0XpkFHiq2ewzCsBvZZXFbIhaVg9_TfmM6Uk_E6_dDzgc0bJJMXVpaqL9TM-wdrEIbUMuhpvVbk55ai9K31QjfNqwjxZj6KVNlv9nKUMSNt8SaB-4PgI"
         },
         "instagram": {
           "id": "17968095836961816"
@@ -7581,7 +7581,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-28T21:50:47Z",
+      "last_retry_at": "2026-09-28T22:54:22Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -7784,7 +7784,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevvhBAeAErdxgCPXWv39VOsramEx_E9D1HUtARtmAPCUr-v64zVNGU8k3V7vkH93br2GP2kw9hRKY_tjQuRV_lI95qDI1VXSI7maZV53JVurskjohr7FPq7jjMFF46UYlPuNsVb5LHzvfQ8lPCpX6sHm_CuO2hxckOikz7BxS5oX-J1V_F8wR6xFaYlZpv4EGgX1MVFyJ-9BiZb7Y-e7NDGx_T5e6Sc99oF_bv3bY6N"
+        },
+        "instagram": {
+          "id": "17904919206588916"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "DBtPESPnou2-tdSUThw_kWy1RIU",
+          "id": "5eSGF7otTuY",
+          "snippet": {
+            "publishedAt": "2026-09-28T22:55:06Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Small Circle Not From Bitterness â€” From Wisdom. Protect Your Energy. #RunThePlay",
+            "description": "Your circle got small not from bitterness â€” but from wisdom.\n\nChoosing who gets access to you is stewardship.\n\nProtect your energy like your purpose depends on it.\n\nBecause it does.\n\n#SmallCircle #Stewardship #RunThePlay\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/5eSGF7otTuY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/5eSGF7otTuY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/5eSGF7otTuY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "access",
+              "bitterness",
+              "choosing",
+              "circle",
+              "energy",
+              "gets",
+              "like",
+              "protect",
+              "runtheplay",
+              "small",
+              "stewardship",
+              "wisdom"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Small Circle Not From Bitterness â€” From Wisdom. Protect Your Energy. #RunThePlay",
+              "description": "Your circle got small not from bitterness â€” but from wisdom.\n\nChoosing who gets access to you is stewardship.\n\nProtect your energy like your purpose depends on it.\n\nBecause it does.\n\n#SmallCircle #Stewardship #RunThePlay\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-09-28T22:55:08Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "bothwereyou_day1_greatestbattleisinternal",
