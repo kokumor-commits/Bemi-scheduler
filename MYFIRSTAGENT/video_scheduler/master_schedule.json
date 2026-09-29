@@ -7327,7 +7327,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNoZ76oVBkNoIk2ngh0NsnRylL92azhnvIzK467FgG9WBxwxrlMH6W0QzmHQ-a5A44XhC_FhFzxxJIRAf8PYMtPXUkOj0-T9CcqJGboXU8_rfeRUzKkBgVEihSnZBM-knFSgGtUsYKp5G72FbuAJbjxULoRwSfhtDYbY8JKmDxS1PflQAIN1QOBfRC9kXB_z2GzS0Ygo2AMLjI1xTLEAb_tWuhVfCKjKxugwgWpIVX"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet02fEPC03ViNNvbudjS4oVvCbmCcSLgBdesvb_V6UnYZw053ub8_Luoo7FjygZ52za7WA46tzq6oJosB0_90qUiqJPwCY1EgWY0LWb_FWjQkXdrrFm74K89lntiGf1GydbPYpSDPkI6urIIHmVXGDFMeJR7ycutAb3OFQ4glUw5fbllw1GQBcq_ort5_sl3oKslaK2Z1NULRnSBQGFkC4crRo_Z8qNL2s1SVr336uF"
         },
         "instagram": {
           "id": "18637175680061694"
@@ -7397,7 +7397,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-29T10:53:04Z",
+      "last_retry_at": "2026-09-29T10:54:23Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -23117,30 +23117,30 @@
       "done": true,
       "results": {
         "instagram": {
-          "id": "18110210456273519"
+          "id": "18098532647290053"
         },
         "youtube": {
           "kind": "youtube#video",
-          "etag": "A98GnJZnkwWt7qWXqK7hATLgOhc",
-          "id": "wZNqQq3unMs",
+          "etag": "KGBJIf5of7dBj40ODrxI90hX7e8",
+          "id": "nEF-GBilIig",
           "snippet": {
-            "publishedAt": "2026-09-29T10:53:50Z",
+            "publishedAt": "2026-09-29T10:56:04Z",
             "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
             "title": "Skills Over Apps",
             "description": "Skills Over Apps\n\nOur grandparents had something we've quietly lost, and it isn't wisdom. It's skill. Somewhere along the way, we traded ability for convenience. Now we can't fix, cook, build, or repair anything without a screen telling us how. Our grandparents weren't smarter. They just had to know things. Real skill is a kind of freedom, because you're never stuck waiting for someone else to save you. Learn one thing you've always outsourced.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/wZNqQq3unMs/default.jpg",
+                "url": "https://i.ytimg.com/vi/nEF-GBilIig/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/wZNqQq3unMs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nEF-GBilIig/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/wZNqQq3unMs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nEF-GBilIig/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               }
@@ -23178,7 +23178,7 @@
           }
         }
       },
-      "last_retry_at": "2026-09-29T10:53:52Z"
+      "last_retry_at": "2026-09-29T10:56:06Z"
     },
     {
       "id": "competence_d09",
