@@ -7327,7 +7327,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes5Yb6qWta2xgrf68FA_EdXibiehahZi23CNK1lC0BY3cGJLGXzBqDUZqD1X551RFGK3jkzfMA7jgL9UD7yAaL8rmKRUFng_6ILWp8QgnQJ-8xRhwqUmPtVNOKoevWSC0uCYyMHcT3zKTV75qtz81So6OJzryGjjtrf3mw1QkHhhHPHe6xTHnDUbRLuR1vHAfQEzzp3CXPg6tQnXTBwbd5f1HPnOHh3evwhEW9UKr4M"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetl5QRhftz44YkI_C3BCCKPd7E9LTyVxni9ua4u5sfQfs661H1ca6KUM4ccz4k9iVVuvZjkakBN03fuC0fXdqfqOiog9WvucyI_pmHq6ebE85UpP_geOTTyGF8dmedpETJQOFxJx_P39wkjmVLrNjf8ePwkocDyF5OHwyXxLNXaQgkKm18nwYQKNu8CPo2rVd9DgboxFKKs8WJ4AcrOEa5WkQfsDCsk9TyinbkhJEeb"
         },
         "instagram": {
           "id": "18637175680061694"
@@ -7397,7 +7397,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-09-29T09:46:25Z",
+      "last_retry_at": "2026-09-29T10:51:38Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -23114,7 +23114,71 @@
         "instagram",
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "instagram": {
+          "id": "18419365147147053"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "5FB8lKXbuden-Qs04WJdQfQsGOw",
+          "id": "Ym0Xnrn2qIo",
+          "snippet": {
+            "publishedAt": "2026-09-29T10:52:23Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Skills Over Apps",
+            "description": "Skills Over Apps\n\nOur grandparents had something we've quietly lost, and it isn't wisdom. It's skill. Somewhere along the way, we traded ability for convenience. Now we can't fix, cook, build, or repair anything without a screen telling us how. Our grandparents weren't smarter. They just had to know things. Real skill is a kind of freedom, because you're never stuck waiting for someone else to save you. Learn one thing you've always outsourced.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Ym0Xnrn2qIo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Ym0Xnrn2qIo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Ym0Xnrn2qIo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "apps",
+              "grandparents",
+              "isn't",
+              "it's",
+              "lost",
+              "over",
+              "quietly",
+              "skill",
+              "skills",
+              "something",
+              "we've",
+              "wisdom"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Skills Over Apps",
+              "description": "Skills Over Apps\n\nOur grandparents had something we've quietly lost, and it isn't wisdom. It's skill. Somewhere along the way, we traded ability for convenience. Now we can't fix, cook, build, or repair anything without a screen telling us how. Our grandparents weren't smarter. They just had to know things. Real skill is a kind of freedom, because you're never stuck waiting for someone else to save you. Learn one thing you've always outsourced.\n\n#Discipline #PersonalGrowth #Motivation\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-09-29T10:52:25Z"
     },
     {
       "id": "competence_d09",
