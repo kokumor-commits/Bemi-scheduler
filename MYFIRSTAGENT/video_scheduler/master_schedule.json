@@ -8152,7 +8152,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuvx6B6vG3EtMDhmmUyLg5cDvVyKunGe0hSWB_7msnX8xZGo-RUOj_2JFDGVBkoJKzq5pOauaO7P1Groee9pXKMuaRvBrfXqjW-MqyaNTCIEk9MI4-g9oqmiURAxtfegu5FEQNIyIfvgAezuRbKBsaVf_IJ0q-8gSIw60QcbHJ3Js2U1vl6zf2JyHC7TXyH160YIegBtdh7ljuaAmop5GC1O8axXnSxyFWMKPZtmsDh"
+        },
+        "instagram": {
+          "id": "17936927814366030"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "wMK0e3BAkK5VDogeUDOjAFicvxs",
+          "id": "RL729RI3YEY",
+          "snippet": {
+            "publishedAt": "2026-10-02T22:54:46Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Man Who Won The Most Also Failed The Most â€” And That's The Point #Shorts #RunThePlay",
+            "description": "The same man who beat the giant also fell in private.\n\nSame hands. Same heart.\n\nThat's the point â€” you contain both.\n\n#RunThePlay #BothWereYou #Humanity",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/RL729RI3YEY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/RL729RI3YEY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/RL729RI3YEY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "also",
+              "beat",
+              "failed",
+              "fell",
+              "giant",
+              "hands",
+              "most",
+              "point",
+              "private",
+              "runtheplay",
+              "same",
+              "that's"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Man Who Won The Most Also Failed The Most â€” And That's The Point #Shorts #RunThePlay",
+              "description": "The same man who beat the giant also fell in private.\n\nSame hands. Same heart.\n\nThat's the point â€” you contain both.\n\n#RunThePlay #BothWereYou #Humanity"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-02T22:54:48Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "bothwereyou_day5_privatefailuresdonterasevictories",
