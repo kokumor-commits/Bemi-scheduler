@@ -8155,7 +8155,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNeEj45LIK4147mz2MgkxlDhG45rTtPQEs3T8FFuxmay83H2GZaMoA7ymmx1Nxf1hLkWsummFdew1Kq-pOdxiqhegYzViROOM4ctnb3s3DwGDHArt8yjhPYI-2FnZQsx2kMx-hQzfrrMqcUZdsEWchALHflyWm_XBL6rExX7gUO8qpQm0YRajXoUWowlI3Ynx89-0PLEghDu-wNmF2gZ59j15EbWCu_1zPOnsZHijv"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetuy8C8UukqwMJSqngZXjMarjZPgo9yP4ttsc4LjID6t9PrR0P5tlAx0h9h4JKekf_nJQ-pH-E_1KR3640wIBLyrYI8ewZL2H5jtFVfgPfNtMsSyxxZzK_9Cknn3ddmwFjY-z5LwjzDb36k7TX9-NETg2WQJKaxKzlAD0S7u9JNwbbo42muPtoKDhCUIgisdl_MiE9jSzEESfSX3vr4O_rjb7z_5iGuwf_dRMiFnREz"
         },
         "instagram": {
           "id": "17936927814366030"
@@ -8225,7 +8225,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-10-03T21:48:13Z",
+      "last_retry_at": "2026-10-03T22:52:58Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -8244,7 +8244,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev_4PRxPw6o71C2pQIlBY6wCYCvuidR0cz6RD9pO3PY5Zyi3HHFhDvTk7XBQcBuIJIoWuZmApXy0HyWUORof49uI8-FRlwvB88FcHLoI2ffpyu16UkiWgrByEcLV5dcg6OfAt8mtg6Oy_-ddExAKZE6zFZZSgnTYXPeex26AxOo4-KVMsdi5OPmC-ishYbihp9jEYz0ASSLgyxd21BcmCbb7-uV9rMsbdSmbJ8pIgH6"
+        },
+        "instagram": {
+          "id": "18078590006457388"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "fnbXJXxHRV4nXgq0lvvsca31A2Y",
+          "id": "Wn_x94BEIfc",
+          "snippet": {
+            "publishedAt": "2026-10-03T22:53:42Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Private Failures Don't Erase Your Victories â€” But They're Still On The Record #Shorts",
+            "description": "Your private failures don't erase your public victories.\n\nAnd your public victories don't erase your private failures.\n\nBoth are on the record. Both count.\n\n#RunThePlay #BothCount #OwnIt",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Wn_x94BEIfc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Wn_x94BEIfc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Wn_x94BEIfc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "both",
+              "count",
+              "don't",
+              "erase",
+              "failures",
+              "private",
+              "public",
+              "record",
+              "runtheplay",
+              "still",
+              "they're",
+              "victories"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Private Failures Don't Erase Your Victories â€” But They're Still On The Record #Shorts",
+              "description": "Your private failures don't erase your public victories.\n\nAnd your public victories don't erase your private failures.\n\nBoth are on the record. Both count.\n\n#RunThePlay #BothCount #OwnIt"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-03T22:53:44Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "bothwereyou_day6_whatyoudoafterthefall",
