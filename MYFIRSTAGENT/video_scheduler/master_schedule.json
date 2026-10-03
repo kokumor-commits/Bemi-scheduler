@@ -8155,7 +8155,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetuy8C8UukqwMJSqngZXjMarjZPgo9yP4ttsc4LjID6t9PrR0P5tlAx0h9h4JKekf_nJQ-pH-E_1KR3640wIBLyrYI8ewZL2H5jtFVfgPfNtMsSyxxZzK_9Cknn3ddmwFjY-z5LwjzDb36k7TX9-NETg2WQJKaxKzlAD0S7u9JNwbbo42muPtoKDhCUIgisdl_MiE9jSzEESfSX3vr4O_rjb7z_5iGuwf_dRMiFnREz"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeumrSr8KNjzTtUW4FckC9c1ZGMrnQ6gJGmtN1JzhU29jrY6FQJHxq-0uI6mfaqav7pW6NbexFIDaO3zyX5TFLkS3nr7InxuG0gh6nNwHL7hFNUo2atFFOvfai3XV9OLJHU8lA2_My8u_lx99zZrzNK4RX6MHkAolLr9ZKlUm_Z7Y7Dy4aOI1LF2mRJOvp41-JC8zjwVAlEr34J2Itv6oPUt00p7nYG65Zl-hGMtpThM"
         },
         "instagram": {
           "id": "17936927814366030"
@@ -8225,7 +8225,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-10-03T22:52:58Z",
+      "last_retry_at": "2026-10-03T22:54:17Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -8247,33 +8247,33 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev_4PRxPw6o71C2pQIlBY6wCYCvuidR0cz6RD9pO3PY5Zyi3HHFhDvTk7XBQcBuIJIoWuZmApXy0HyWUORof49uI8-FRlwvB88FcHLoI2ffpyu16UkiWgrByEcLV5dcg6OfAt8mtg6Oy_-ddExAKZE6zFZZSgnTYXPeex26AxOo4-KVMsdi5OPmC-ishYbihp9jEYz0ASSLgyxd21BcmCbb7-uV9rMsbdSmbJ8pIgH6"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes3FfiG-YlxcEMrXpcU3f_SxQ4BmEwag0twElIomp1ZH23wlHKtkffqIsGGDKoLiDli1zJ33cW0Gs7my05HZy3tJDxubvF3nno4pTJHjXUjMco2hSHvRk3slSAwWKCzfJmS5RNbyYG0cfl7UHuhGg2s7MDdzEvs-So0tosO-WFwxaR7bvFVEWHEi80bZ6SlfqBFkJ4WlwdKlLndjA0KyYCyJUv8HLMm_r6bdcNRWoZ7"
         },
         "instagram": {
-          "id": "18078590006457388"
+          "id": "17911503174521301"
         },
         "youtube": {
           "kind": "youtube#video",
-          "etag": "fnbXJXxHRV4nXgq0lvvsca31A2Y",
-          "id": "Wn_x94BEIfc",
+          "etag": "EEsiRutElgtUMC04uYyX3lMRdM8",
+          "id": "plnSOKyRhv8",
           "snippet": {
-            "publishedAt": "2026-10-03T22:53:42Z",
+            "publishedAt": "2026-10-03T22:54:49Z",
             "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
             "title": "Your Private Failures Don't Erase Your Victories â€” But They're Still On The Record #Shorts",
             "description": "Your private failures don't erase your public victories.\n\nAnd your public victories don't erase your private failures.\n\nBoth are on the record. Both count.\n\n#RunThePlay #BothCount #OwnIt",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/Wn_x94BEIfc/default.jpg",
+                "url": "https://i.ytimg.com/vi/plnSOKyRhv8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/Wn_x94BEIfc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/plnSOKyRhv8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/Wn_x94BEIfc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/plnSOKyRhv8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               }
@@ -8317,7 +8317,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-10-03T22:53:44Z",
+      "last_retry_at": "2026-10-03T22:54:51Z",
       "retry_platforms": [
         "facebook"
       ]
