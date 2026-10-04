@@ -8336,7 +8336,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuLKYh6j26MYnSiWcKqmVY4bOlLeWmMmqvMR_hxxpK6Wv9zxvH71PlPrMUwB8MKUs8fGHDH0LG3cdM0zjoCCnc23ZoEnAa3qv6BYe6x9jKi3OpkA6AzP94AYRJFV0Lz9zjsXoc3heSeBSQ3mGpe9t0Gm8g0AD2df9zHWeiTnN1JIUECLcLdnouPdMu_mNRxStmtpoVjCGtVABV91R7EA_nLGpdeC9AP1FqQ7D_SN4vO"
+        },
+        "instagram": {
+          "id": "17905850643587548"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "4-jiZIp54RHhbmquTjcT9yOFav4",
+          "id": "tflOBHBghj8",
+          "snippet": {
+            "publishedAt": "2026-10-04T22:51:33Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "What You Do AFTER You Fall Is The Only Thing That Matters #Shorts #RunThePlay",
+            "description": "Falling isn't the defining moment.\n\nWhat you do after the fall is.\n\nEveryone falls. Not everyone gets back up with their soul intact.\n\n#RunThePlay #GetBackUp #AfterTheFall",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/tflOBHBghj8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/tflOBHBghj8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/tflOBHBghj8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "after",
+              "defining",
+              "everyone",
+              "fall",
+              "falling",
+              "falls",
+              "isn't",
+              "matters",
+              "moment",
+              "only",
+              "runtheplay",
+              "thing"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "What You Do AFTER You Fall Is The Only Thing That Matters #Shorts #RunThePlay",
+              "description": "Falling isn't the defining moment.\n\nWhat you do after the fall is.\n\nEveryone falls. Not everyone gets back up with their soul intact.\n\n#RunThePlay #GetBackUp #AfterTheFall"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-04T22:51:34Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "bothwereyou_day7_themirroristherealbattle",
