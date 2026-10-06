@@ -8520,7 +8520,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuKv9FtOqw6Jjstlwcmg5VCm9g23k03Cg-HLqn7ygrggUj_WIa_UQGKeHsUGKr76qT7jqjd5LaAEPGpYIDTXLLYt8Yet9YmrUMWTtVeL2msuG_cJfv9cIHJFUy4oPu-nC1x3bNdIEFTYzdFYJZp_hlo1YCoXYQXPU5zQDaGQKfylfFVGlzX37PKcSDqLopcEnYVmfkwkn2mU7JBF8i4L_4bX7nLKWBYOgSvnUCdYBF4"
+        },
+        "instagram": {
+          "id": "18122133859936576"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "F4tfArpPaBc0TwarhaZgj-B16sM",
+          "id": "C2zhY5K7Crs",
+          "snippet": {
+            "publishedAt": "2026-10-06T22:41:12Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "The Strength Nobody Sees In You Is The Most Real Strength You Have #Shorts #RunThePlay",
+            "description": "Surviving alone â€” with no crowd, no applause, no one to pull you up â€” that's a different kind of strength.\n\nAnd most people never see it in you.\n\nBut it's the realest thing about you.\n\n#RunThePlay #SurvivingAlone #InvisibleStrength",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/C2zhY5K7Crs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/C2zhY5K7Crs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/C2zhY5K7Crs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "alone",
+              "applause",
+              "crowd",
+              "most",
+              "nobody",
+              "pull",
+              "real",
+              "runtheplay",
+              "sees",
+              "strength",
+              "surviving",
+              "that's"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Strength Nobody Sees In You Is The Most Real Strength You Have #Shorts #RunThePlay",
+              "description": "Surviving alone â€” with no crowd, no applause, no one to pull you up â€” that's a different kind of strength.\n\nAnd most people never see it in you.\n\nBut it's the realest thing about you.\n\n#RunThePlay #SurvivingAlone #InvisibleStrength"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-06T22:41:14Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "bothwereyou_day9_yourhardestmomentscount",
