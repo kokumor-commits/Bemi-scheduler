@@ -8612,7 +8612,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevw1sb4qg6AeI8N6DCXFJCf8LSTqaYMsJRFQJAoez8keWWv-P7XB-k32uSnM8Y3WRpaK524CC-5sH6RZ3rbJMOrGibD5oKhgxbIHsk9aiVctrgSS_JZ4Ni7rrsi2RkhxCMJ0vhICQQ696w_GkdQPZkkxsVO6edx1zUScjuW-pKfwjT9_zaRy44_0clRR3IsHxR9fCX7twEVoZptJpbbxTlWkr0sHYvruTdVIEM1wpeR"
+        },
+        "instagram": {
+          "id": "17904738615574176"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "kT5889T0WunEp8AroZuDHbMyryg",
+          "id": "r0GPeHmVluQ",
+          "snippet": {
+            "publishedAt": "2026-10-07T22:41:13Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Hardest Moments Count â€” Even The Ones Nobody Saw #Shorts #RunThePlay",
+            "description": "Some of your hardest moments happened when nobody was watching.\n\nNo witnesses. No recognition. No one to validate the fight.\n\nThey still count.\n\n#RunThePlay #ItStillCounts #SeenByYou",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/r0GPeHmVluQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/r0GPeHmVluQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/r0GPeHmVluQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "count",
+              "even",
+              "happened",
+              "hardest",
+              "moments",
+              "nobody",
+              "ones",
+              "recognition",
+              "runtheplay",
+              "some",
+              "watching",
+              "witnesses"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Hardest Moments Count â€” Even The Ones Nobody Saw #Shorts #RunThePlay",
+              "description": "Some of your hardest moments happened when nobody was watching.\n\nNo witnesses. No recognition. No one to validate the fight.\n\nThey still count.\n\n#RunThePlay #ItStillCounts #SeenByYou"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-07T22:41:15Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "bothwereyou_day10_youareboth",
