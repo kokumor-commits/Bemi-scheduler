@@ -8339,7 +8339,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuCj91COLgJBBsiRN4J-DkWaj6OGx6JLh_DHLYdwCctpVWGRN4AJQZpwht9dIKJ2rDB0jU4YQsx9KZQYhCx6tmFky-5eDM99ay9OuFUorCVR8FyzjrB1SIIgW9ylTpcGCp7ovGsoBanTPpe3AMfUwE1kbOoVqGbE_bCLskuXFSzqGmLKSXaWCFj8BftA_IxFEnKE-EB7wwn0xM37URQU6rftXfSHIoCmejwNWqxjI_H"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevTrIeMlOxTcfXELleoKcdj2q7EwvWEMB6G9kDo-sqT4fG6PMl-wlL_KxpzioE4OabuXMwpZsll9tgX1hM_8yHmpTmGMYvBc0EfHycA9auZpI_vRaDK5YEA5nSJwIk4Y59YAVOL3wuYXDmAAANyWf8C_YZNeqVJ7BvoSXCOCNLFr4qAFXCvJqMwYayBZpRQWeEYRtMWAapNj7OTzyOSVcEXfvwKLj7cZtJP6tDFrnui"
         },
         "instagram": {
           "id": "17905850643587548"
@@ -8409,7 +8409,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-10-08T21:41:35Z",
+      "last_retry_at": "2026-10-08T22:45:16Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -8704,7 +8704,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevvM3NU8O350c80Lz02_zkWUSSYtbQkc5qjve6iHUHn1Qnhwd-S7isibIdKHLZxd2V-9woqmj2LcEg3IXyilwOP_Pclngw5ZY9ADMdWd17xT_vhvpav2B8U6qWo5ic1DMcIkMlpGnDetNlv5ou0va8WwmWSCUCBnpGihtwOohCntMMaFmPo2x6wHwMO7eQTyf2hVtl1GF6gH8CuzG8sdQUZF5Pv04jpfjr-b9N8a6sf"
+        },
+        "instagram": {
+          "id": "17988595989060464"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "TEaiBbD4xyjrJE7JUfffJpLN4CE",
+          "id": "N_f39SCNTHY",
+          "snippet": {
+            "publishedAt": "2026-10-08T22:45:59Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "You Are Both The Giant Slayer And The Man Who Falls â€” Own All Of It #Shorts #RunThePlay",
+            "description": "You are the one who wrote praise through pain.\nYou are the one who fell when no one was watching.\nYou are the one who got back up.\n\nAll of it is you.\n\n#RunThePlay #BothWereYou #AllOfItIsYou",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/N_f39SCNTHY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/N_f39SCNTHY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/N_f39SCNTHY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "back",
+              "both",
+              "falls",
+              "fell",
+              "giant",
+              "pain",
+              "praise",
+              "runtheplay",
+              "slayer",
+              "through",
+              "watching",
+              "wrote"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "You Are Both The Giant Slayer And The Man Who Falls â€” Own All Of It #Shorts #RunThePlay",
+              "description": "You are the one who wrote praise through pain.\nYou are the one who fell when no one was watching.\nYou are the one who got back up.\n\nAll of it is you.\n\n#RunThePlay #BothWereYou #AllOfItIsYou"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-08T22:46:01Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "firstno_day1_norevealseverything",
