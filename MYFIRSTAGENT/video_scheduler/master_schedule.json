@@ -8339,7 +8339,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevaaQUTScgtDG-gIz-jsLVcAYxH-0_2LFmPXVya7yt8FsuInsgI_xelIX2Hk4PooGPNpoLxUMmRvaP3M1TKX9_C-FnU0vxQITbI11PYCC5TzfamunLAcjlzsZt6hWMY3pJpmn7zof_OwfjVgKn1uPe7wcBh87A6M_NDSUmD_O4ZxSuLNQr7M_W5E0cVuoDzJwmfrqddmyLjJ12Jq3eR0k2tU83EVzpOdWa_JVzwbp5T"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetWaxI37jc3nP2SZLQ9dd2f2gkiRkZ_2Yp3E1-qiIAOhQnNeIhQTCbV4s3sj7A8nHB5DMpDBWlKQOD0epFkJFeEqDnbKTHWW3eoCwglk4gmvYPivm1pXxTYuTlf43cepjHMmFkjiUJl2VZeu0kv8rNHL6ahSXnIfZXvrERoav4yH0fWHKlzQOoYlSpqFfJQvexW53gCd7ish2iMAEKfFMV6tYqoH5UXH9lQo4DaMfYY"
         },
         "instagram": {
           "id": "17905850643587548"
@@ -8409,7 +8409,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-10-09T21:36:11Z",
+      "last_retry_at": "2026-10-09T22:40:07Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -8707,7 +8707,7 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUeTn-FSaRTxGwi4KYHegKtw27jJsGJiIM0LYbWPuaNOGlY1tZZXPVwmiAFIa57nJMefLHp8jx-GQ_fzBLTjIDtrh3fvkuL1EhIgMbnMMzEh6EdVowk-ejFfDKF14ldlLqQcuqRx8vsH-cOS7JweUz9SpCUxL4YhV_JUE4mnicPPk4MKqu0wYKKmWWDVx2AFpGh4RloKkgNfbaEYUdoFTqt4cxTAvqMkEmlufiwvG0"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetimSQRuhFDSpFDQYVeo0XsW6jhvDMWvgSt941s9oU_M_abs0kCZ4RjfkvZiI_ibL8zADpoMEzucTmyTGszGzgYpdUNEKyCh8tCSJy4UbfEIoVfuiCj7aobkE_jpy7ByKZpuVJWwcczlwJf_j9A3I-1eDx7G-lq9HDucSxB-IANFhqRcOuu3kYtd-J-wJAmzoNYO0Kzb_Ewxy4Mw28gczQ60eRgeh0-rNWiJ9eCXjJ_"
         },
         "instagram": {
           "id": "17988595989060464"
@@ -8777,7 +8777,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-10-09T21:36:12Z",
+      "last_retry_at": "2026-10-09T22:40:08Z",
       "retry_platforms": [
         "facebook"
       ]
@@ -8796,7 +8796,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu1QMvJ0PvSVDwSbUANmm1G8THP-DrmMDrUHhvds2ALKZojzPC1kfFMjhgW506XK09RVSgH14OausRpQ-mjw6DHhJ0Q4cBH5yhoO0kqHE2ERyWX5SFwSpU4O1cE6TTaSQ1E0PIakmf5ZJV1Q5sjvHTKeJSDQgdN4txDHZFgXw2mWbn2zdkm1_KK8aX5_bLf5K9MR1EVlqF34K0NO5MnqSrh_umOgysuCBXfzVTsnHCh"
+        },
+        "instagram": {
+          "id": "18120189310999365"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "f-SeFukxVgSIKGeTwmIRsu8lkTo",
+          "id": "5cLYTo3lwRU",
+          "snippet": {
+            "publishedAt": "2026-10-09T22:41:13Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "What You Learn When You Say No For The First Time #Shorts #RunThePlay",
+            "description": "You learn a lot about a person by how they react when you finally say no.\n\nNot when things are easy.\n\nWhen the yes stops.\n\n#RunThePlay #SetBoundaries #KnowYourPeople",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/5cLYTo3lwRU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/5cLYTo3lwRU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/5cLYTo3lwRU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "easy",
+              "finally",
+              "first",
+              "knowyourpeople",
+              "learn",
+              "person",
+              "react",
+              "runtheplay",
+              "setboundaries",
+              "stops",
+              "things",
+              "time"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "What You Learn When You Say No For The First Time #Shorts #RunThePlay",
+              "description": "You learn a lot about a person by how they react when you finally say no.\n\nNot when things are easy.\n\nWhen the yes stops.\n\n#RunThePlay #SetBoundaries #KnowYourPeople"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-09T22:41:15Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "firstno_day2_youryesbecametheirguarantee",
