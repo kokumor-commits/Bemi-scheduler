@@ -8980,7 +8980,83 @@
         "tiktok",
         "threads"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "facebook": {
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9FGbTCcqrqET14bqWCVO6wTl6mLaTOJ5HnpemNNn8q6VF_blINdL0H0pTeTV8YHFJVpozO7f3aFrDk-pHIU-LjKRKUDv_hbWsFHJwpz2-543NTIN6eVLNz4YKI4jc71lHWD9CvbHmStqy80TCX77dDqEjc3ym3u3vzpMn4wQgPDZoquTPOJx4Kx_PENa8PbKaKu0QPDENJbpnhBSEdiJ6ljO1YFewSVtbAnyr89b3"
+        },
+        "instagram": {
+          "id": "17906403438597050"
+        },
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "1WeRiWD2b3dHH361Cke-PaqZDqQ",
+          "id": "wpd8hTPLllM",
+          "snippet": {
+            "publishedAt": "2026-10-11T22:41:36Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Being Always Available Doesn't Make You Valued â€” It Makes You Invisible #Shorts #RunThePlay",
+            "description": "Being the one who always shows up, always helps, always bails them out -- doesn't earn you more value.\n\nIt makes you invisible.\n\nPresence without boundaries teaches people to take you for granted.\n\n#RunThePlay #StopOvergiving #SetLimits",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/wpd8hTPLllM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/wpd8hTPLllM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/wpd8hTPLllM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "always",
+              "available",
+              "bails",
+              "being",
+              "doesn't",
+              "helps",
+              "invisible",
+              "make",
+              "makes",
+              "runtheplay",
+              "shows",
+              "valued"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Being Always Available Doesn't Make You Valued â€” It Makes You Invisible #Shorts #RunThePlay",
+              "description": "Being the one who always shows up, always helps, always bails them out -- doesn't earn you more value.\n\nIt makes you invisible.\n\nPresence without boundaries teaches people to take you for granted.\n\n#RunThePlay #StopOvergiving #SetLimits"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not configured — skipping"
+        },
+        "threads": {
+          "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
+        }
+      },
+      "last_retry_at": "2026-10-11T22:41:37Z",
+      "retry_platforms": [
+        "facebook"
+      ]
     },
     {
       "id": "firstno_day4_thefirstnoisdata",
