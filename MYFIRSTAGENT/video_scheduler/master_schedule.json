@@ -8983,33 +8983,33 @@
       "done": true,
       "results": {
         "facebook": {
-          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9FGbTCcqrqET14bqWCVO6wTl6mLaTOJ5HnpemNNn8q6VF_blINdL0H0pTeTV8YHFJVpozO7f3aFrDk-pHIU-LjKRKUDv_hbWsFHJwpz2-543NTIN6eVLNz4YKI4jc71lHWD9CvbHmStqy80TCX77dDqEjc3ym3u3vzpMn4wQgPDZoquTPOJx4Kx_PENa8PbKaKu0QPDENJbpnhBSEdiJ6ljO1YFewSVtbAnyr89b3"
+          "error": "FB reels start 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUOt5VErA9LiGUtOOkNHCxwJgXEyx_xxB4rgWk6ocegfi6YGR6s3rpIKTGiU2muPRxMPvVO6Mk8otbvA0gwgOqPbPKtzeEZzJ09rNwrVEY5EWR28bPf02TKDJN6mYoB2mGkoY6Ey6ChyxxJlPIfTgOSCGPBdJONeMfpwoRaDOE9DDIlmMZPUGVB-1kkdM7P21DNSdTs3LsnCJJNI8I1XN6AR880QaDy-Wu39n9sy5t"
         },
         "instagram": {
-          "id": "17906403438597050"
+          "id": "18112280450336751"
         },
         "youtube": {
           "kind": "youtube#video",
-          "etag": "1WeRiWD2b3dHH361Cke-PaqZDqQ",
-          "id": "wpd8hTPLllM",
+          "etag": "waQQ-I5qon2AiarYnlzSz-wF_PY",
+          "id": "NVXUk6HNzcs",
           "snippet": {
-            "publishedAt": "2026-10-11T22:41:36Z",
+            "publishedAt": "2026-10-11T22:46:14Z",
             "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
             "title": "Being Always Available Doesn't Make You Valued â€” It Makes You Invisible #Shorts #RunThePlay",
             "description": "Being the one who always shows up, always helps, always bails them out -- doesn't earn you more value.\n\nIt makes you invisible.\n\nPresence without boundaries teaches people to take you for granted.\n\n#RunThePlay #StopOvergiving #SetLimits",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/wpd8hTPLllM/default.jpg",
+                "url": "https://i.ytimg.com/vi/NVXUk6HNzcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/wpd8hTPLllM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NVXUk6HNzcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/wpd8hTPLllM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NVXUk6HNzcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               }
@@ -9053,7 +9053,7 @@
           "error": "THREADS_TOKEN/THREADS_USER_ID not configured — skipping"
         }
       },
-      "last_retry_at": "2026-10-11T22:41:37Z",
+      "last_retry_at": "2026-10-11T22:46:16Z",
       "retry_platforms": [
         "facebook"
       ]
