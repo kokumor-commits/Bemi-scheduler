@@ -12,7 +12,71 @@
         "youtube",
         "instagram"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "N2uVtrV0f-E-1dfoPlZAwoli6rE",
+          "id": "AnoqzQzcJhk",
+          "snippet": {
+            "publishedAt": "2026-10-15T15:20:02Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Your Intrusive Thoughts Aren't The Truth",
+            "description": "That dark whisper telling you you're broken? It's not the truth. It's just noise. Most people believe every thought in their head is a fact — but you are not your thoughts. You're the one who notices them. Next time one shows up: notice it, name it, let it move on. The more you fight it, the louder it gets. 💭 Save this for the next time your mind lies to you. #MentalHealthAwareness #IntrusiveThoughts #Mindfulness \n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/AnoqzQzcJhk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/AnoqzQzcJhk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/AnoqzQzcJhk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "aren't",
+              "broken",
+              "dark",
+              "intrusive",
+              "it's",
+              "just",
+              "noise",
+              "telling",
+              "thoughts",
+              "truth",
+              "whisper",
+              "you're"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Your Intrusive Thoughts Aren't The Truth",
+              "description": "That dark whisper telling you you're broken? It's not the truth. It's just noise. Most people believe every thought in their head is a fact — but you are not your thoughts. You're the one who notices them. Next time one shows up: notice it, name it, let it move on. The more you fight it, the louder it gets. 💭 Save this for the next time your mind lies to you. #MentalHealthAwareness #IntrusiveThoughts #Mindfulness \n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        },
+        "instagram": {
+          "id": "18136706749653290"
+        }
+      },
+      "last_retry_at": "2026-10-15T15:20:59Z"
     }
   ]
 }
