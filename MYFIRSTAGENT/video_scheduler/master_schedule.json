@@ -89,7 +89,68 @@
       "platforms": [
         "youtube"
       ],
-      "done": false
+      "done": true,
+      "results": {
+        "youtube": {
+          "kind": "youtube#video",
+          "etag": "TwcBeSo8A7Y9z8ePMM3XF79hNPE",
+          "id": "3IqRRZcMtXU",
+          "snippet": {
+            "publishedAt": "2026-10-16T17:56:24Z",
+            "channelId": "UCj_hZjWURE35Gc99wMl_6UQ",
+            "title": "Not Everyone Deserves Access To You",
+            "description": "Not Everyone Deserves Access To You | Powerful Life Lesson On Boundaries & Self-Worth\n\nMost people give access to the wrong ones — and it costs them their peace, their energy, and their growth. In this video, we break down why your time is limited, why your energy is precious, and why you need to stop giving VIP access to people who treat you like an option.\n\nLearn how to pay attention to patterns instead of promises, build stronger boundaries, and protect your peace without guilt. If you're on a journey of self-improvement, personal growth, or healing, this message is for you.\n\nTopics covered:\n- Setting healthy boundaries\n- Recognizing toxic patterns\n- Protecting your energy\n- Self-worth and self-respect\n- Letting go without resentment\n\nSubscribe for more content on mindset, self-development, and emotional intelligence.\n\n#Shorts",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/3IqRRZcMtXU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/3IqRRZcMtXU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/3IqRRZcMtXU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Bytes & Insights with Rayslater",
+            "tags": [
+              "#Shorts",
+              "access",
+              "boundaries",
+              "deserves",
+              "everyone",
+              "give",
+              "lesson",
+              "life",
+              "most",
+              "people",
+              "powerful",
+              "self",
+              "worth"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Not Everyone Deserves Access To You",
+              "description": "Not Everyone Deserves Access To You | Powerful Life Lesson On Boundaries & Self-Worth\n\nMost people give access to the wrong ones — and it costs them their peace, their energy, and their growth. In this video, we break down why your time is limited, why your energy is precious, and why you need to stop giving VIP access to people who treat you like an option.\n\nLearn how to pay attention to patterns instead of promises, build stronger boundaries, and protect your peace without guilt. If you're on a journey of self-improvement, personal growth, or healing, this message is for you.\n\nTopics covered:\n- Setting healthy boundaries\n- Recognizing toxic patterns\n- Protecting your energy\n- Self-worth and self-respect\n- Letting go without resentment\n\nSubscribe for more content on mindset, self-development, and emotional intelligence.\n\n#Shorts"
+            }
+          },
+          "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "selfDeclaredMadeForKids": false
+          }
+        }
+      },
+      "last_retry_at": "2026-10-16T17:56:26Z"
     }
   ]
 }
